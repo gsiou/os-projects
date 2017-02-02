@@ -1,0 +1,10000 @@
+Burns 1038 1
+Mullen 1005 0
+Vasco 1046 1
+Lin 1018 1
+ -  1091 1
+Iliopoulos 1005 1
+Sotir 1054 1
+Sotir 1045 1
+Fotos 1074 1
+Carver 1081 1
+Vlasopoulos 1005 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1018 1
+Lin 1059 1
+ -  1067 1
+Dolan 1085 1
+Mullen 1054 1
+Vasco 1053 1
+Sotir 1087 1
+Tocci 1020 1
+Branch 1048 1
+Sanna 1038 1
+Nikitas 1042 1
+Burns 1095 1
+Chontos 1013 1
+Fox 1019 1
+ -  1067 1
+ -  1067 1
+Lin 1041 1
+Kallas 1033 1
+Mullen 1058 1
+Mullen 1067 1
+Thoma 1094 1
+ -  1067 1
+Jiang 1067 1
+Jiang 1054 1
+Mullen 1005 1
+ -  1050 0
+Sanna 1066 1
+Mullen 1035 1
+Mullen 1085 1
+ -  1067 1
+ -  1067 1
+Sotir 1089 1
+Sotir 1067 1
+Brandon 1002 1
+Crane 1053 0
+Kappas 1058 1
+Iliopoulos 1067 1
+Mullen 1008 1
+Mullen 1068 0
+Mangas 1067 0
+Mullen 1054 1
+McKinney 1089 1
+Tocci 1079 1
+Jiang 1075 1
+Mullen 1039 1
+Glaros 1067 1
+Vlasopoulos 1077 0
+Mullen 1033 1
+Sotir 1040 1
+Mangas 1093 1
+Glaros 1094 1
+Higgins 1094 1
+Carver 1089 1
+Mullen 1020 1
+ -  1071 1
+Dolan 1064 1
+Jiang 1054 1
+Mitzou 1067 1
+Hernandez 1067 1
+Sanna 1067 1
+Sanna 1020 0
+Mangas 1066 1
+ -  1036 0
+Sanna 1073 1
+Higgins 1020 1
+Crane 1005 1
+Sotir 1005 1
+Mullen 1084 1
+Mullen 1067 1
+Mullen 1067 1
+Sanna 1054 0
+Crane 1067 1
+Branch 1084 1
+Tocci 1067 1
+Sanna 1005 0
+Mullen 1013 1
+Sotir 1082 1
+Mangas 1005 1
+Mullen 1017 0
+Mullen 1085 1
+Sotir 1070 1
+Mullen 1067 1
+Mangas 1052 1
+ -  1020 0
+Mullen 1013 1
+Sotir 1013 1
+Lin 1054 1
+Palmer 1020 1
+Mullen 1026 1
+Vaughn 1005 1
+Iliopoulos 1067 1
+Hurst 1026 0
+Mullen 1032 1
+Vasco 1091 1
+Sanna 1005 1
+Sanna 1054 1
+Lin 1047 1
+Sotir 1067 1
+Sanna 1067 1
+McKinney 1005 1
+Sotir 1083 1
+Mullen 1005 1
+ -  1094 1
+McKinney 1002 1
+Burns 1054 1
+Iliopoulos 1054 1
+Mullen 1078 1
+Sotir 1032 1
+Holden 1083 1
+Mullen 1015 1
+Mullen 1013 1
+Mullen 1005 1
+Melis 1018 1
+Mullen 1069 0
+Sotir 1085 1
+McKinney 1067 1
+Sotir 1002 0
+ -  1046 1
+Sotir 1042 1
+Mitzou 1032 1
+Burns 1046 1
+Melis 1005 1
+Iliopoulos 1048 0
+ -  1067 1
+Sanna 1067 1
+Sotir 1058 1
+Lin 1096 1
+Avramidis 1005 1
+Iliopoulos 1013 1
+Mullen 1067 0
+McKinney 1067 1
+Vasco 1040 1
+Chontos 1054 1
+Burns 1091 1
+Vasco 1081 1
+Sotir 1013 1
+Nikitas 1067 1
+Mullen 1005 1
+Mullen 1005 1
+Jiang 1038 1
+Currin 1067 0
+Sotir 1005 1
+Lin 1067 1
+Mullen 1005 1
+Mullen 1080 1
+McKinney 1067 1
+Sotir 1067 1
+Iliopoulos 1083 1
+Economos 1013 0
+ -  1067 1
+Lin 1013 1
+Mullen 1067 1
+ -  1067 1
+Sotir 1039 1
+Mullen 1054 1
+ -  1045 1
+Burns 1015 1
+Mullen 1091 1
+Mullen 1005 1
+Mullen 1013 1
+Mullen 1068 0
+Nikitas 1067 1
+Mullen 1047 1
+Mullen 1067 1
+ -  1005 1
+Silverman 1078 1
+Lin 1005 1
+ -  1067 1
+Mullen 1067 1
+Lin 1067 1
+ -  1091 1
+Mullen 1033 1
+Mullen 1005 1
+Carver 1085 1
+Sotir 1067 1
+Chen 1020 0
+Iliopoulos 1067 0
+Iliopoulos 1058 0
+Mullen 1094 1
+Sanna 1060 1
+Vlasopoulos 1091 1
+Mullen 1078 1
+Hurst 1094 0
+Mullen 1054 1
+ -  1005 1
+Mullen 1032 1
+Mitzou 1067 1
+ -  1067 1
+Mullen 1082 1
+Mullen 1002 1
+ -  1016 1
+Mullen 1067 1
+Mullen 1067 1
+Iliopoulos 1015 1
+Burns 1059 1
+Sotir 1005 1
+Vasco 1067 1
+Mullen 1067 1
+Sanna 1060 1
+Mullen 1078 1
+Jiang 1094 0
+Sanna 1020 1
+Chontos 1049 1
+Iliopoulos 1018 1
+Mitzou 1015 1
+Sanna 1091 1
+Sotir 1054 1
+Mullen 1067 1
+Burns 1002 0
+Mullen 1058 1
+Mullen 1067 0
+Palmer 1013 1
+McKinney 1002 0
+ -  1022 1
+Palmer 1033 1
+Mullen 1005 1
+Mullen 1067 1
+ -  1054 0
+Iliopoulos 1013 0
+Dolan 1010 1
+Sotir 1002 1
+Mullen 1067 1
+Mullen 1013 1
+ -  1028 0
+Chontos 1067 1
+Mitzou 1054 1
+Sotir 1002 1
+ -  1067 1
+Sanna 1005 1
+Deal 1020 1
+Lin 1054 1
+Iliopoulos 1067 1
+Iliopoulos 1005 1
+Sotir 1015 1
+Mullen 1067 1
+McKinney 1054 1
+Jiang 1005 1
+Mullen 1018 1
+Sanna 1054 1
+McKinney 1005 1
+Hernandez 1063 1
+Jiang 1078 1
+Sotir 1067 1
+Mullen 1072 1
+Sotir 1007 1
+Lin 1089 1
+Denton 1054 1
+McKinney 1054 1
+ -  1013 1
+Mullen 1067 1
+Sanna 1067 1
+Kallas 1079 1
+Mullen 1005 1
+Sotir 1033 1
+ -  1094 1
+McKinney 1005 1
+Mullen 1005 1
+Mullen 1067 1
+ -  1067 1
+Sanna 1005 1
+Sotir 1063 1
+Mullen 1076 1
+Mullen 1005 1
+Iliopoulos 1085 0
+Mullen 1020 1
+ -  1094 1
+Sotir 1089 1
+Mullen 1060 1
+Lin 1067 0
+ -  1005 1
+Sotir 1095 1
+ -  1094 1
+Sotir 1032 1
+Fox 1007 1
+Mitzou 1005 1
+Mullen 1055 1
+Currin 1049 1
+Vaughn 1053 1
+Mangas 1054 1
+Sotir 1067 1
+ -  1005 1
+Sotir 1005 1
+Lin 1067 1
+Mullen 1005 1
+Mullen 1005 1
+ -  1067 0
+Glaros 1079 1
+Mullen 1077 0
+Jiang 1067 0
+Sotir 1030 1
+Mullen 1067 1
+Mullen 1066 1
+Mullen 1054 1
+Mullen 1013 0
+Sotir 1067 1
+Fox 1067 0
+Fox 1089 1
+Mullen 1005 1
+Vasco 1067 1
+ -  1067 1
+Sanna 1056 1
+Sotir 1005 1
+Mangas 1018 1
+Chontos 1013 1
+Mullen 1018 1
+ -  1054 1
+Mullen 1067 0
+Fox 1067 1
+Sotir 1054 1
+Burns 1097 1
+Vaughn 1015 1
+Mullen 1007 1
+Fotos 1052 1
+ -  1020 1
+Deal 1094 1
+Tocci 1078 1
+ -  1067 1
+Sotir 1067 0
+Mullen 1032 1
+ -  1031 1
+Mullen 1054 1
+Mullen 1054 1
+Mullen 1067 1
+Mullen 1067 0
+Mullen 1013 1
+Mullen 1096 1
+Glaros 1067 1
+Dolan 1005 1
+Mullen 1015 1
+Palmer 1054 0
+Mullen 1067 1
+Crane 1053 1
+Sotir 1067 1
+Lin 1013 1
+Mullen 1054 1
+Mullen 1078 1
+Mangas 1085 1
+Mullen 1005 0
+Mullen 1054 1
+ -  1092 1
+Mullen 1005 1
+Burgess 1067 1
+ -  1094 1
+Sotir 1091 1
+Lin 1067 1
+Lin 1074 1
+Lin 1020 1
+Sotir 1013 1
+Mullen 1026 1
+Mullen 1091 1
+Sotir 1072 1
+Holden 1054 1
+Lin 1067 1
+Vaughn 1067 1
+Mitzou 1054 1
+Sanna 1052 1
+Sotir 1058 1
+Mitzou 1081 1
+Mullen 1099 1
+ -  1085 0
+Mullen 1033 1
+Burns 1067 0
+Kazan 1067 1
+Sotir 1067 1
+ -  1023 1
+Sotir 1048 1
+Mullen 1067 1
+Mullen 1010 1
+Lin 1067 0
+Kazan 1067 1
+Mullen 1046 1
+Sotir 1008 1
+Iliopoulos 1054 0
+Sotir 1067 1
+Mullen 1015 1
+Tocci 1049 0
+Mullen 1078 1
+ -  1054 0
+Lin 1054 1
+Sotir 1015 0
+Mitzou 1067 0
+Iliopoulos 1030 1
+Mullen 1005 1
+Sotir 1049 0
+Zanni 1067 1
+ -  1053 1
+Mullen 1018 1
+Mullen 1013 1
+Sanna 1091 1
+Iliopoulos 1005 1
+ -  1091 1
+Mullen 1067 1
+Carver 1089 0
+Sanna 1042 1
+Lin 1005 1
+McKinney 1094 0
+ -  1032 1
+Iliopoulos 1014 1
+Economos 1020 0
+Sotir 1033 1
+Mullen 1094 1
+Mullen 1094 1
+Sotir 1005 1
+Vasco 1032 1
+Jiang 1002 1
+Vlasopoulos 1067 1
+Kidd 1080 1
+Vasco 1094 1
+Jiang 1069 1
+Mullen 1005 1
+Mullen 1067 0
+Mullen 1063 1
+Economos 1040 1
+Nikitas 1085 0
+Mullen 1067 1
+Denton 1091 1
+Mullen 1049 1
+Mullen 1005 1
+Vasco 1005 0
+Glaros 1018 1
+Sotir 1054 1
+Mullen 1067 1
+Iliopoulos 1086 1
+Deal 1054 1
+Mitzou 1067 1
+Sotir 1067 1
+Sotir 1067 1
+Iliopoulos 1054 1
+Mullen 1067 1
+Palmer 1020 1
+ -  1033 1
+ -  1067 1
+ -  1064 1
+Mullen 1013 1
+Deal 1013 1
+Mullen 1018 1
+Tocci 1005 1
+Lin 1094 1
+Lin 1067 1
+Iliopoulos 1048 1
+Mullen 1067 1
+Iliopoulos 1002 1
+Mullen 1067 1
+ -  1067 1
+ -  1090 0
+Mangas 1020 1
+ -  1050 1
+Burgess 1094 1
+Mullen 1005 1
+ -  1002 1
+Sanna 1067 0
+Burns 1005 1
+Spears 1013 1
+Sanna 1015 1
+Burns 1015 1
+Sanna 1067 1
+Sotir 1067 0
+Mullen 1091 1
+Burns 1021 1
+McKinney 1005 1
+ -  1084 1
+Mullen 1020 1
+Nikitas 1015 0
+ -  1067 1
+Sanna 1091 0
+Avramidis 1003 1
+Sotir 1067 1
+Mullen 1013 1
+Deal 1002 1
+Mitzou 1066 1
+Iliopoulos 1005 1
+Mullen 1056 1
+Iliopoulos 1005 1
+Deal 1094 1
+Mullen 1067 1
+Mullen 1005 1
+Lin 1078 1
+Sotir 1054 0
+Mullen 1085 1
+Thoma 1094 0
+Sotir 1015 0
+Mullen 1005 1
+Mullen 1020 1
+Mullen 1054 1
+Sotir 1085 1
+Mullen 1067 0
+ -  1067 1
+Sanna 1097 1
+Jiang 1005 1
+Mullen 1022 1
+Crane 1002 1
+Lin 1011 1
+Lin 1067 1
+ -  1065 1
+Lin 1052 1
+Mullen 1039 1
+Sanna 1091 1
+Mullen 1091 1
+Nikitas 1047 1
+ -  1093 1
+Mullen 1054 1
+McKinney 1005 0
+Mullen 1032 1
+Mullen 1067 0
+Kefalas 1067 1
+Sanna 1067 1
+Brandon 1054 1
+Sanna 1074 1
+Sotir 1067 1
+ -  1068 1
+ -  1025 1
+McKinney 1005 1
+Mullen 1054 1
+Sotir 1020 1
+Sanna 1067 1
+Iliopoulos 1033 1
+Iliopoulos 1078 1
+Mullen 1013 1
+Mullen 1095 1
+Iliopoulos 1095 1
+Daniels 1067 1
+Mullen 1049 1
+Mangas 1067 1
+Sanna 1018 1
+Iliopoulos 1005 1
+Mullen 1094 0
+Iliopoulos 1005 1
+Thoma 1067 1
+Mullen 1094 0
+ -  1094 1
+ -  1054 0
+Sanna 1067 1
+McKinney 1008 0
+Crane 1067 1
+Mullen 1005 1
+Burgess 1013 1
+Sotir 1005 1
+Sotir 1064 1
+Mullen 1094 1
+Mullen 1013 1
+Mitzou 1063 1
+Sotir 1067 1
+Vasco 1067 0
+Sanna 1091 1
+Iliopoulos 1067 1
+Sotir 1054 0
+Sanna 1094 1
+Sotir 1013 1
+Iliopoulos 1054 1
+Mullen 1032 1
+Mullen 1013 0
+Holden 1008 1
+Mullen 1094 1
+Hernandez 1067 1
+McKinney 1054 1
+Brandon 1020 1
+Mullen 1076 1
+Vlasopoulos 1018 1
+Mitzou 1007 1
+ -  1085 1
+Carver 1091 1
+ -  1058 1
+Iliopoulos 1005 1
+Iliopoulos 1052 0
+Holden 1007 1
+Hernandez 1080 1
+Sotir 1067 0
+Mullen 1067 1
+Burns 1005 1
+Mullen 1015 0
+Mullen 1054 1
+Mullen 1058 1
+Sotir 1067 1
+Carver 1067 1
+Mullen 1056 1
+Kidd 1091 1
+ -  1085 1
+Melis 1020 1
+Sotir 1005 1
+Sotir 1067 1
+ -  1067 1
+Sanna 1018 1
+ -  1017 0
+Mullen 1065 1
+Burns 1067 1
+Mitzou 1067 1
+Sanna 1067 1
+Fox 1067 1
+Fox 1047 1
+Mullen 1094 1
+ -  1028 1
+Deal 1032 1
+Mullen 1067 1
+Lin 1005 1
+Mullen 1067 1
+Sotir 1038 1
+Sotir 1067 1
+Mullen 1005 1
+Sotir 1038 1
+Sotir 1073 1
+Sotir 1054 1
+ -  1015 1
+Mullen 1054 1
+Glaros 1005 0
+ -  1076 1
+Mullen 1005 1
+Mullen 1067 1
+Lin 1067 1
+Mullen 1054 1
+Crane 1091 1
+Sotir 1054 1
+Lin 1038 0
+Deal 1005 1
+Mullen 1095 1
+Mullen 1091 1
+Iliopoulos 1005 1
+ -  1046 1
+Mullen 1067 1
+ -  1085 1
+Sotir 1036 1
+Sotir 1005 0
+Lin 1015 1
+Sotir 1096 1
+Burns 1067 1
+Lin 1079 1
+Glaros 1067 0
+Sanna 1036 1
+Mullen 1046 0
+ -  1005 1
+Sotir 1038 1
+Sanna 1005 1
+Fox 1008 1
+Lin 1082 0
+Vaughn 1054 1
+Iliopoulos 1094 1
+Iliopoulos 1020 1
+Jiang 1038 1
+Sotir 1005 1
+Mitzou 1005 1
+Vaughn 1085 1
+Nikitas 1005 1
+Mullen 1067 1
+ -  1051 1
+Mullen 1077 0
+Sotir 1005 1
+Iliopoulos 1067 1
+Sotir 1067 1
+Jiang 1054 1
+Mullen 1054 1
+Mullen 1067 1
+Burgess 1005 1
+Iliopoulos 1058 1
+Vasco 1013 1
+ -  1058 1
+Sanna 1005 1
+ -  1067 1
+Sotir 1005 1
+Mullen 1067 1
+ -  1032 1
+Mullen 1006 1
+Lin 1067 1
+Vaughn 1067 0
+Vlasopoulos 1002 1
+Mullen 1091 1
+Mullen 1046 1
+Mullen 1080 1
+Mullen 1067 1
+Holden 1023 1
+Sanna 1015 1
+Kallas 1002 1
+Burns 1067 1
+Mullen 1037 1
+Mullen 1067 0
+Mullen 1067 1
+Burns 1016 1
+Mullen 1020 1
+ -  1067 1
+Sotir 1054 1
+Burns 1094 1
+Tocci 1067 1
+Sotir 1005 1
+Iliopoulos 1026 1
+Sotir 1022 1
+Sotir 1005 1
+Mangas 1012 1
+Sotir 1005 1
+Mullen 1005 1
+Mullen 1004 0
+Sotir 1043 1
+Iliopoulos 1067 1
+Sotir 1067 1
+Burns 1067 1
+Mullen 1020 1
+Fox 1002 1
+Iliopoulos 1052 1
+Sotir 1027 1
+Vasco 1020 1
+ -  1067 1
+ -  1067 1
+Mullen 1067 1
+Vasco 1082 1
+Chen 1073 1
+ -  1005 1
+Mullen 1054 1
+Iliopoulos 1054 1
+ -  1018 1
+Currin 1067 1
+Mullen 1054 1
+Glaros 1070 1
+Mullen 1073 0
+Branch 1059 1
+Vasco 1067 0
+Mullen 1054 1
+Burns 1078 1
+ -  1026 1
+ -  1091 0
+ -  1005 1
+Sotir 1060 1
+Glaros 1091 1
+Palmer 1094 0
+Sotir 1067 1
+Sanna 1015 0
+Sanna 1078 1
+Burns 1018 1
+Mullen 1013 1
+Mullen 1002 1
+Iliopoulos 1005 1
+Sotir 1094 1
+Mullen 1067 0
+Kefalas 1067 1
+Dolan 1026 1
+Mullen 1070 1
+Mullen 1096 1
+Mullen 1067 1
+Sotir 1067 1
+Sotir 1054 1
+Mullen 1056 1
+Sotir 1067 1
+Jiang 1039 1
+ -  1015 0
+Sanna 1067 0
+Jiang 1069 1
+Sotir 1018 1
+Mullen 1054 1
+Mullen 1072 1
+ -  1033 1
+Mullen 1020 1
+Burns 1067 1
+Hurst 1013 1
+Mullen 1011 0
+Mullen 1038 1
+McKinney 1067 1
+Iliopoulos 1046 1
+ -  1054 1
+Vasco 1067 0
+Nikitas 1054 1
+Mullen 1094 1
+Economos 1070 1
+Iliopoulos 1049 1
+McKinney 1002 1
+Mullen 1067 0
+Kappas 1054 1
+Mullen 1050 1
+Mullen 1058 1
+ -  1013 1
+Palmer 1054 1
+Sanna 1059 1
+Mullen 1067 1
+Sotir 1067 1
+Sanna 1018 1
+Mullen 1050 1
+Mullen 1012 1
+McKinney 1079 1
+Hernandez 1080 1
+Mullen 1015 1
+Hernandez 1033 1
+Mullen 1018 1
+ -  1067 1
+Sotir 1005 1
+Kidd 1067 1
+Denton 1067 1
+Mullen 1007 1
+Mullen 1067 1
+Mullen 1078 1
+Sanna 1058 1
+ -  1054 1
+McKinney 1016 1
+Mitzou 1005 1
+Kelly 1067 0
+Sanna 1067 0
+ -  1005 0
+Mullen 1046 1
+Mullen 1005 1
+Mullen 1008 1
+Palmer 1067 1
+Tocci 1054 1
+Sotir 1046 1
+ -  1046 1
+Sotir 1067 1
+Sotir 1067 1
+Lin 1038 0
+Mullen 1026 1
+Sotir 1061 1
+Hurst 1058 1
+Tocci 1073 1
+Dolan 1015 1
+Mullen 1067 1
+ -  1074 1
+Sotir 1020 1
+Mitzou 1034 1
+McKinney 1056 1
+Iliopoulos 1013 1
+Sotir 1040 1
+Chontos 1091 1
+Iliopoulos 1054 1
+ -  1067 1
+Sanna 1037 1
+Mullen 1067 1
+Iliopoulos 1005 1
+Mitzou 1068 0
+Lin 1023 1
+Lin 1054 1
+McKinney 1067 1
+Sotir 1020 1
+ -  1025 1
+Sanna 1094 1
+ -  1054 1
+ -  1015 1
+Mullen 1067 1
+Mullen 1038 1
+McKinney 1067 1
+Hurst 1063 1
+ -  1067 0
+Currin 1052 1
+Mullen 1033 1
+Mullen 1040 1
+Sotir 1094 1
+Burgess 1091 1
+Mullen 1052 1
+ -  1079 1
+Carver 1040 1
+Lin 1067 1
+Mullen 1067 1
+Avramidis 1067 0
+ -  1018 1
+ -  1013 1
+Lin 1067 1
+Sotir 1045 1
+Economos 1067 1
+Jiang 1005 1
+Sanna 1012 1
+Mullen 1055 1
+Lin 1088 1
+Brandon 1005 1
+Burns 1005 1
+Mullen 1001 1
+Vasco 1067 1
+Sotir 1013 1
+ -  1067 1
+Mullen 1046 0
+Sotir 1041 1
+ -  1093 1
+Sanna 1067 1
+Hurst 1011 1
+Deal 1037 1
+McKinney 1046 1
+Mullen 1056 1
+ -  1075 1
+Sotir 1067 0
+ -  1049 1
+Brandon 1008 1
+Jiang 1067 1
+Sanna 1054 1
+Sotir 1067 1
+Dolan 1052 1
+Mullen 1005 1
+Mullen 1018 1
+Lin 1048 1
+Brandon 1005 1
+ -  1094 1
+Glaros 1067 1
+Glaros 1067 1
+ -  1005 1
+Nikitas 1094 1
+Iliopoulos 1054 1
+Jiang 1062 1
+ -  1081 1
+Lin 1067 1
+Mullen 1054 1
+Mullen 1011 1
+ -  1012 1
+Mullen 1005 1
+Mullen 1020 0
+Vaughn 1054 1
+Mullen 1054 1
+Mitzou 1053 1
+Jiang 1060 1
+Sotir 1046 0
+Palmer 1076 1
+Mullen 1005 1
+Mullen 1083 0
+Mullen 1048 1
+Sotir 1031 0
+ -  1013 0
+Vasco 1053 1
+ -  1020 1
+Sotir 1040 1
+Tocci 1054 1
+Mullen 1094 1
+Sotir 1043 1
+Vasco 1020 1
+Vasco 1095 1
+Mullen 1054 1
+Mullen 1054 1
+Burns 1067 1
+Jiang 1005 1
+Spears 1067 1
+ -  1052 0
+Jiang 1038 0
+Tocci 1005 1
+Iliopoulos 1067 1
+Mullen 1058 0
+Carver 1067 1
+ -  1042 1
+Sanna 1046 0
+Chontos 1005 1
+Burgess 1067 1
+Lin 1026 0
+Mitzou 1018 1
+Iliopoulos 1054 1
+Sotir 1054 1
+Mullen 1054 1
+Kappas 1042 1
+ -  1017 1
+ -  1069 1
+ -  1085 1
+Mullen 1007 1
+Sotir 1067 1
+Vlasopoulos 1086 1
+Economos 1048 1
+Sotir 1005 1
+Mullen 1026 1
+Sanna 1020 1
+Melis 1067 1
+Sanna 1020 1
+Sotir 1005 1
+Lin 1067 1
+Mullen 1054 1
+Burns 1015 1
+Mullen 1005 0
+Fox 1040 1
+Mullen 1013 1
+Mitzou 1078 1
+Jiang 1067 1
+McKinney 1058 0
+Sotir 1013 1
+Iliopoulos 1067 1
+Mitzou 1013 1
+Glaros 1013 1
+Mitzou 1098 1
+Mullen 1052 1
+Mullen 1094 1
+ -  1005 1
+Mullen 1067 1
+Lin 1002 1
+Lin 1042 1
+Mullen 1094 0
+Chen 1005 1
+ -  1035 1
+Mullen 1020 1
+Mullen 1005 1
+ -  1049 1
+Hernandez 1067 1
+Fotos 1064 1
+Silverman 1054 1
+Mullen 1054 1
+Mullen 1013 1
+Zanni 1042 1
+Mullen 1005 0
+Sanna 1067 1
+Mullen 1050 0
+Vasco 1085 1
+Thoma 1026 1
+Hernandez 1022 0
+Mullen 1091 1
+Brandon 1000 1
+Kappas 1020 1
+Vasco 1005 1
+Burgess 1094 1
+Higgins 1005 1
+Mullen 1079 1
+Deal 1067 1
+Glaros 1005 1
+Mullen 1080 1
+Sotir 1005 1
+Mullen 1094 1
+Vasco 1020 1
+Sotir 1020 1
+Lin 1067 1
+Nikitas 1094 1
+Mullen 1020 1
+Sanna 1005 1
+Mullen 1067 1
+ -  1082 1
+Mullen 1094 1
+Mullen 1031 1
+ -  1054 1
+Sanna 1013 0
+Sotir 1018 1
+Marsh 1013 1
+Economos 1067 1
+Mullen 1073 1
+Sotir 1091 1
+Brandon 1060 1
+Glaros 1054 1
+Mullen 1067 1
+Sanna 1094 1
+Sotir 1095 1
+Sotir 1005 0
+Tocci 1094 1
+Chontos 1054 1
+Vasco 1054 1
+Fox 1013 1
+ -  1068 1
+ -  1094 1
+Sotir 1005 1
+Melis 1094 1
+Nikitas 1067 0
+Kazan 1054 0
+Lin 1013 1
+Tocci 1089 1
+ -  1069 1
+Sanna 1080 1
+McKinney 1067 1
+Sotir 1005 1
+Sotir 1067 1
+Denton 1040 1
+ -  1045 1
+Sanna 1018 1
+Fox 1004 1
+Sotir 1067 1
+Sotir 1067 1
+Mullen 1025 1
+Mullen 1091 1
+Mullen 1094 1
+Vasco 1073 1
+Burns 1022 1
+Mullen 1017 1
+Mullen 1094 1
+Jiang 1034 0
+Mullen 1067 1
+Burgess 1067 1
+Vasco 1067 0
+Sotir 1067 0
+Mullen 1094 1
+McKinney 1088 1
+Lin 1094 1
+Sotir 1022 1
+Sotir 1008 1
+Sotir 1020 1
+ -  1005 0
+Burgess 1067 1
+Vaughn 1018 0
+Avramidis 1018 1
+Vasco 1099 1
+Vaughn 1067 1
+Mullen 1067 1
+Thoma 1054 0
+Nikitas 1005 1
+Mullen 1067 0
+McKinney 1067 1
+Sanna 1054 1
+Mullen 1067 1
+Sanna 1005 1
+Mullen 1094 1
+Mullen 1097 1
+Sotir 1094 1
+Iliopoulos 1067 1
+Mullen 1095 1
+Mitzou 1067 1
+ -  1080 1
+ -  1032 1
+Sanna 1026 1
+Mitzou 1005 0
+Mullen 1005 1
+Jiang 1067 1
+Sanna 1094 1
+Mullen 1028 1
+ -  1094 1
+Lin 1094 0
+Lin 1067 1
+Kelly 1030 1
+Mitzou 1018 1
+Sanna 1078 1
+Sotir 1091 1
+Mullen 1035 1
+McKinney 1022 1
+Chontos 1005 1
+ -  1067 1
+Sanna 1018 1
+Mullen 1067 0
+Kappas 1067 1
+Sanna 1054 1
+Sotir 1026 1
+Deal 1052 1
+Mullen 1078 1
+Crane 1088 0
+Sotir 1046 1
+Sotir 1077 1
+Sanna 1067 1
+Burgess 1015 1
+Mullen 1054 1
+Mullen 1015 1
+ -  1067 1
+Brandon 1067 1
+Vasco 1080 1
+ -  1067 1
+McKinney 1081 1
+Hernandez 1005 0
+Iliopoulos 1067 1
+Kazan 1005 1
+Sanna 1022 1
+Mullen 1020 1
+Sanna 1015 1
+Mullen 1018 1
+Glaros 1046 1
+Mullen 1094 1
+Mullen 1067 1
+Nikitas 1043 1
+Mullen 1094 1
+Sotir 1042 1
+Sanna 1046 1
+Sanna 1007 1
+ -  1076 1
+Mullen 1005 1
+Sotir 1012 1
+ -  1002 1
+ -  1043 0
+Sanna 1067 1
+ -  1052 1
+Mullen 1079 1
+Mullen 1005 1
+Palmer 1099 1
+Sanna 1096 1
+Kazan 1088 1
+Sotir 1026 0
+ -  1005 0
+Lin 1035 1
+Lin 1091 1
+ -  1094 0
+Lin 1065 1
+Mullen 1015 1
+Tocci 1062 0
+ -  1032 1
+ -  1052 1
+Iliopoulos 1013 1
+Chontos 1005 1
+Sotir 1054 1
+Mullen 1005 1
+ -  1063 1
+ -  1026 1
+Sotir 1090 0
+ -  1002 1
+Fox 1067 0
+Mullen 1079 1
+Sotir 1067 1
+ -  1094 1
+Sotir 1067 1
+Sotir 1015 1
+Lin 1002 0
+Vlasopoulos 1002 1
+Sanna 1020 1
+Mullen 1005 1
+Sanna 1068 1
+Mullen 1079 1
+Sotir 1094 1
+Sanna 1005 1
+Mangas 1027 1
+Avramidis 1044 1
+Nikitas 1085 1
+Mullen 1013 1
+Mullen 1017 1
+Mullen 1067 1
+Mitzou 1085 1
+Chen 1020 1
+Lin 1054 1
+Kidd 1005 1
+Mullen 1078 1
+Mullen 1060 1
+Melis 1067 0
+Iliopoulos 1054 1
+Sotir 1038 1
+Tocci 1047 1
+Hernandez 1067 1
+Vaughn 1005 0
+Sanna 1002 1
+Deal 1020 1
+Mullen 1005 0
+Mullen 1094 0
+Mullen 1060 1
+Mullen 1002 0
+Sotir 1020 1
+Silverman 1005 1
+Sanna 1067 1
+ -  1036 1
+Hernandez 1042 1
+Glaros 1082 0
+Sanna 1089 1
+Sotir 1024 1
+Mullen 1048 1
+Lin 1067 1
+ -  1067 1
+Lin 1094 1
+Marsh 1091 0
+Mullen 1005 1
+Mullen 1091 1
+ -  1067 1
+Sotir 1067 1
+Mullen 1057 1
+Mullen 1020 1
+Mullen 1020 1
+Sotir 1022 1
+ -  1067 1
+Mullen 1067 1
+Mullen 1005 1
+Sanna 1005 1
+Holden 1067 1
+Sotir 1050 0
+Mullen 1040 1
+Fox 1005 0
+Mullen 1020 0
+Nikitas 1067 1
+Burns 1049 1
+McKinney 1005 0
+ -  1078 1
+Mullen 1032 1
+Mullen 1018 1
+Mullen 1005 1
+ -  1040 1
+Sanna 1091 1
+Kallas 1005 1
+ -  1054 1
+Sanna 1081 1
+Sanna 1054 0
+Mullen 1054 1
+Palmer 1093 0
+Lin 1067 0
+Mitzou 1005 1
+Iliopoulos 1067 1
+Kappas 1005 1
+Hernandez 1059 1
+ -  1054 1
+Mullen 1005 1
+Mullen 1032 1
+Lin 1020 1
+Mullen 1029 1
+Mullen 1080 0
+Sotir 1050 1
+McKinney 1005 1
+Vasco 1015 0
+Mitzou 1067 1
+Silverman 1040 1
+Vasco 1072 1
+Dolan 1067 1
+Mullen 1058 1
+Iliopoulos 1067 1
+Sotir 1080 1
+Iliopoulos 1034 0
+Mullen 1046 0
+Mullen 1082 1
+Nikitas 1091 1
+ -  1067 1
+Mullen 1028 1
+Vlasopoulos 1067 1
+Mullen 1046 1
+Mullen 1079 1
+Mullen 1067 1
+Hernandez 1054 1
+Sanna 1064 1
+Lin 1067 1
+ -  1067 1
+Lin 1074 1
+Vasco 1089 1
+Sanna 1067 1
+Mullen 1057 1
+Marsh 1013 1
+Sotir 1018 1
+Burgess 1094 1
+Vasco 1005 1
+Vaughn 1049 1
+Fox 1085 1
+Sotir 1060 1
+Hernandez 1020 1
+ -  1067 1
+McKinney 1067 1
+Marsh 1049 1
+Mullen 1032 1
+Mitzou 1067 1
+Glaros 1005 1
+Mullen 1061 1
+Marsh 1005 1
+Currin 1085 1
+Silverman 1005 1
+McKinney 1026 1
+ -  1067 1
+Sotir 1078 1
+Kappas 1075 1
+Iliopoulos 1078 1
+Sanna 1067 1
+Vlasopoulos 1067 1
+Iliopoulos 1063 1
+Marsh 1091 1
+ -  1062 1
+Burns 1067 0
+Mitzou 1075 1
+Lin 1020 1
+Sotir 1067 1
+Sotir 1067 1
+Sotir 1002 1
+Deal 1067 0
+McKinney 1058 1
+Kefalas 1020 1
+McKinney 1070 0
+Mullen 1060 1
+Glaros 1079 1
+Mullen 1094 1
+Sotir 1067 1
+Mullen 1056 1
+Iliopoulos 1067 1
+McKinney 1067 1
+McKinney 1067 0
+Sanna 1067 1
+Mullen 1094 0
+Kidd 1025 1
+Glaros 1032 1
+Sotir 1095 1
+Mullen 1067 1
+Kelly 1054 0
+Heath 1007 1
+Vasco 1013 1
+Sanna 1038 1
+Vaughn 1060 1
+Mullen 1091 1
+Vasco 1067 1
+Sanna 1067 1
+ -  1048 0
+Sotir 1067 1
+Sotir 1067 1
+Mitzou 1058 1
+Chontos 1005 1
+Mullen 1020 1
+Sotir 1005 1
+ -  1067 1
+Burns 1067 1
+Holden 1054 0
+Mullen 1094 1
+Sotir 1067 0
+McKinney 1054 1
+Sanna 1054 1
+Sotir 1005 1
+Sotir 1093 1
+Chontos 1005 1
+McKinney 1015 1
+Sanna 1067 1
+Mullen 1034 1
+Mullen 1080 1
+Chen 1002 1
+Burgess 1005 1
+Palmer 1083 1
+ -  1013 1
+Mangas 1078 1
+Fotos 1015 1
+Nikitas 1038 1
+Mullen 1013 1
+Mullen 1067 1
+ -  1079 1
+Sotir 1067 1
+Iliopoulos 1067 1
+Sotir 1005 1
+Iliopoulos 1067 1
+Mullen 1053 1
+ -  1009 1
+Mullen 1067 1
+Currin 1067 0
+Sanna 1067 1
+ -  1067 1
+Sanna 1038 1
+Hernandez 1067 1
+Mullen 1013 1
+Mullen 1054 1
+Mullen 1091 1
+Mullen 1067 1
+Mullen 1085 1
+Brandon 1079 1
+Mitzou 1067 1
+Mullen 1094 1
+Sanna 1043 0
+Mullen 1067 1
+Deal 1005 1
+Sotir 1060 1
+Mitzou 1062 1
+Burns 1067 1
+Lin 1068 1
+Sotir 1084 1
+McKinney 1054 1
+Iliopoulos 1006 0
+Mullen 1018 1
+Sotir 1094 1
+Economos 1049 1
+Sotir 1034 1
+Sotir 1025 1
+Burgess 1067 1
+Mullen 1052 1
+Mullen 1067 1
+ -  1083 1
+Mullen 1038 0
+Sotir 1052 0
+Dolan 1005 1
+Sotir 1058 0
+Mullen 1078 1
+ -  1067 1
+Nikitas 1067 1
+Sanna 1067 1
+Chen 1085 1
+Nikitas 1094 0
+Brandon 1067 1
+Mullen 1067 1
+Lin 1078 1
+Mullen 1094 1
+Mitzou 1005 1
+Economos 1005 0
+Mullen 1067 1
+Jiang 1018 0
+Mullen 1037 1
+Nikitas 1013 0
+Chontos 1067 1
+ -  1067 1
+Vasco 1085 1
+Palmer 1096 0
+Iliopoulos 1005 1
+Mullen 1067 1
+Kallas 1013 1
+Mullen 1054 1
+ -  1067 1
+Vasco 1028 1
+Glaros 1005 0
+Mullen 1067 1
+Sotir 1067 1
+ -  1067 1
+Crane 1067 1
+Mullen 1094 1
+Mullen 1033 1
+Vaughn 1072 1
+Mangas 1018 0
+Mullen 1076 1
+Currin 1080 1
+Lin 1091 1
+Lin 1005 1
+Sanna 1013 1
+Mullen 1067 0
+Deal 1094 1
+Vasco 1099 0
+Chontos 1080 1
+Sanna 1033 0
+Mullen 1054 1
+Mullen 1032 0
+Deal 1078 1
+Burns 1015 1
+Mullen 1018 1
+Sotir 1048 1
+Spears 1090 1
+Mullen 1046 1
+Vasco 1089 1
+Mullen 1085 1
+McKinney 1067 1
+Mullen 1054 1
+Mitzou 1067 1
+Higgins 1078 1
+Mitzou 1005 1
+Mullen 1067 1
+Mullen 1067 1
+Deal 1020 1
+Iliopoulos 1040 1
+Marsh 1067 1
+ -  1013 1
+Mullen 1056 1
+Higgins 1030 1
+ -  1013 1
+Sanna 1037 1
+Mullen 1067 1
+ -  1078 1
+Mullen 1010 0
+McKinney 1008 1
+Mullen 1005 1
+Jiang 1067 1
+Sanna 1052 1
+Hurst 1023 1
+Chontos 1070 1
+Glaros 1020 1
+Sotir 1067 1
+ -  1067 1
+Mullen 1054 1
+ -  1002 1
+Burgess 1020 1
+Mullen 1067 1
+ -  1083 1
+Mullen 1054 1
+Mullen 1015 1
+Mullen 1098 1
+Sotir 1076 1
+Melis 1034 1
+Burns 1067 1
+Fox 1054 1
+Mullen 1067 1
+Sotir 1054 1
+Vaughn 1067 1
+Sanna 1085 1
+Burns 1013 1
+Chontos 1067 1
+Iliopoulos 1067 1
+Mullen 1005 1
+Mullen 1005 0
+Nikitas 1067 1
+Mullen 1086 1
+Mullen 1085 1
+Jiang 1067 1
+ -  1005 0
+Mullen 1073 1
+ -  1074 1
+Sanna 1005 1
+Sotir 1012 1
+Mullen 1067 1
+Mullen 1065 0
+Sotir 1015 1
+Sanna 1005 1
+Mullen 1067 1
+Sotir 1002 0
+Sotir 1067 1
+Sotir 1067 1
+Burgess 1091 1
+Sotir 1067 1
+Lin 1020 1
+Mullen 1067 1
+Chontos 1067 1
+Nikitas 1020 1
+ -  1020 1
+McKinney 1078 1
+Mullen 1005 1
+Melis 1067 1
+Lin 1067 1
+Mitzou 1093 1
+Iliopoulos 1054 1
+Burns 1002 1
+Lin 1067 1
+Mullen 1067 0
+Glaros 1006 1
+Mullen 1067 1
+Mullen 1094 1
+Sotir 1067 0
+Mullen 1048 1
+Tocci 1067 1
+Silverman 1067 1
+Mullen 1041 1
+Mullen 1080 1
+Mullen 1018 1
+Mullen 1020 1
+ -  1088 1
+Burns 1003 1
+ -  1039 1
+Mullen 1067 1
+Lin 1038 1
+Sotir 1009 1
+Iliopoulos 1048 1
+Mullen 1005 1
+Vasco 1018 1
+Glaros 1080 1
+Mullen 1005 1
+Sotir 1067 1
+Denton 1008 1
+Mullen 1005 1
+Sotir 1008 1
+Chontos 1067 1
+Marsh 1070 1
+Mullen 1000 1
+Kidd 1088 1
+Mangas 1054 1
+Sotir 1033 0
+Kallas 1054 1
+Lin 1054 1
+Sotir 1081 1
+Deal 1071 1
+Chontos 1067 1
+Melis 1013 1
+Mullen 1048 1
+Vasco 1005 1
+Mullen 1091 1
+Melis 1054 1
+Burns 1073 0
+Vasco 1067 1
+Sotir 1067 1
+Jiang 1054 1
+Mitzou 1011 1
+ -  1054 1
+Mullen 1020 1
+Mullen 1094 1
+Mullen 1050 1
+Vasco 1015 1
+Sanna 1054 1
+Mullen 1007 1
+Mullen 1067 1
+Mitzou 1015 0
+Sotir 1067 1
+Mullen 1018 1
+Mullen 1020 1
+Mullen 1054 1
+ -  1094 1
+Lin 1035 1
+ -  1018 1
+Kappas 1067 1
+Lin 1068 1
+Mullen 1005 1
+Mullen 1067 1
+Vasco 1067 1
+Currin 1067 0
+ -  1019 1
+Sotir 1079 1
+Mullen 1005 1
+Lin 1091 1
+Sotir 1005 1
+Mullen 1005 1
+Kallas 1078 0
+ -  1054 1
+Mullen 1012 1
+Mullen 1022 1
+Mullen 1067 1
+Mullen 1054 1
+Mullen 1047 1
+Sanna 1067 1
+Burns 1018 1
+Economos 1034 1
+Lin 1005 1
+Mangas 1056 0
+ -  1067 0
+Nikitas 1015 1
+Iliopoulos 1067 1
+Mullen 1085 1
+Lin 1067 1
+Mullen 1020 1
+Sanna 1005 1
+Marsh 1067 1
+Nikitas 1056 1
+Jiang 1020 1
+Sotir 1015 1
+ -  1046 1
+Burns 1018 1
+Mitzou 1043 1
+Lin 1083 1
+Lin 1067 1
+Nikitas 1085 1
+Kefalas 1020 1
+Vasco 1015 1
+Mangas 1050 1
+Vasco 1054 1
+Mullen 1009 1
+Sotir 1054 1
+Mullen 1079 0
+Mitzou 1067 1
+Mullen 1085 1
+Mullen 1067 1
+Mullen 1094 1
+Sanna 1012 1
+McKinney 1008 1
+Mullen 1050 1
+Lin 1058 1
+Burgess 1067 1
+Heath 1067 1
+Lin 1094 0
+Kappas 1005 1
+ -  1046 1
+Mullen 1078 1
+Mitzou 1054 0
+Denton 1095 1
+Glaros 1017 1
+Mullen 1078 1
+ -  1078 1
+Mullen 1058 1
+Mitzou 1067 1
+Economos 1020 1
+Hurst 1067 1
+Sanna 1043 1
+Mullen 1074 0
+Mullen 1035 1
+Sotir 1020 1
+McKinney 1033 0
+Sanna 1067 0
+Mullen 1015 1
+Melis 1026 1
+Sotir 1037 1
+Iliopoulos 1067 1
+Kelly 1020 1
+Fox 1067 1
+Deal 1032 0
+Mullen 1032 1
+Sotir 1067 1
+Mullen 1038 1
+Sotir 1040 1
+Mullen 1024 1
+Vasco 1067 1
+ -  1067 1
+Lin 1080 1
+Mullen 1059 1
+Mullen 1020 1
+Mullen 1017 1
+ -  1067 1
+ -  1008 1
+Sotir 1030 1
+Mullen 1067 0
+Thoma 1067 1
+Vasco 1067 1
+Mullen 1059 1
+Mullen 1040 1
+Tocci 1067 1
+Carver 1075 1
+Sotir 1089 0
+Hernandez 1093 1
+Mullen 1085 1
+Vlasopoulos 1005 1
+Iliopoulos 1078 1
+Mullen 1067 1
+Mullen 1020 1
+McKinney 1054 1
+Mullen 1067 1
+Mullen 1097 1
+Iliopoulos 1005 0
+Mullen 1067 1
+Sanna 1091 1
+Mullen 1054 1
+Mullen 1067 1
+Sanna 1067 1
+Sanna 1067 1
+Mitzou 1091 1
+Sotir 1080 1
+ -  1067 1
+Mullen 1047 1
+Mullen 1067 1
+Hernandez 1028 1
+Sotir 1067 1
+McKinney 1054 1
+Mullen 1059 1
+Mullen 1058 1
+Hurst 1067 0
+Mullen 1064 1
+Sotir 1054 1
+Mullen 1018 1
+Nikitas 1015 1
+Mullen 1020 1
+ -  1002 1
+Mullen 1052 1
+Daniels 1067 1
+Nikitas 1085 1
+Lin 1067 1
+ -  1059 0
+Sanna 1088 1
+Silverman 1040 1
+Avramidis 1094 1
+ -  1033 1
+Carver 1011 1
+Mullen 1005 0
+ -  1053 1
+Burns 1005 1
+Silverman 1067 0
+Nikitas 1067 1
+Mullen 1069 1
+Lin 1053 1
+Nikitas 1091 1
+Sotir 1013 1
+Mullen 1067 1
+ -  1067 0
+ -  1040 1
+Glaros 1005 1
+Mullen 1009 1
+Glaros 1053 1
+Mullen 1015 1
+Hurst 1088 0
+Kazan 1018 1
+ -  1079 0
+Silverman 1058 1
+Sotir 1032 1
+Jiang 1063 1
+Sotir 1067 1
+Sotir 1056 1
+ -  1094 1
+Economos 1005 1
+Higgins 1067 1
+Mullen 1067 1
+Lin 1067 1
+Nikitas 1039 1
+Mullen 1014 1
+Iliopoulos 1005 1
+Sotir 1067 1
+Tocci 1094 1
+Mullen 1090 1
+Mullen 1079 0
+Sotir 1067 1
+Brandon 1038 1
+Sotir 1054 1
+Sanna 1013 1
+Sanna 1038 1
+Brandon 1040 1
+Iliopoulos 1067 1
+Sotir 1094 1
+Vaughn 1091 1
+Mullen 1054 1
+ -  1073 1
+Iliopoulos 1046 1
+Mullen 1022 1
+Lin 1067 1
+Sanna 1095 1
+Sotir 1044 1
+ -  1091 1
+Sanna 1008 1
+ -  1013 1
+Kappas 1085 1
+ -  1039 1
+Lin 1091 1
+Mullen 1005 1
+ -  1067 0
+Kidd 1052 1
+Mullen 1091 1
+Mullen 1013 1
+Mullen 1002 0
+Mullen 1067 1
+Melis 1067 1
+Glaros 1005 1
+ -  1054 0
+Mullen 1033 1
+ -  1051 1
+Iliopoulos 1054 1
+Mullen 1085 1
+Mullen 1094 1
+Mitzou 1048 1
+Sotir 1040 1
+Hernandez 1085 1
+Hernandez 1026 1
+Mullen 1084 1
+Sotir 1067 1
+Holden 1067 1
+Mullen 1018 1
+Lin 1043 1
+ -  1015 1
+Chontos 1054 1
+Sotir 1013 1
+Burgess 1015 1
+ -  1094 0
+Mullen 1005 1
+Lin 1054 1
+Mullen 1067 1
+Iliopoulos 1094 1
+Mullen 1004 1
+ -  1046 1
+Sanna 1015 1
+ -  1052 1
+Sotir 1040 1
+Mullen 1015 1
+Burgess 1067 1
+Sanna 1015 1
+Iliopoulos 1030 1
+Vasco 1094 1
+Lin 1067 1
+Marsh 1020 1
+Melis 1067 1
+Mullen 1022 1
+Iliopoulos 1053 1
+Sanna 1082 1
+Lin 1058 1
+Brandon 1085 1
+Sotir 1054 1
+Carver 1005 1
+Sotir 1067 1
+Glaros 1067 0
+Mullen 1067 1
+Vasco 1046 1
+Mullen 1094 1
+Sotir 1067 0
+Hernandez 1078 1
+Tocci 1040 1
+Brandon 1058 1
+Jiang 1056 1
+Mullen 1067 1
+Mullen 1026 1
+Sotir 1065 1
+ -  1067 1
+ -  1054 1
+Mullen 1085 1
+Vasco 1094 1
+ -  1028 1
+Mitzou 1070 1
+Sotir 1067 0
+Fox 1005 1
+Kappas 1094 1
+Mitzou 1067 1
+ -  1028 1
+Mitzou 1056 1
+Jiang 1067 1
+Mullen 1067 1
+Sanna 1067 1
+Mullen 1067 1
+Denton 1005 1
+Carver 1046 1
+ -  1067 1
+Kappas 1078 1
+Sanna 1013 1
+ -  1093 1
+Jiang 1091 1
+Mullen 1005 1
+Iliopoulos 1091 1
+McKinney 1062 1
+Kappas 1054 1
+Mullen 1067 1
+Sanna 1085 1
+Mullen 1067 1
+Burns 1070 1
+Nikitas 1032 1
+Mullen 1091 1
+Burns 1013 1
+Mitzou 1067 1
+Daniels 1002 1
+Mullen 1040 1
+Mullen 1005 1
+ -  1091 1
+Nikitas 1005 1
+ -  1063 1
+ -  1046 1
+Dolan 1013 1
+ -  1005 1
+Sanna 1094 1
+Vaughn 1015 1
+Mullen 1073 1
+Glaros 1094 1
+Palmer 1001 1
+Mullen 1054 1
+ -  1005 1
+Mullen 1042 1
+Mullen 1082 1
+Dolan 1054 1
+Mitzou 1005 1
+Mullen 1097 1
+ -  1060 0
+Higgins 1067 1
+Mangas 1067 1
+Burgess 1080 1
+Vasco 1054 1
+Mullen 1040 1
+Mitzou 1002 1
+Mullen 1067 1
+Sanna 1049 1
+Sotir 1015 1
+Mullen 1085 1
+Holden 1074 1
+Mullen 1005 1
+Mullen 1067 1
+Iliopoulos 1094 1
+Sotir 1018 1
+Mullen 1091 1
+Mullen 1067 1
+Mullen 1067 1
+Iliopoulos 1013 1
+Nikitas 1008 1
+Mullen 1067 1
+Hurst 1067 1
+Mullen 1097 1
+Kallas 1091 1
+Mullen 1016 1
+ -  1032 1
+Sotir 1005 1
+Dolan 1018 1
+Jiang 1054 0
+Mullen 1094 1
+Crane 1020 1
+Sotir 1056 1
+Lin 1085 0
+Iliopoulos 1080 1
+Sanna 1046 1
+McKinney 1094 1
+Vasco 1020 0
+Mullen 1015 1
+Vasco 1073 1
+Mullen 1033 1
+Dolan 1067 1
+Silverman 1005 1
+McKinney 1005 1
+Sotir 1067 1
+Jiang 1067 0
+Brandon 1078 1
+Mullen 1069 1
+ -  1005 1
+Tocci 1067 1
+Sotir 1067 1
+Mullen 1054 0
+Mullen 1067 1
+Avramidis 1067 1
+Tocci 1067 1
+Iliopoulos 1020 1
+Sanna 1067 1
+Mullen 1079 1
+Mullen 1004 1
+Mitzou 1063 0
+Mullen 1040 1
+Carver 1067 1
+Tocci 1046 1
+Lin 1052 1
+Silverman 1093 1
+Lin 1079 1
+Glaros 1067 1
+Jiang 1005 1
+Burns 1040 1
+Deal 1054 1
+Mullen 1020 1
+Burgess 1047 1
+Sotir 1067 1
+Sotir 1046 1
+Mullen 1005 0
+Mullen 1063 1
+Mullen 1015 1
+Carver 1067 1
+Spears 1007 0
+Mullen 1054 1
+Mullen 1017 1
+Sanna 1067 1
+Kefalas 1046 1
+Glaros 1016 1
+Mullen 1091 1
+Burns 1067 1
+Sotir 1094 1
+Lin 1005 1
+Burns 1013 0
+ -  1067 1
+Mitzou 1056 1
+Mullen 1005 1
+Sotir 1067 1
+Iliopoulos 1070 1
+Sotir 1005 1
+Tocci 1054 1
+Vasco 1067 1
+Hernandez 1080 1
+Mullen 1011 1
+Fox 1091 1
+ -  1064 1
+ -  1067 1
+ -  1005 1
+ -  1067 0
+Heath 1004 0
+Iliopoulos 1013 1
+Tocci 1054 1
+Lin 1085 0
+Iliopoulos 1097 1
+Carver 1067 1
+Iliopoulos 1020 1
+Mullen 1054 1
+Mullen 1020 1
+Vasco 1054 1
+ -  1040 1
+Iliopoulos 1054 1
+Sanna 1005 1
+McKinney 1067 1
+Mullen 1020 1
+Mullen 1067 1
+Mullen 1063 1
+Sotir 1054 1
+Jiang 1067 0
+Kefalas 1054 1
+Sotir 1048 1
+ -  1005 1
+Vasco 1067 1
+ -  1079 1
+ -  1067 1
+ -  1054 1
+Sanna 1067 1
+Nikitas 1013 1
+ -  1054 1
+Mitzou 1067 1
+Iliopoulos 1024 1
+McKinney 1054 1
+Mangas 1005 1
+Mullen 1052 1
+ -  1005 0
+Mullen 1005 0
+Lin 1067 1
+Denton 1005 1
+Iliopoulos 1067 1
+ -  1005 1
+Sotir 1096 1
+Lin 1054 1
+Iliopoulos 1094 1
+Sanna 1005 1
+Sotir 1005 1
+Sotir 1013 1
+Mullen 1005 1
+Sanna 1067 0
+Kidd 1054 0
+Vasco 1042 0
+Lin 1067 1
+Mitzou 1015 1
+Mitzou 1094 1
+Lin 1002 1
+Mullen 1067 1
+Iliopoulos 1046 1
+ -  1007 1
+Heath 1044 1
+Sotir 1054 1
+Mullen 1091 1
+Sanna 1049 1
+Mullen 1067 1
+Hernandez 1085 1
+Tocci 1020 1
+Palmer 1004 1
+ -  1067 1
+Jiang 1050 1
+Iliopoulos 1067 1
+Sotir 1054 1
+Mullen 1007 1
+Mullen 1088 0
+Mullen 1076 1
+Mullen 1067 1
+Vasco 1054 1
+Sanna 1005 1
+Mullen 1067 1
+Mitzou 1067 0
+McKinney 1005 1
+Jiang 1013 1
+Burgess 1048 1
+Mullen 1002 1
+McKinney 1054 1
+ -  1020 1
+Vlasopoulos 1067 1
+Mullen 1020 1
+Sotir 1067 1
+ -  1067 0
+Iliopoulos 1018 1
+Sotir 1052 1
+Kallas 1067 1
+Hurst 1005 1
+Mullen 1054 1
+Sotir 1005 1
+Sanna 1005 1
+Mullen 1028 1
+ -  1015 1
+Kallas 1047 1
+Burgess 1072 1
+Mullen 1008 1
+Mullen 1040 1
+Mullen 1054 1
+Mullen 1031 1
+ -  1054 0
+Mullen 1005 1
+Vasco 1039 1
+Mullen 1067 0
+Mitzou 1054 1
+Lin 1020 1
+Hernandez 1020 1
+Iliopoulos 1006 1
+Mullen 1056 1
+Iliopoulos 1005 1
+Marsh 1080 1
+Sotir 1054 1
+Mullen 1005 1
+Vasco 1067 1
+Mullen 1050 1
+Hurst 1013 1
+ -  1067 1
+Burns 1074 1
+ -  1032 1
+Iliopoulos 1038 1
+Sanna 1094 0
+Mullen 1067 1
+McKinney 1094 1
+Mitzou 1052 1
+Sotir 1050 1
+Iliopoulos 1094 1
+Sotir 1002 1
+Deal 1018 1
+Vasco 1009 1
+Lin 1008 1
+ -  1005 1
+Mullen 1050 1
+Sanna 1083 1
+Lin 1040 1
+Tocci 1049 1
+Sanna 1067 1
+Zanni 1093 1
+Sotir 1005 1
+Mullen 1005 0
+Chontos 1095 1
+Palmer 1003 1
+Sotir 1094 1
+Mullen 1080 1
+Holden 1005 1
+Chontos 1097 1
+Mullen 1005 1
+Mullen 1083 1
+Nikitas 1076 1
+Sotir 1005 1
+McKinney 1091 1
+McKinney 1032 1
+Mullen 1017 1
+Deal 1067 1
+Lin 1037 1
+Vasco 1060 1
+ -  1040 1
+Vaughn 1033 1
+Mullen 1054 1
+Mullen 1067 1
+Sanna 1062 1
+Lin 1070 1
+Iliopoulos 1005 1
+Mullen 1067 1
+Mullen 1094 1
+Lin 1094 0
+Glaros 1060 1
+Mullen 1060 1
+Mullen 1012 1
+Holden 1037 1
+Iliopoulos 1080 1
+ -  1015 1
+Holden 1005 1
+Burns 1022 1
+Mullen 1050 0
+Lin 1056 1
+Sotir 1032 1
+Sanna 1067 1
+ -  1067 1
+Sanna 1085 1
+Burgess 1002 1
+Iliopoulos 1094 0
+Nikitas 1091 1
+Vasco 1035 1
+Sotir 1026 1
+Sanna 1015 0
+Iliopoulos 1060 1
+Tocci 1080 0
+Jiang 1016 0
+ -  1067 1
+Mullen 1052 1
+Mullen 1099 1
+Sotir 1018 1
+Mullen 1094 1
+Mullen 1058 1
+ -  1067 1
+Mitzou 1067 1
+Avramidis 1078 1
+Sotir 1015 1
+ -  1054 1
+Mullen 1054 1
+Mullen 1013 0
+ -  1067 0
+ -  1005 1
+Sotir 1080 1
+Mullen 1094 1
+Mullen 1047 1
+Mullen 1067 1
+Sanna 1067 0
+Mullen 1067 1
+Glaros 1054 1
+Kidd 1067 1
+Deal 1054 1
+ -  1023 1
+Mitzou 1067 1
+Mullen 1091 0
+Vasco 1073 0
+Vasco 1067 1
+ -  1015 1
+Burgess 1008 1
+Glaros 1005 1
+Mullen 1048 1
+ -  1035 1
+Sotir 1093 1
+Mitzou 1067 1
+Sotir 1067 0
+Sanna 1013 1
+ -  1040 1
+Holden 1005 1
+Mullen 1058 1
+ -  1018 1
+Vasco 1054 1
+Mullen 1004 1
+Deal 1067 1
+Lin 1015 1
+ -  1095 1
+Mullen 1005 1
+Vaughn 1045 1
+Sotir 1067 0
+Vaughn 1092 1
+ -  1031 1
+Mullen 1091 1
+Vasco 1050 1
+Holden 1002 1
+Iliopoulos 1078 1
+Mullen 1067 0
+Sanna 1040 1
+Mullen 1015 1
+Lin 1067 1
+Mullen 1035 0
+Burgess 1067 1
+Sotir 1091 1
+Mullen 1070 1
+Hurst 1018 1
+Sotir 1095 1
+Sotir 1050 1
+Mullen 1020 1
+Nikitas 1067 1
+Brandon 1067 1
+Iliopoulos 1078 1
+Crane 1067 1
+Mullen 1091 1
+Mullen 1037 1
+Mullen 1005 1
+Kidd 1002 0
+Sanna 1017 1
+Sotir 1067 1
+Vasco 1094 1
+Holden 1046 1
+Mullen 1005 0
+Sanna 1013 1
+Sotir 1067 1
+Sanna 1005 1
+Sotir 1002 0
+McKinney 1066 1
+Sotir 1052 1
+Mullen 1094 1
+Mullen 1020 1
+ -  1013 1
+Sanna 1012 1
+Mullen 1067 1
+Deal 1054 1
+Sotir 1078 1
+Mullen 1018 1
+Sotir 1078 1
+Nikitas 1067 0
+Sotir 1085 1
+ -  1004 1
+Mullen 1067 0
+Glaros 1067 1
+Mullen 1097 1
+Sotir 1067 1
+Mullen 1015 1
+Lin 1040 1
+Sotir 1005 1
+Mullen 1067 1
+Daniels 1005 1
+Sotir 1005 1
+Mullen 1018 1
+Vasco 1005 1
+Mullen 1056 1
+Mullen 1072 1
+Mullen 1086 0
+Mullen 1020 1
+Mullen 1094 1
+Sotir 1068 1
+Currin 1038 0
+Sotir 1013 1
+Sanna 1006 1
+Sotir 1091 1
+Mullen 1013 1
+Lin 1028 1
+Sotir 1005 1
+Mullen 1070 1
+Sotir 1067 1
+Chontos 1005 1
+Mullen 1002 1
+Iliopoulos 1022 1
+Sotir 1079 1
+McKinney 1094 1
+ -  1054 1
+Mullen 1018 1
+Vasco 1046 1
+Vaughn 1020 0
+Heath 1013 1
+Sotir 1054 1
+Iliopoulos 1048 1
+Deal 1013 1
+Mullen 1002 1
+Iliopoulos 1046 1
+Sanna 1067 1
+Kidd 1033 1
+Mullen 1073 1
+ -  1038 1
+Brandon 1020 1
+ -  1005 1
+Mullen 1067 1
+Sotir 1013 1
+Vaughn 1067 1
+Silverman 1080 1
+ -  1059 1
+Fox 1012 1
+Mullen 1067 1
+Sotir 1097 1
+Mullen 1080 1
+Mullen 1094 1
+Mullen 1005 1
+ -  1063 1
+Mullen 1015 1
+Sanna 1030 1
+Nikitas 1059 1
+McKinney 1054 1
+Sotir 1013 1
+Sanna 1080 1
+ -  1049 1
+Mullen 1005 1
+Sanna 1067 1
+ -  1067 1
+Mullen 1018 1
+Mullen 1091 1
+Lin 1067 1
+Vasco 1067 1
+Mullen 1095 1
+Mullen 1067 1
+Sotir 1026 1
+Mullen 1067 1
+Mullen 1054 1
+Kallas 1002 1
+Lin 1067 0
+Holden 1094 1
+Economos 1067 0
+Glaros 1094 1
+Mitzou 1040 0
+Sotir 1005 1
+Kazan 1094 1
+Sotir 1067 1
+Mullen 1005 1
+Carver 1049 1
+Mullen 1070 1
+Sotir 1054 1
+Sanna 1067 1
+Sanna 1026 1
+Hurst 1052 1
+Burgess 1067 1
+Sotir 1094 1
+ -  1049 1
+Nikitas 1073 1
+Sotir 1018 1
+Sotir 1099 1
+Mullen 1089 1
+Brandon 1046 1
+Lin 1042 1
+Mullen 1085 0
+Vaughn 1076 1
+Burns 1085 1
+Burns 1047 1
+Sotir 1088 1
+ -  1071 1
+Mullen 1054 1
+Sanna 1033 1
+Mitzou 1067 1
+Brandon 1054 1
+Sotir 1067 1
+McKinney 1067 1
+Lin 1067 1
+Silverman 1052 1
+Glaros 1097 1
+Mullen 1067 1
+Brandon 1020 1
+ -  1067 1
+Silverman 1040 1
+McKinney 1067 0
+Deal 1024 1
+ -  1067 1
+Mullen 1005 1
+Burgess 1085 1
+Mullen 1067 1
+Sotir 1013 1
+Fox 1094 1
+Avramidis 1067 1
+Sotir 1005 1
+Nikitas 1067 1
+ -  1094 1
+Mullen 1088 1
+Holden 1080 1
+Sotir 1028 1
+Melis 1094 1
+ -  1088 1
+Mangas 1033 0
+Mullen 1074 1
+Iliopoulos 1018 1
+Burns 1082 1
+Vaughn 1005 1
+Mullen 1067 1
+Kappas 1054 1
+Chontos 1094 1
+McKinney 1073 1
+Jiang 1005 1
+Sotir 1084 1
+Mullen 1067 1
+Marsh 1067 1
+Hurst 1054 1
+Sotir 1005 1
+Mullen 1002 1
+Sanna 1054 1
+Sanna 1082 1
+Chontos 1005 1
+Chontos 1067 1
+Hernandez 1067 1
+Kappas 1067 1
+Nikitas 1087 1
+Lin 1052 0
+Sotir 1073 1
+Hernandez 1005 1
+Brandon 1054 1
+Burgess 1005 1
+Burns 1067 1
+Mullen 1057 1
+Mullen 1005 1
+ -  1067 1
+Vasco 1014 1
+ -  1067 1
+McKinney 1067 1
+Sotir 1013 1
+Iliopoulos 1094 1
+Kappas 1067 1
+McKinney 1033 1
+Lin 1094 1
+Chontos 1067 1
+Nikitas 1085 1
+Palmer 1052 1
+Mullen 1067 1
+ -  1067 0
+Vasco 1067 1
+Marsh 1083 1
+Lin 1067 1
+Sotir 1012 1
+ -  1020 1
+Jiang 1067 1
+Mullen 1020 1
+ -  1067 1
+Mullen 1059 1
+Mitzou 1067 1
+Iliopoulos 1067 1
+Sotir 1067 1
+Sotir 1067 0
+Lin 1054 1
+Mullen 1067 1
+Mullen 1005 1
+Nikitas 1094 1
+Sanna 1094 1
+Holden 1050 1
+Mullen 1005 1
+Mullen 1015 1
+Mullen 1046 1
+Sotir 1038 0
+ -  1002 1
+Mullen 1013 1
+Sotir 1016 1
+ -  1005 1
+Economos 1005 1
+Mullen 1002 1
+Iliopoulos 1040 1
+Tocci 1067 1
+Mullen 1067 1
+Iliopoulos 1050 1
+Glaros 1005 1
+Sotir 1005 1
+ -  1067 1
+Nikitas 1067 1
+Kappas 1052 1
+Hernandez 1054 1
+Mullen 1091 1
+ -  1020 1
+Mullen 1067 1
+Sanna 1067 1
+Mitzou 1074 0
+Mullen 1005 1
+Jiang 1078 1
+Lin 1067 1
+Sotir 1005 1
+Kidd 1040 1
+Mullen 1033 1
+Lin 1034 1
+Fox 1023 1
+Sotir 1005 1
+Fotos 1094 0
+Mullen 1054 1
+Zanni 1078 1
+Kazan 1089 1
+Iliopoulos 1078 1
+Brandon 1026 1
+McKinney 1076 1
+Mitzou 1067 1
+Mullen 1067 1
+Mitzou 1011 0
+Iliopoulos 1067 1
+Mullen 1074 1
+Kappas 1091 1
+Mullen 1079 1
+Iliopoulos 1091 1
+Hurst 1067 0
+Lin 1067 0
+Fox 1020 1
+Brandon 1005 0
+Sanna 1067 1
+Mullen 1073 1
+Mullen 1005 1
+Mitzou 1058 1
+Mullen 1076 0
+Iliopoulos 1067 1
+Kappas 1013 1
+Mullen 1067 1
+McKinney 1041 0
+Vaughn 1005 1
+Mullen 1026 1
+Sotir 1067 0
+Vasco 1018 1
+Mullen 1005 1
+Sanna 1091 1
+ -  1067 0
+ -  1006 0
+Mullen 1007 1
+Mullen 1046 1
+McKinney 1018 1
+ -  1005 1
+Crane 1020 1
+Mitzou 1020 1
+Sotir 1032 0
+Sanna 1005 1
+Lin 1054 1
+Hernandez 1021 1
+Mullen 1005 1
+Sotir 1035 1
+Mitzou 1002 1
+Lin 1026 1
+ -  1065 1
+Mitzou 1052 1
+Mullen 1078 1
+ -  1022 0
+Vasco 1020 0
+Kidd 1042 1
+Mullen 1067 1
+Mullen 1020 1
+Holden 1027 1
+Mullen 1005 1
+Iliopoulos 1067 1
+ -  1094 1
+McKinney 1015 0
+Sotir 1094 1
+Mullen 1005 0
+ -  1067 1
+Mullen 1067 1
+Sotir 1053 1
+Lin 1067 1
+Mullen 1068 1
+Burgess 1020 1
+Currin 1054 1
+Thoma 1046 1
+Sanna 1044 1
+Sanna 1020 1
+Vlasopoulos 1005 1
+Burns 1015 0
+Sanna 1072 1
+Hurst 1094 1
+Iliopoulos 1078 1
+Sanna 1067 1
+Kallas 1005 1
+Mullen 1054 1
+Hurst 1085 1
+Mullen 1006 1
+ -  1019 0
+Sotir 1005 1
+McKinney 1054 1
+Hernandez 1095 1
+Glaros 1043 0
+Sotir 1021 1
+Sotir 1093 1
+Lin 1067 1
+Vasco 1094 1
+Sanna 1067 1
+Lin 1067 1
+Sotir 1086 1
+Nikitas 1054 1
+Lin 1024 1
+McKinney 1067 1
+Vasco 1067 1
+Mullen 1097 1
+Jiang 1046 1
+Tocci 1058 1
+Burns 1009 1
+Sanna 1054 1
+Mullen 1094 1
+Mullen 1005 0
+Sanna 1039 1
+Mullen 1020 1
+Nikitas 1005 1
+Dolan 1009 1
+Glaros 1067 1
+Mullen 1020 1
+Holden 1013 0
+ -  1013 1
+Nikitas 1050 1
+Sotir 1052 0
+Mullen 1030 1
+Deal 1067 1
+Lin 1046 1
+Heath 1067 1
+Dolan 1065 1
+Sotir 1005 1
+Lin 1060 1
+Nikitas 1034 1
+Deal 1067 0
+Mullen 1038 1
+ -  1012 1
+Mullen 1005 1
+Mullen 1067 1
+Lin 1005 1
+Iliopoulos 1067 0
+Mullen 1067 1
+ -  1032 1
+ -  1026 0
+Mullen 1011 1
+Fox 1091 1
+Mullen 1005 1
+McKinney 1030 1
+Mullen 1092 1
+Sotir 1046 1
+McKinney 1085 1
+Mullen 1005 1
+Sanna 1015 1
+ -  1002 1
+Mullen 1079 1
+Sanna 1067 0
+Mitzou 1067 1
+Mullen 1046 1
+Sotir 1067 1
+Mullen 1054 1
+Sotir 1067 1
+Deal 1091 1
+Hurst 1046 1
+Sotir 1067 1
+Mullen 1088 1
+McKinney 1043 1
+ -  1067 1
+Mitzou 1085 1
+Mullen 1044 0
+Sotir 1025 1
+Deal 1046 1
+Nikitas 1067 1
+Lin 1078 1
+Marsh 1054 1
+Mangas 1054 0
+Vasco 1079 0
+Burgess 1026 1
+Vasco 1067 1
+ -  1001 1
+Fox 1054 1
+Vasco 1048 1
+Holden 1054 1
+Silverman 1094 1
+Branch 1037 1
+Sotir 1067 1
+Jiang 1067 1
+Mullen 1072 1
+Sotir 1017 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1005 1
+ -  1067 1
+Vasco 1050 1
+Holden 1030 1
+Mullen 1013 1
+Sanna 1000 1
+ -  1052 1
+Mullen 1005 1
+Mitzou 1054 1
+Mullen 1054 1
+ -  1093 1
+Fotos 1091 1
+ -  1067 0
+Mullen 1023 1
+Mullen 1067 1
+Vasco 1094 1
+Mullen 1005 1
+Sanna 1067 1
+Sanna 1015 1
+Mullen 1005 1
+Mullen 1032 1
+Mullen 1005 1
+Sanna 1040 1
+Silverman 1054 1
+Nikitas 1018 1
+Kallas 1022 1
+Sanna 1054 1
+Silverman 1054 1
+Jiang 1037 1
+Carver 1005 1
+Lin 1018 1
+Palmer 1067 1
+Mullen 1053 1
+Mullen 1084 1
+Sotir 1018 1
+Sotir 1054 1
+ -  1058 0
+Tocci 1067 1
+Sotir 1069 1
+ -  1054 1
+Mangas 1022 1
+Mullen 1015 1
+Mullen 1079 1
+Sotir 1054 1
+Mullen 1038 1
+McKinney 1022 1
+Sotir 1095 1
+Palmer 1005 1
+Sotir 1067 1
+Mullen 1067 1
+Mullen 1054 1
+Mullen 1018 1
+Branch 1024 1
+Mitzou 1013 1
+Tocci 1048 1
+Sotir 1054 1
+Sotir 1005 1
+Sotir 1085 1
+Mullen 1013 1
+Currin 1015 1
+Mullen 1050 1
+Mullen 1094 0
+Spears 1033 1
+Mullen 1040 1
+Mullen 1015 1
+Lin 1086 1
+Sanna 1067 1
+Mullen 1009 1
+Jiang 1054 1
+Sotir 1002 1
+Mullen 1067 0
+Iliopoulos 1067 1
+Mitzou 1051 1
+Mullen 1015 1
+Mullen 1067 1
+Mullen 1094 1
+Melis 1005 1
+Mullen 1078 1
+Hernandez 1067 1
+ -  1005 1
+Sanna 1049 1
+Mullen 1003 1
+ -  1002 1
+Sanna 1067 0
+ -  1076 1
+Mullen 1005 1
+Dolan 1054 1
+Mullen 1020 1
+Mullen 1054 1
+Mullen 1094 1
+ -  1023 0
+Mullen 1005 1
+Sotir 1014 1
+Mullen 1009 1
+Mullen 1020 1
+Sanna 1093 1
+Sanna 1067 1
+Brandon 1005 1
+Mullen 1067 1
+Iliopoulos 1020 1
+Vasco 1067 1
+Burns 1005 0
+McKinney 1067 1
+Sanna 1048 1
+Holden 1054 1
+Sotir 1018 1
+ -  1038 1
+Sotir 1067 1
+McKinney 1038 1
+Mitzou 1015 1
+Mullen 1026 1
+ -  1053 1
+Mullen 1005 1
+Brandon 1005 1
+Sotir 1067 1
+Sotir 1067 1
+Mullen 1038 1
+Mullen 1040 1
+Vasco 1026 1
+Sotir 1024 1
+Iliopoulos 1072 1
+Sanna 1067 1
+Mullen 1067 1
+Mullen 1067 1
+Carver 1058 0
+Sotir 1067 1
+Mitzou 1067 1
+ -  1005 1
+Mullen 1082 1
+Sotir 1094 1
+Mitzou 1005 1
+ -  1091 1
+Jiang 1054 1
+Chontos 1032 1
+Economos 1018 1
+Mullen 1002 1
+Sotir 1078 1
+Sotir 1053 1
+Mitzou 1094 0
+Mangas 1091 1
+Mitzou 1018 1
+Jiang 1085 1
+Fox 1017 1
+Mullen 1067 1
+Mullen 1054 1
+Brandon 1067 1
+Mullen 1091 1
+Carver 1054 1
+Iliopoulos 1067 1
+Glaros 1067 1
+Iliopoulos 1067 1
+Mullen 1067 1
+Mullen 1066 1
+Sanna 1094 1
+ -  1088 0
+Mullen 1094 1
+Mullen 1067 1
+Tocci 1005 1
+Sotir 1094 1
+Jiang 1085 1
+ -  1013 1
+Fox 1015 1
+Mullen 1049 1
+Lin 1067 1
+Mullen 1054 1
+Daniels 1018 1
+Mullen 1017 1
+McKinney 1013 1
+Mullen 1067 1
+ -  1005 1
+Lin 1080 0
+Sotir 1093 1
+ -  1026 1
+Iliopoulos 1005 1
+Mullen 1067 1
+Hurst 1067 1
+Vaughn 1018 1
+Vasco 1000 1
+Lin 1005 1
+Mullen 1067 1
+Sanna 1067 1
+Sanna 1018 1
+Burns 1073 1
+Mullen 1067 1
+Sotir 1067 1
+ -  1005 1
+Daniels 1067 0
+Sotir 1054 1
+Kappas 1013 1
+McKinney 1018 1
+McKinney 1022 1
+ -  1063 1
+ -  1095 1
+Vlasopoulos 1011 1
+Mitzou 1067 1
+Mitzou 1038 1
+Hernandez 1005 0
+Sanna 1080 1
+Burgess 1076 1
+Mullen 1047 0
+Sanna 1076 1
+Kelly 1020 1
+Mullen 1054 0
+Mullen 1013 1
+Sanna 1007 1
+Lin 1005 1
+Sotir 1036 1
+Mullen 1062 1
+Mullen 1052 1
+Mullen 1045 1
+Tocci 1094 1
+Mullen 1067 0
+Vlasopoulos 1032 1
+Sanna 1005 1
+Sotir 1067 1
+Vasco 1000 1
+Heath 1094 1
+Sanna 1067 0
+Sotir 1067 1
+Lin 1067 1
+Economos 1046 1
+Sotir 1026 1
+Mitzou 1010 1
+Mullen 1054 1
+ -  1005 1
+Sotir 1094 1
+Sotir 1091 1
+Vasco 1054 1
+Hurst 1054 1
+Kallas 1094 1
+Mullen 1035 1
+Sotir 1067 1
+ -  1011 1
+Fox 1091 1
+Denton 1066 1
+Daniels 1054 1
+Burgess 1067 0
+Mullen 1079 1
+Sanna 1018 1
+ -  1087 1
+Mullen 1067 1
+Mullen 1012 1
+ -  1002 0
+Thoma 1020 1
+Sotir 1041 1
+Fotos 1078 1
+Mullen 1080 0
+Mullen 1067 1
+Holden 1018 0
+Vasco 1020 1
+Jiang 1020 1
+Silverman 1018 1
+Sotir 1046 1
+Sanna 1088 1
+Sotir 1067 1
+ -  1054 1
+Carver 1063 1
+ -  1067 1
+Sanna 1054 1
+Sotir 1091 1
+Carver 1013 1
+Mullen 1067 1
+Sanna 1005 1
+Sanna 1022 1
+Lin 1054 1
+Brandon 1020 1
+Mitzou 1014 1
+Heath 1087 1
+Mullen 1085 1
+Vasco 1054 1
+Mullen 1033 1
+Vlasopoulos 1033 1
+Sotir 1054 1
+Chontos 1085 1
+Deal 1094 1
+Mullen 1040 1
+Burns 1015 1
+Hernandez 1015 1
+Mullen 1070 1
+ -  1008 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1093 1
+Mullen 1013 1
+Burns 1054 1
+McKinney 1091 1
+Brandon 1098 1
+ -  1067 1
+Iliopoulos 1012 1
+Mullen 1030 1
+Heath 1008 1
+ -  1025 1
+Zanni 1005 0
+Vasco 1005 1
+Vasco 1067 1
+Mullen 1005 1
+Iliopoulos 1002 1
+ -  1046 0
+ -  1074 1
+McKinney 1067 1
+Glaros 1026 1
+ -  1085 1
+Mullen 1020 1
+Mullen 1024 1
+Vasco 1067 1
+Mullen 1046 1
+Sotir 1048 1
+Mullen 1097 1
+Iliopoulos 1085 1
+Vasco 1094 1
+Mullen 1054 1
+Silverman 1087 1
+Marsh 1094 1
+Mullen 1067 1
+Iliopoulos 1018 1
+Heath 1005 1
+Melis 1015 1
+Vasco 1067 1
+ -  1005 1
+Mullen 1020 0
+Mitzou 1067 1
+Sotir 1005 1
+Sotir 1051 1
+Glaros 1052 1
+Jiang 1067 0
+Mullen 1094 1
+Zanni 1052 1
+Sotir 1020 1
+Nikitas 1005 1
+Sotir 1033 1
+Sotir 1094 1
+Kappas 1033 1
+Mullen 1067 1
+Mullen 1067 1
+Economos 1009 1
+Vaughn 1058 1
+Mullen 1054 1
+Mullen 1054 1
+Sotir 1067 1
+Mullen 1067 1
+Brandon 1073 1
+Palmer 1005 0
+Sanna 1085 1
+Heath 1005 1
+ -  1005 1
+Vasco 1054 1
+Mullen 1094 1
+Sotir 1020 0
+Sotir 1067 1
+Burgess 1005 1
+Iliopoulos 1005 1
+Mullen 1053 1
+Economos 1076 1
+Mullen 1012 1
+Sotir 1054 1
+Sotir 1005 0
+Mullen 1032 1
+Iliopoulos 1030 1
+Mullen 1067 1
+Burns 1084 1
+Mullen 1033 1
+McKinney 1048 1
+Sotir 1078 0
+Lin 1037 1
+Hernandez 1067 1
+Sotir 1005 1
+Sotir 1094 1
+Kappas 1067 1
+Sotir 1078 1
+Lin 1054 1
+Mullen 1050 1
+Tocci 1067 1
+Mangas 1028 1
+ -  1067 1
+Lin 1046 0
+Sotir 1002 0
+Jiang 1005 1
+Mullen 1067 1
+Avramidis 1046 1
+ -  1094 1
+Sotir 1008 1
+Hernandez 1020 1
+Lin 1067 1
+Glaros 1067 1
+Sotir 1040 1
+Burns 1070 1
+Hernandez 1093 0
+Fox 1067 1
+Sotir 1067 1
+Mullen 1018 1
+ -  1094 1
+Mullen 1011 1
+Sotir 1063 1
+Lin 1054 0
+Daniels 1005 1
+ -  1048 1
+Lin 1001 1
+ -  1005 1
+Nikitas 1067 1
+Sotir 1038 1
+ -  1067 1
+Sotir 1093 1
+ -  1018 1
+Vasco 1032 1
+Lin 1067 0
+Lin 1028 1
+Brandon 1083 1
+Sanna 1058 1
+Jiang 1067 1
+Mitzou 1017 1
+ -  1054 1
+Iliopoulos 1090 1
+Thoma 1005 1
+Mullen 1048 1
+Silverman 1013 1
+Sotir 1097 1
+McKinney 1067 1
+Mullen 1094 1
+Mullen 1005 1
+Kefalas 1054 1
+Iliopoulos 1020 1
+Mullen 1023 1
+Sanna 1054 1
+Mullen 1067 0
+Mitzou 1094 1
+Mullen 1013 1
+Mullen 1020 1
+Deal 1018 1
+Avramidis 1052 1
+McKinney 1054 1
+Mullen 1059 1
+Fox 1046 1
+Sotir 1005 1
+Sotir 1036 0
+ -  1078 0
+Sanna 1005 1
+Sotir 1005 1
+Sanna 1067 0
+Economos 1095 1
+Mullen 1054 1
+Spears 1059 1
+Silverman 1067 1
+ -  1052 1
+ -  1031 1
+Sanna 1054 1
+Burgess 1054 1
+Mullen 1063 1
+Mullen 1013 1
+Mullen 1018 0
+Sanna 1094 1
+Mullen 1013 1
+Mullen 1005 1
+Mullen 1067 1
+Nikitas 1046 1
+Sotir 1067 1
+Lin 1067 1
+Burns 1097 1
+Mullen 1087 1
+Burns 1085 1
+Iliopoulos 1067 1
+McKinney 1025 1
+Tocci 1033 1
+Sotir 1040 1
+Mullen 1002 1
+Mullen 1079 1
+Mullen 1020 0
+Burns 1033 1
+McKinney 1021 1
+McKinney 1091 1
+Daniels 1052 1
+Currin 1087 1
+ -  1085 1
+Mullen 1043 1
+Mullen 1067 1
+Mullen 1054 0
+Jiang 1067 0
+Mullen 1067 1
+ -  1018 1
+Mullen 1002 1
+ -  1067 1
+Mullen 1049 1
+Palmer 1084 1
+Sanna 1013 0
+Mullen 1005 1
+Iliopoulos 1067 1
+Sotir 1054 1
+Burns 1026 1
+Lin 1008 1
+McKinney 1094 0
+Mitzou 1056 0
+Tocci 1078 1
+Sotir 1085 1
+Iliopoulos 1054 1
+Lin 1067 1
+Iliopoulos 1067 1
+Vaughn 1087 1
+Mullen 1094 1
+ -  1048 1
+ -  1054 0
+Sotir 1075 1
+Mullen 1042 1
+Iliopoulos 1005 1
+Sotir 1067 1
+Mullen 1067 1
+Mullen 1017 1
+Mullen 1018 0
+Mullen 1085 1
+Crane 1032 1
+Sotir 1082 1
+Silverman 1054 1
+Sanna 1015 1
+Mullen 1008 1
+Sotir 1067 1
+ -  1005 1
+Sanna 1013 0
+Iliopoulos 1005 1
+Lin 1053 1
+Iliopoulos 1046 1
+Deal 1063 1
+Mullen 1005 1
+Sotir 1067 1
+Lin 1005 1
+Vaughn 1054 0
+ -  1067 1
+Lin 1005 1
+Mullen 1067 1
+Mullen 1026 1
+Nikitas 1067 1
+Burgess 1052 1
+McKinney 1067 1
+Sotir 1063 1
+Mullen 1094 1
+ -  1067 1
+ -  1067 1
+Mullen 1067 1
+Lin 1067 1
+Kazan 1033 1
+ -  1020 1
+Mullen 1067 1
+ -  1054 1
+Mullen 1067 1
+Mullen 1067 1
+Lin 1005 1
+ -  1005 1
+Tocci 1067 1
+Mullen 1034 1
+Mullen 1012 1
+Mullen 1067 1
+Mullen 1005 1
+Sotir 1094 1
+Lin 1067 0
+Lin 1013 1
+ -  1094 1
+Hernandez 1025 1
+Fox 1067 1
+ -  1067 1
+Fox 1013 1
+Brandon 1067 1
+Mullen 1067 1
+Burns 1042 1
+Mullen 1067 1
+Nikitas 1067 1
+Fox 1037 1
+Holden 1067 0
+Fox 1094 1
+Sanna 1067 0
+ -  1084 1
+Sotir 1002 1
+Sanna 1005 1
+Vaughn 1067 0
+ -  1017 1
+Mullen 1093 1
+Branch 1005 1
+Marsh 1094 0
+Mitzou 1075 1
+Fotos 1054 1
+Sanna 1054 1
+Mullen 1018 1
+Burns 1054 1
+ -  1080 1
+Mullen 1067 1
+ -  1005 1
+Mullen 1037 0
+Kazan 1078 1
+Sotir 1005 1
+Mullen 1015 1
+Mullen 1048 1
+Mullen 1067 1
+Vasco 1042 1
+McKinney 1067 1
+Denton 1020 1
+Sotir 1080 1
+Mullen 1005 1
+ -  1067 1
+ -  1020 1
+Sotir 1080 1
+Iliopoulos 1034 1
+Sotir 1067 1
+Sotir 1054 1
+Sotir 1049 1
+Kappas 1005 1
+Mullen 1054 1
+ -  1060 0
+Brandon 1049 1
+Iliopoulos 1082 1
+Crane 1094 1
+Sotir 1063 1
+Mullen 1091 1
+ -  1065 1
+Glaros 1034 1
+Lin 1094 1
+Branch 1075 1
+Mullen 1048 1
+Hernandez 1015 1
+McKinney 1032 1
+Sanna 1018 1
+ -  1022 1
+Thoma 1005 1
+ -  1085 1
+Mitzou 1013 0
+Nikitas 1094 1
+Mullen 1094 0
+Lin 1080 1
+Sanna 1038 1
+Sanna 1011 1
+Lin 1085 1
+Vasco 1005 1
+Silverman 1067 1
+Mullen 1067 1
+Sotir 1018 1
+Deal 1054 1
+Mullen 1091 1
+Sotir 1067 1
+Iliopoulos 1079 1
+Lin 1054 1
+Mullen 1094 1
+Mullen 1013 1
+Hernandez 1015 1
+Sotir 1038 1
+Sanna 1005 0
+Spears 1094 1
+Branch 1067 0
+ -  1067 1
+Vasco 1073 1
+Sotir 1067 1
+Jiang 1067 0
+ -  1002 1
+Jiang 1018 1
+Sotir 1085 1
+Iliopoulos 1005 1
+Sanna 1005 0
+Mitzou 1067 1
+Iliopoulos 1098 1
+ -  1035 1
+Iliopoulos 1005 1
+Hurst 1087 1
+Glaros 1014 1
+Mullen 1005 1
+Mullen 1092 1
+Hernandez 1031 1
+Lin 1094 0
+Sotir 1013 1
+Iliopoulos 1049 1
+Kelly 1008 1
+ -  1094 1
+Mullen 1067 1
+Hernandez 1020 1
+ -  1080 1
+ -  1067 1
+Heath 1091 1
+ -  1026 1
+Glaros 1020 1
+Melis 1080 1
+Mullen 1067 1
+Sotir 1079 1
+Mullen 1094 1
+Mullen 1032 1
+McKinney 1015 1
+Vasco 1005 1
+Carver 1091 1
+Mullen 1013 0
+McKinney 1067 1
+Iliopoulos 1050 1
+Sanna 1076 1
+ -  1054 1
+Daniels 1060 1
+Mullen 1013 1
+Vasco 1049 1
+Nikitas 1046 1
+Holden 1005 0
+Vasco 1067 1
+Sotir 1048 1
+Sotir 1022 1
+Branch 1067 1
+Sotir 1019 1
+Mullen 1067 1
+Lin 1067 1
+Mullen 1047 1
+Iliopoulos 1067 1
+Mullen 1053 0
+Sotir 1005 1
+Sanna 1005 1
+Mullen 1038 1
+Sotir 1067 1
+Kefalas 1085 1
+Mitzou 1078 1
+Mullen 1054 1
+Sotir 1059 1
+ -  1023 1
+Vasco 1005 1
+Sanna 1037 1
+ -  1018 1
+Sotir 1067 1
+Jiang 1005 1
+Sanna 1005 1
+Jiang 1005 1
+Mullen 1067 1
+Mullen 1067 1
+Silverman 1080 1
+Jiang 1020 1
+Sotir 1012 1
+Sotir 1013 1
+Mullen 1058 1
+ -  1029 1
+Mullen 1028 1
+ -  1054 1
+Tocci 1017 1
+Mullen 1013 1
+Iliopoulos 1018 1
+Mullen 1018 1
+Sotir 1054 0
+Sotir 1012 1
+Sanna 1067 1
+Sanna 1005 1
+ -  1050 1
+Mullen 1016 1
+Sotir 1046 1
+Mullen 1040 1
+Tocci 1046 1
+Fox 1067 1
+ -  1018 1
+Hernandez 1015 1
+ -  1067 1
+Sotir 1052 1
+Sotir 1074 1
+Burns 1078 1
+Palmer 1067 1
+Mullen 1013 1
+Mangas 1005 1
+Jiang 1080 1
+ -  1018 0
+Nikitas 1067 1
+ -  1005 1
+Mitzou 1094 1
+Kappas 1067 1
+Mullen 1005 1
+Sotir 1015 1
+Sotir 1003 1
+Mullen 1094 1
+Mitzou 1005 1
+ -  1054 1
+Sotir 1005 1
+Brandon 1003 1
+Mullen 1013 1
+Kallas 1022 1
+Mullen 1094 1
+Vasco 1094 1
+McKinney 1005 1
+Sotir 1020 1
+Mullen 1015 1
+ -  1002 1
+Vasco 1095 1
+Sanna 1024 1
+Glaros 1067 1
+Sanna 1094 0
+Mullen 1005 1
+Mullen 1020 1
+McKinney 1067 1
+Hurst 1024 1
+ -  1008 1
+Hernandez 1054 1
+Mullen 1018 1
+Mullen 1067 1
+Lin 1085 1
+Sotir 1005 1
+Brandon 1052 1
+Fox 1005 1
+ -  1020 1
+Sotir 1085 0
+Mullen 1013 1
+Nikitas 1067 1
+Zanni 1054 1
+Mullen 1094 1
+Mullen 1067 1
+Burns 1015 1
+Mullen 1005 1
+Burgess 1002 1
+Lin 1059 1
+Burns 1039 1
+Mullen 1067 1
+Kallas 1005 1
+Melis 1094 1
+Jiang 1005 0
+Mullen 1020 1
+Vaughn 1005 1
+ -  1067 1
+Sotir 1005 1
+Kefalas 1005 1
+Mullen 1005 1
+Nikitas 1042 1
+Lin 1084 1
+Holden 1012 1
+Mullen 1054 1
+Sotir 1009 1
+ -  1038 1
+ -  1094 1
+Mullen 1091 1
+Sotir 1018 1
+ -  1008 1
+Sanna 1011 1
+ -  1067 1
+ -  1078 1
+Economos 1067 0
+Sotir 1067 0
+Mullen 1026 1
+ -  1054 1
+Sotir 1091 1
+Sanna 1005 0
+Sanna 1061 0
+Lin 1067 1
+Vasco 1067 1
+Sotir 1015 0
+Dolan 1078 1
+Vasco 1067 1
+Sotir 1067 1
+Branch 1005 0
+Mitzou 1067 1
+Sotir 1020 0
+Sotir 1067 1
+Mullen 1016 1
+Fox 1067 1
+Sotir 1094 1
+Dolan 1067 1
+Mullen 1054 1
+Mitzou 1078 1
+Kazan 1078 1
+Sotir 1005 1
+Sotir 1067 1
+ -  1001 1
+Deal 1031 1
+Sanna 1084 1
+Lin 1051 0
+Sotir 1067 1
+Sanna 1005 0
+Mullen 1054 1
+Mullen 1067 1
+Vasco 1067 1
+Mullen 1005 1
+Mullen 1005 1
+Holden 1078 1
+ -  1019 1
+Branch 1005 1
+Vasco 1054 1
+Mullen 1012 1
+Melis 1067 1
+ -  1067 1
+Jiang 1067 1
+McKinney 1021 1
+McKinney 1046 1
+Glaros 1058 1
+Sanna 1067 0
+Jiang 1013 1
+Daniels 1067 1
+Iliopoulos 1070 1
+Vasco 1067 1
+Branch 1005 1
+ -  1054 1
+Vasco 1067 1
+Denton 1051 1
+Mullen 1067 1
+Sotir 1039 1
+Mullen 1018 1
+Mullen 1069 1
+Lin 1085 1
+McKinney 1038 1
+Mullen 1079 1
+Deal 1085 1
+Mangas 1054 1
+Lin 1020 1
+Mullen 1048 1
+Mullen 1067 1
+Sotir 1067 1
+McKinney 1085 1
+Glaros 1084 1
+Sanna 1054 1
+Burgess 1018 1
+Mitzou 1046 0
+Iliopoulos 1018 0
+ -  1080 1
+Sotir 1067 1
+Mullen 1089 1
+Mullen 1020 1
+Branch 1053 1
+Sotir 1094 0
+Nikitas 1005 1
+Sotir 1080 1
+Higgins 1026 1
+Burgess 1054 1
+Mullen 1020 1
+Mullen 1094 0
+Mullen 1022 1
+Vaughn 1020 1
+Lin 1008 1
+Iliopoulos 1071 1
+Burns 1013 1
+ -  1046 1
+Palmer 1067 1
+Sotir 1022 1
+ -  1067 1
+Iliopoulos 1067 1
+Glaros 1094 1
+Mullen 1091 0
+Mullen 1005 1
+Lin 1054 1
+Sotir 1057 1
+ -  1013 1
+Tocci 1067 1
+Vasco 1067 1
+Deal 1005 1
+ -  1067 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1095 1
+ -  1041 0
+Sotir 1000 1
+Mullen 1025 1
+Sotir 1067 1
+Mullen 1056 1
+McKinney 1002 1
+Mullen 1091 1
+Mitzou 1080 1
+Mullen 1067 1
+Fox 1020 1
+Sanna 1008 1
+Mullen 1044 1
+Mullen 1093 1
+Mullen 1020 1
+Mullen 1048 1
+Jiang 1067 1
+ -  1067 1
+Sanna 1005 1
+Mullen 1008 1
+Sotir 1013 1
+Mullen 1034 1
+ -  1067 1
+Mullen 1005 0
+Sotir 1085 1
+Mullen 1040 0
+Mullen 1008 1
+Chontos 1040 1
+Glaros 1094 1
+Mullen 1076 1
+Mullen 1067 0
+Sotir 1048 1
+Mullen 1044 1
+Lin 1017 1
+Sotir 1094 0
+Melis 1020 1
+Mullen 1070 0
+Mullen 1083 0
+Lin 1049 1
+Mullen 1067 1
+Mullen 1067 1
+Burgess 1013 1
+ -  1005 1
+Mullen 1046 1
+Mullen 1067 1
+Kappas 1074 1
+Mullen 1020 1
+Sotir 1032 1
+Mullen 1044 1
+ -  1012 1
+ -  1040 1
+Mangas 1015 1
+McKinney 1054 0
+ -  1063 1
+Sotir 1038 1
+Mullen 1064 1
+Vaughn 1008 1
+Hernandez 1067 1
+Sotir 1094 1
+Sotir 1033 1
+ -  1067 1
+Higgins 1005 1
+Sotir 1033 1
+Sotir 1067 1
+Lin 1067 1
+Sotir 1013 1
+Nikitas 1053 1
+Mullen 1094 1
+Mullen 1067 1
+ -  1072 1
+Kappas 1067 1
+Mitzou 1046 1
+Mullen 1097 1
+Iliopoulos 1005 0
+ -  1067 1
+Nikitas 1018 1
+Mullen 1052 1
+Burgess 1067 1
+ -  1076 1
+Mullen 1012 1
+Sanna 1018 1
+Nikitas 1046 1
+Mullen 1094 1
+Mullen 1067 1
+Sanna 1033 1
+Nikitas 1094 1
+Chontos 1065 0
+Mullen 1094 0
+Sotir 1018 1
+Deal 1067 1
+Sotir 1011 0
+Sotir 1047 1
+Chontos 1094 1
+Deal 1067 0
+Palmer 1054 0
+Sanna 1054 1
+Fox 1067 1
+Iliopoulos 1013 1
+Vlasopoulos 1033 0
+Deal 1032 1
+Sotir 1005 1
+Higgins 1005 1
+Nikitas 1085 1
+ -  1008 1
+Lin 1005 1
+Burns 1054 1
+Lin 1005 1
+Hernandez 1005 1
+Sotir 1055 1
+Vasco 1067 1
+Lin 1005 0
+Sanna 1067 1
+Sotir 1005 1
+Nikitas 1053 1
+ -  1018 1
+Burns 1054 1
+Brandon 1067 1
+Vasco 1054 0
+Mullen 1019 1
+Mullen 1016 1
+Mullen 1067 1
+Lin 1005 1
+Sotir 1020 1
+Iliopoulos 1048 0
+Mullen 1067 1
+Glaros 1064 1
+Sotir 1067 0
+Sotir 1054 1
+Lin 1055 1
+Iliopoulos 1018 0
+Burns 1022 0
+Sotir 1099 1
+Sanna 1005 1
+Mullen 1005 0
+Mullen 1005 1
+Tocci 1005 1
+Mullen 1053 0
+Mullen 1067 1
+McKinney 1085 0
+Lin 1018 1
+Vasco 1051 1
+Mullen 1015 1
+Mullen 1018 1
+Mullen 1067 1
+Kelly 1005 1
+Kappas 1091 1
+Sotir 1008 1
+Branch 1049 1
+Spears 1070 1
+Mullen 1067 1
+Zanni 1011 0
+Kazan 1054 1
+ -  1018 1
+Sanna 1088 1
+Lin 1067 1
+Deal 1005 0
+Glaros 1005 1
+Sanna 1067 1
+Mullen 1005 1
+Sanna 1077 1
+Nikitas 1054 1
+Mullen 1005 1
+Iliopoulos 1067 1
+ -  1015 1
+ -  1020 1
+Jiang 1075 1
+Sanna 1091 1
+Nikitas 1033 1
+Mullen 1046 1
+Glaros 1067 1
+Sanna 1067 1
+Burns 1040 0
+Iliopoulos 1088 0
+Sotir 1018 1
+Iliopoulos 1005 0
+ -  1067 1
+Lin 1005 1
+Mullen 1003 1
+Brandon 1085 1
+Fox 1081 1
+Sotir 1067 1
+Chontos 1005 1
+Lin 1005 1
+Deal 1067 1
+Vasco 1093 1
+Sotir 1013 1
+Mullen 1015 1
+Nikitas 1067 1
+ -  1038 1
+Hernandez 1015 1
+ -  1067 1
+Mullen 1020 1
+Kallas 1005 0
+Mullen 1008 1
+Mullen 1067 1
+Holden 1091 1
+Mullen 1033 1
+Tocci 1094 1
+Mullen 1046 1
+Sotir 1067 1
+Burns 1091 1
+Mullen 1067 1
+Iliopoulos 1056 1
+Mitzou 1024 1
+Sotir 1020 1
+Dolan 1067 1
+Economos 1094 1
+Mullen 1038 1
+Kappas 1067 1
+Lin 1018 0
+Mullen 1013 1
+Mullen 1038 1
+Mullen 1078 1
+Mullen 1032 1
+Mullen 1068 0
+Mullen 1013 1
+Nikitas 1065 1
+ -  1058 1
+Sanna 1062 1
+Hernandez 1005 1
+Sanna 1094 1
+ -  1070 1
+Jiang 1067 1
+Chen 1054 1
+ -  1053 0
+Kallas 1029 1
+Sotir 1015 1
+Vaughn 1054 1
+Lin 1067 1
+Lin 1078 1
+Lin 1067 1
+Sotir 1067 1
+Hernandez 1085 1
+Mullen 1060 1
+Mullen 1047 1
+Brandon 1082 1
+Holden 1054 1
+Vasco 1080 1
+Mitzou 1026 0
+Vasco 1067 1
+Mullen 1067 1
+Lin 1094 1
+Iliopoulos 1020 0
+Mullen 1073 1
+Vasco 1005 1
+Carver 1067 1
+Mitzou 1012 1
+Mullen 1064 1
+Sanna 1067 1
+Mullen 1067 1
+ -  1005 0
+ -  1040 1
+Nikitas 1051 1
+Lin 1091 0
+ -  1005 1
+Mullen 1070 1
+Mullen 1058 1
+Sanna 1020 1
+ -  1028 1
+Mullen 1020 1
+Sotir 1080 1
+ -  1085 1
+Lin 1038 1
+Avramidis 1054 1
+Sotir 1034 1
+Mullen 1094 1
+Sotir 1067 1
+Sotir 1022 1
+Avramidis 1054 1
+Lin 1085 0
+Hernandez 1067 1
+ -  1005 1
+Sanna 1015 1
+Sanna 1005 1
+Sotir 1048 1
+Sanna 1005 0
+ -  1067 1
+Iliopoulos 1067 1
+McKinney 1094 1
+Fox 1013 1
+ -  1005 1
+Fotos 1018 1
+Mullen 1053 1
+Sotir 1002 1
+Sotir 1067 1
+Sanna 1015 1
+Mullen 1005 1
+ -  1067 1
+Daniels 1067 1
+Tocci 1091 1
+Sotir 1074 1
+Lin 1067 1
+Mullen 1091 1
+Vasco 1052 1
+Mullen 1067 1
+Vasco 1067 1
+Mullen 1031 1
+ -  1067 1
+Sanna 1063 1
+Iliopoulos 1085 1
+Sanna 1076 1
+Mullen 1058 1
+Sotir 1067 1
+Sotir 1094 0
+Mullen 1067 0
+Lin 1067 0
+ -  1093 1
+Mullen 1049 1
+McKinney 1067 1
+Dolan 1005 1
+Carver 1005 1
+Mullen 1006 1
+Sotir 1094 1
+Sotir 1054 1
+Sotir 1050 1
+Sanna 1022 1
+Mullen 1036 1
+Mullen 1015 1
+Mullen 1013 1
+Sotir 1005 1
+Mullen 1067 1
+ -  1013 0
+Burgess 1067 1
+Mangas 1067 1
+Hernandez 1020 1
+Sotir 1008 1
+ -  1026 1
+Silverman 1067 1
+Burns 1032 1
+ -  1005 1
+Sotir 1005 1
+Iliopoulos 1067 1
+Lin 1067 1
+ -  1067 1
+Glaros 1049 1
+Brandon 1005 1
+Mullen 1005 1
+Mitzou 1007 1
+Mullen 1040 1
+Mullen 1020 1
+ -  1054 1
+McKinney 1007 1
+Sotir 1000 1
+Iliopoulos 1085 1
+ -  1080 1
+Mullen 1067 1
+Spears 1094 1
+Mullen 1058 0
+Mullen 1067 1
+Iliopoulos 1067 1
+Mitzou 1067 1
+Mullen 1051 1
+Mullen 1040 1
+ -  1067 1
+Mullen 1070 1
+Mullen 1094 1
+Sanna 1076 1
+Mullen 1023 1
+Holden 1067 1
+Mullen 1005 1
+Sanna 1001 1
+ -  1042 1
+Mullen 1067 1
+Sotir 1094 0
+Mitzou 1013 1
+Mitzou 1024 1
+Sotir 1013 1
+Mullen 1038 1
+Zanni 1067 1
+Kazan 1094 1
+Mangas 1094 1
+Kefalas 1067 1
+Mullen 1067 1
+Mullen 1038 1
+ -  1015 1
+Sotir 1006 1
+Mullen 1094 1
+Mullen 1067 1
+Mullen 1018 0
+Sotir 1093 1
+Mitzou 1056 1
+Kallas 1067 1
+Mullen 1043 1
+Sotir 1094 1
+Hernandez 1018 1
+Mullen 1054 1
+Mullen 1008 1
+Mullen 1076 1
+Daniels 1005 1
+Vasco 1013 1
+Jiang 1046 1
+Mullen 1015 1
+Sanna 1054 0
+Mullen 1005 1
+Hurst 1058 1
+Mullen 1067 0
+Sotir 1005 1
+Sotir 1067 1
+Mullen 1005 1
+Kefalas 1097 1
+Mullen 1005 1
+ -  1014 1
+Carver 1031 1
+Lin 1025 1
+Avramidis 1067 1
+Iliopoulos 1063 1
+Burns 1095 1
+Glaros 1054 1
+Iliopoulos 1094 1
+Sotir 1054 1
+Sanna 1067 1
+Nikitas 1084 1
+Mullen 1005 1
+Mullen 1091 1
+ -  1022 1
+Iliopoulos 1067 1
+Mangas 1067 1
+ -  1040 1
+Sotir 1094 1
+Lin 1067 1
+Vasco 1067 1
+ -  1005 1
+Lin 1094 1
+ -  1067 0
+Nikitas 1076 0
+Mullen 1005 1
+Mangas 1094 1
+Sanna 1020 1
+ -  1027 1
+Tocci 1038 1
+Sotir 1035 1
+Sotir 1067 1
+ -  1032 0
+Nikitas 1005 1
+McKinney 1034 1
+ -  1052 1
+Sotir 1040 1
+Sanna 1067 1
+Sotir 1037 1
+Hernandez 1013 1
+Sanna 1052 1
+Glaros 1083 0
+Higgins 1032 1
+Lin 1067 1
+Vasco 1067 1
+ -  1037 1
+Mullen 1067 1
+Hernandez 1005 1
+Mullen 1084 1
+Mullen 1067 1
+Sanna 1094 1
+Iliopoulos 1053 1
+Mullen 1022 1
+ -  1067 1
+Sotir 1080 1
+Currin 1005 1
+Lin 1067 1
+Mullen 1032 1
+Mullen 1015 1
+Mullen 1053 1
+Mullen 1005 1
+Mullen 1005 1
+Mullen 1005 1
+Fox 1067 1
+Thoma 1079 0
+Kazan 1054 1
+Melis 1095 1
+Mullen 1046 1
+Burgess 1094 1
+McKinney 1061 1
+Iliopoulos 1013 1
+Nikitas 1021 1
+ -  1026 0
+Mullen 1020 1
+ -  1011 1
+Sanna 1067 1
+Tocci 1042 1
+Heath 1054 1
+Burgess 1099 1
+Sanna 1067 1
+Nikitas 1067 1
+Mullen 1085 1
+Mullen 1018 1
+Mullen 1005 1
+Glaros 1018 1
+Lin 1067 1
+Deal 1085 1
+ -  1044 0
+Mullen 1035 1
+Mullen 1088 1
+Vasco 1054 1
+Mitzou 1067 1
+Glaros 1067 1
+Mitzou 1053 1
+Sanna 1067 1
+Fox 1054 0
+Mullen 1060 1
+Nikitas 1067 1
+Heath 1005 1
+Vaughn 1097 1
+Sotir 1047 1
+Sanna 1067 1
+Hurst 1067 1
+ -  1054 1
+Silverman 1034 1
+Deal 1091 1
+Mullen 1054 0
+Mullen 1054 0
+ -  1067 1
+Sanna 1058 1
+ -  1084 0
+Mullen 1067 1
+Vasco 1018 1
+Mullen 1054 1
+Carver 1013 1
+Sanna 1049 1
+Burns 1020 1
+Heath 1067 1
+Hernandez 1008 1
+McKinney 1005 1
+Lin 1061 0
+Sotir 1066 0
+Deal 1008 1
+Burns 1054 1
+Crane 1067 1
+Glaros 1054 1
+Mullen 1016 1
+Sotir 1067 1
+Jiang 1067 1
+Mullen 1015 1
+ -  1058 1
+Sotir 1078 1
+Jiang 1067 1
+Mullen 1017 1
+Mullen 1046 1
+Lin 1067 1
+Tocci 1067 1
+Sanna 1059 1
+Mullen 1067 0
+Economos 1067 0
+Mullen 1091 1
+Vasco 1084 1
+Holden 1020 1
+Sotir 1054 1
+Mullen 1005 1
+Lin 1054 1
+Mitzou 1060 1
+Mullen 1054 0
+ -  1067 1
+Fox 1060 1
+Hernandez 1091 1
+Lin 1033 0
+Vasco 1091 1
+Sanna 1067 1
+Mullen 1013 0
+Jiang 1067 1
+Sanna 1067 1
+Vlasopoulos 1018 1
+Sotir 1078 1
+Lin 1099 1
+Mullen 1085 1
+Brandon 1067 1
+Holden 1067 1
+Sanna 1018 1
+ -  1048 1
+Mullen 1034 1
+Sotir 1079 1
+Sotir 1015 1
+Mullen 1093 1
+Lin 1005 1
+Burns 1067 1
+Burns 1013 1
+Mullen 1067 1
+Mullen 1052 1
+Vasco 1034 1
+Glaros 1005 0
+Sotir 1052 1
+Sotir 1037 1
+Mullen 1004 1
+Mullen 1018 1
+Fotos 1091 1
+Mullen 1080 1
+Mullen 1067 1
+Mullen 1025 1
+Mullen 1094 1
+Tocci 1024 1
+Lin 1067 1
+Sotir 1005 0
+Mullen 1067 1
+Sotir 1032 1
+Melis 1080 1
+Holden 1005 1
+Mullen 1056 1
+ -  1005 1
+Sotir 1067 1
+Sanna 1094 1
+ -  1052 0
+Nikitas 1067 1
+Mullen 1054 1
+Crane 1083 1
+Mullen 1067 0
+Sotir 1067 1
+Fotos 1094 1
+Lin 1086 1
+Hernandez 1067 0
+Kidd 1091 1
+Sotir 1018 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1053 1
+Tocci 1078 1
+Mullen 1020 1
+Vasco 1020 1
+Lin 1054 1
+Kefalas 1040 0
+Lin 1005 1
+Lin 1020 1
+Mullen 1067 1
+Mullen 1094 1
+Iliopoulos 1054 1
+ -  1067 1
+Glaros 1005 1
+Deal 1013 1
+Hurst 1050 1
+Mullen 1005 0
+Brandon 1067 0
+Sotir 1005 1
+Lin 1005 1
+Silverman 1072 1
+Mullen 1094 1
+Mullen 1067 1
+Mullen 1054 1
+Mullen 1005 1
+Sotir 1067 1
+Dolan 1088 1
+Sotir 1083 1
+Mullen 1054 1
+Mullen 1037 1
+ -  1085 1
+Lin 1015 1
+Sanna 1005 1
+Higgins 1052 1
+Iliopoulos 1026 1
+Jiang 1015 1
+Vasco 1079 1
+ -  1005 1
+Mullen 1005 1
+Mullen 1067 1
+ -  1067 1
+ -  1067 1
+McKinney 1094 1
+Silverman 1067 0
+Lin 1094 1
+Mullen 1054 1
+Mullen 1077 1
+ -  1018 1
+Mullen 1085 1
+Avramidis 1048 1
+Iliopoulos 1067 1
+Vlasopoulos 1005 0
+Mullen 1005 1
+Sotir 1040 1
+Mullen 1058 1
+Mullen 1005 1
+Burgess 1005 1
+Sanna 1061 0
+Iliopoulos 1067 0
+Mullen 1074 1
+Burns 1054 0
+Iliopoulos 1020 1
+Mullen 1067 1
+Sanna 1060 1
+Mullen 1001 1
+Glaros 1052 1
+Mullen 1046 1
+Iliopoulos 1036 1
+Burns 1091 1
+Sotir 1048 0
+Vasco 1049 1
+Mullen 1067 1
+Iliopoulos 1058 1
+Mullen 1094 1
+Burgess 1000 1
+Fotos 1032 1
+Sanna 1067 1
+Mullen 1058 1
+Sanna 1002 0
+Burns 1026 0
+Mullen 1015 1
+Lin 1005 1
+Lin 1067 1
+Burns 1094 1
+Mitzou 1022 1
+Nikitas 1088 0
+Kidd 1020 1
+Sanna 1013 1
+Vlasopoulos 1032 0
+Jiang 1067 0
+ -  1085 1
+Marsh 1063 1
+Mullen 1005 1
+Sanna 1063 1
+Hurst 1067 1
+Mullen 1037 1
+ -  1058 1
+Sotir 1038 1
+Tocci 1045 1
+Chen 1067 1
+Iliopoulos 1067 1
+Sotir 1067 1
+Mullen 1067 1
+Mitzou 1067 1
+Mullen 1094 1
+Mullen 1052 1
+Vasco 1067 1
+Chontos 1054 1
+Holden 1094 1
+Palmer 1077 0
+Sotir 1067 1
+ -  1054 1
+Nikitas 1001 1
+Jiang 1025 0
+Mullen 1079 1
+ -  1067 1
+Mullen 1094 1
+Sanna 1055 1
+Sanna 1088 1
+Tocci 1040 1
+Mullen 1005 1
+Mullen 1005 0
+Glaros 1067 1
+Crane 1067 1
+Mullen 1020 1
+Mullen 1013 1
+Mullen 1015 1
+McKinney 1067 1
+ -  1025 1
+Kefalas 1005 1
+Iliopoulos 1052 1
+ -  1020 1
+ -  1020 1
+Sotir 1032 1
+Hurst 1057 1
+ -  1067 1
+Jiang 1096 0
+Sanna 1005 1
+Kallas 1054 1
+ -  1066 1
+Sanna 1018 1
+Nikitas 1091 1
+Iliopoulos 1054 1
+Burns 1075 1
+Sotir 1020 1
+Chontos 1067 1
+Sotir 1067 1
+Mullen 1009 1
+Hernandez 1067 1
+Sotir 1067 1
+Iliopoulos 1067 1
+Mullen 1067 1
+Sotir 1074 1
+Iliopoulos 1094 1
+Mullen 1067 1
+Nikitas 1005 1
+Sotir 1013 0
+ -  1005 1
+Mullen 1091 1
+Mullen 1046 1
+ -  1089 1
+Sotir 1037 0
+Sanna 1013 1
+Mullen 1085 1
+ -  1005 1
+Lin 1060 1
+Tocci 1046 1
+ -  1067 1
+McKinney 1008 0
+ -  1022 1
+Mullen 1047 1
+Lin 1067 1
+Sotir 1091 1
+Mullen 1067 1
+Mullen 1067 1
+Iliopoulos 1054 1
+Vaughn 1091 1
+Mullen 1067 1
+Iliopoulos 1067 1
+Vasco 1035 1
+Mullen 1005 1
+Mullen 1036 1
+Kazan 1094 1
+Mullen 1067 1
+Deal 1094 1
+ -  1084 1
+Vasco 1054 1
+Fox 1094 1
+Jiang 1020 0
+Mullen 1067 1
+Sanna 1067 1
+Mullen 1067 1
+Mullen 1029 1
+Burgess 1005 1
+Deal 1005 1
+Mullen 1013 1
+Sotir 1020 1
+Mullen 1067 1
+Hurst 1067 1
+Sanna 1052 1
+Sotir 1067 1
+Brandon 1067 0
+Hernandez 1097 0
+ -  1040 1
+Branch 1005 1
+Iliopoulos 1005 1
+Lin 1005 1
+Mullen 1032 1
+Mullen 1067 0
+Lin 1067 1
+Mullen 1067 1
+Mullen 1067 0
+Sanna 1054 1
+Glaros 1085 1
+Jiang 1067 1
+Mullen 1091 1
+ -  1073 1
+Burns 1038 0
+Mullen 1016 1
+Sotir 1054 1
+Mullen 1067 0
+Mullen 1067 1
+Mullen 1094 1
+Deal 1094 1
+Mullen 1005 1
+Sotir 1078 1
+Vaughn 1095 1
+Mitzou 1067 0
+Sanna 1018 1
+Sotir 1042 1
+Vaughn 1054 1
+Heath 1005 1
+ -  1025 1
+Iliopoulos 1080 1
+Nikitas 1067 1
+Mullen 1054 1
+Sanna 1067 1
+Jiang 1067 1
+Mullen 1005 1
+Mullen 1067 1
+ -  1067 1
+Mullen 1067 1
+Kefalas 1005 1
+Mitzou 1067 1
+Mullen 1020 0
+Hurst 1078 1
+Sanna 1046 1
+Fox 1058 0
+ -  1004 0
+Economos 1045 1
+Mullen 1020 1
+Sotir 1067 1
+Zanni 1005 1
+Burgess 1076 1
+Mullen 1067 1
+Sotir 1067 1
+Sanna 1067 1
+Daniels 1054 1
+Lin 1067 1
+Burns 1067 0
+Mullen 1067 1
+Sanna 1054 1
+Sanna 1090 1
+Mullen 1005 1
+Mullen 1067 1
+Burns 1013 1
+Lin 1028 1
+Kallas 1058 1
+Sanna 1067 1
+Mullen 1067 1
+ -  1031 1
+Lin 1043 1
+Hernandez 1079 1
+Burgess 1067 1
+ -  1067 1
+Mullen 1079 0
+Marsh 1040 1
+Sotir 1054 1
+ -  1067 1
+Lin 1067 1
+Sotir 1054 1
+Glaros 1054 1
+Fox 1099 1
+Mullen 1056 1
+Lin 1091 1
+Vasco 1040 1
+Lin 1088 1
+Sotir 1018 1
+ -  1049 1
+Sotir 1018 1
+Jiang 1091 1
+Mullen 1037 1
+Mullen 1067 1
+Mullen 1020 1
+Mullen 1015 1
+Holden 1017 1
+Sotir 1020 1
+ -  1005 1
+Spears 1052 1
+Kazan 1078 1
+Melis 1067 1
+ -  1067 1
+Mullen 1063 1
+Deal 1067 1
+Fox 1063 0
+ -  1019 1
+Sotir 1085 1
+Sanna 1067 1
+Sotir 1067 1
+Mullen 1077 1
+Mangas 1052 1
+Mullen 1046 1
+Iliopoulos 1067 1
+Hernandez 1067 1
+Mullen 1005 1
+Mullen 1067 1
+Mitzou 1067 1
+Sanna 1008 1
+Mullen 1013 1
+Mullen 1052 0
+Mullen 1031 1
+Sanna 1067 1
+Mullen 1067 1
+Fox 1067 1
+Mullen 1082 1
+Sanna 1005 1
+Sanna 1097 1
+Zanni 1056 1
+ -  1009 1
+Burns 1067 0
+Kappas 1067 1
+ -  1058 1
+Mullen 1096 0
+Burns 1067 1
+Mullen 1009 1
+Chontos 1067 1
+Vasco 1045 1
+Mitzou 1033 1
+Mullen 1005 1
+Kappas 1012 1
+Lin 1005 1
+Mitzou 1028 1
+Melis 1054 1
+Burns 1019 1
+ -  1085 1
+Mullen 1005 0
+Mullen 1094 1
+Kappas 1094 1
+Mullen 1028 1
+Mullen 1038 1
+Mangas 1038 1
+Mullen 1005 1
+Sanna 1018 1
+Tocci 1083 0
+Hernandez 1049 1
+Mullen 1081 1
+ -  1065 0
+Nikitas 1067 1
+Sotir 1075 1
+Mullen 1020 1
+Burns 1081 1
+Lin 1015 1
+ -  1020 1
+Tocci 1053 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1026 1
+Mullen 1005 1
+Glaros 1028 1
+ -  1054 1
+Sotir 1067 1
+Fox 1054 0
+Vasco 1067 1
+Sotir 1022 1
+Spears 1069 1
+Lin 1054 0
+Daniels 1018 1
+McKinney 1054 1
+Sanna 1067 1
+Brandon 1067 1
+Mullen 1047 1
+Burgess 1005 1
+Sotir 1046 0
+Marsh 1006 1
+Mullen 1032 1
+Mullen 1060 1
+Vasco 1005 1
+ -  1067 1
+Lin 1005 1
+Sotir 1054 1
+Lin 1094 1
+Mullen 1038 1
+Iliopoulos 1012 1
+Heath 1046 1
+Kappas 1040 1
+Silverman 1052 1
+ -  1094 1
+ -  1067 1
+Sotir 1067 1
+Mullen 1067 1
+Mullen 1067 1
+Tocci 1044 1
+Mullen 1052 1
+Sotir 1067 1
+Chontos 1067 1
+Mullen 1041 1
+Mullen 1057 1
+Holden 1067 0
+Hurst 1048 1
+Mullen 1060 1
+Mullen 1020 1
+Sotir 1016 0
+Chontos 1003 1
+ -  1005 1
+Iliopoulos 1054 0
+Sotir 1070 1
+Sotir 1005 1
+Mullen 1068 1
+Jiang 1067 1
+Mangas 1085 1
+Mullen 1045 1
+Lin 1005 1
+ -  1067 1
+Sotir 1005 1
+Sanna 1067 1
+Deal 1076 1
+Sanna 1067 1
+Mullen 1052 1
+Tocci 1018 1
+ -  1067 1
+Mullen 1002 1
+Spears 1067 1
+Crane 1085 1
+Tocci 1015 1
+Sotir 1067 1
+Mullen 1067 1
+Sotir 1005 1
+ -  1067 1
+Palmer 1015 1
+Mullen 1039 1
+Mullen 1060 1
+Lin 1067 1
+Jiang 1067 1
+Mitzou 1013 1
+Mullen 1005 1
+Vaughn 1067 1
+Vasco 1074 1
+Mullen 1067 1
+Mullen 1067 1
+ -  1035 0
+Dolan 1086 1
+Mullen 1013 1
+Mullen 1067 1
+Iliopoulos 1094 1
+Mangas 1005 1
+Sanna 1020 1
+Sotir 1040 1
+Sotir 1067 1
+Sotir 1067 1
+Chontos 1054 1
+Sotir 1067 1
+ -  1054 1
+Mullen 1067 1
+Chontos 1023 0
+ -  1005 1
+Iliopoulos 1076 1
+Burns 1033 1
+Iliopoulos 1035 1
+Mullen 1005 1
+Sanna 1005 1
+Mullen 1090 1
+Mullen 1005 1
+Lin 1013 1
+Mitzou 1058 1
+Marsh 1067 1
+Vasco 1067 1
+Mullen 1067 1
+Mullen 1050 1
+Lin 1067 0
+Nikitas 1052 1
+Deal 1093 0
+Glaros 1000 1
+Iliopoulos 1005 1
+Burgess 1067 0
+Mullen 1005 1
+Mullen 1005 1
+Lin 1020 1
+ -  1091 0
+Mullen 1054 1
+Vasco 1032 1
+Chontos 1067 0
+Mullen 1009 1
+ -  1020 1
+Vasco 1067 1
+ -  1083 1
+Kappas 1020 0
+Kidd 1020 1
+Lin 1067 1
+Iliopoulos 1067 1
+Nikitas 1018 1
+Mullen 1085 1
+Melis 1001 1
+Sotir 1005 1
+ -  1067 1
+Daniels 1054 1
+Mullen 1067 0
+Sotir 1050 1
+Mullen 1091 1
+Burns 1042 1
+Nikitas 1094 0
+Mullen 1005 1
+ -  1095 1
+Burgess 1080 1
+Mullen 1080 1
+ -  1005 1
+Mullen 1013 1
+Sotir 1013 1
+ -  1067 0
+Mitzou 1067 1
+Mullen 1018 1
+ -  1013 1
+Sotir 1081 1
+Melis 1067 1
+Mullen 1067 1
+Mullen 1020 0
+Sotir 1005 1
+Thoma 1054 1
+Mullen 1067 1
+Iliopoulos 1054 1
+Lin 1076 1
+Mullen 1046 1
+Mullen 1094 0
+Tocci 1067 1
+Mitzou 1040 1
+Sanna 1067 1
+Sanna 1054 1
+Sotir 1058 1
+ -  1005 1
+Mitzou 1046 1
+Sotir 1020 0
+Sanna 1067 1
+Mullen 1054 1
+Sotir 1091 0
+Sotir 1078 1
+Mullen 1067 1
+Mullen 1067 1
+Lin 1067 1
+Brandon 1015 1
+Sotir 1094 0
+Mullen 1052 1
+Mullen 1080 1
+Mullen 1060 0
+Economos 1073 1
+Sanna 1073 1
+Mullen 1074 1
+Sotir 1067 1
+Sotir 1094 1
+Mullen 1094 1
+Silverman 1041 1
+Melis 1015 0
+ -  1096 1
+Sotir 1067 1
+Kappas 1083 1
+ -  1038 1
+Iliopoulos 1007 1
+Iliopoulos 1020 1
+Mullen 1009 0
+Mitzou 1053 1
+Jiang 1073 1
+Iliopoulos 1062 0
+Glaros 1067 1
+Mullen 1067 1
+Mullen 1004 0
+Mullen 1067 1
+Mullen 1088 1
+Mullen 1028 0
+Sotir 1067 1
+Mullen 1015 1
+Sanna 1033 0
+Sotir 1005 1
+Dolan 1067 1
+Lin 1067 1
+Iliopoulos 1016 1
+Nikitas 1067 1
+Mullen 1005 1
+Mullen 1094 1
+ -  1085 1
+Mullen 1039 0
+Mitzou 1058 1
+Jiang 1096 1
+Mullen 1015 0
+Sotir 1018 1
+Spears 1094 1
+Mullen 1018 1
+ -  1094 1
+Carver 1005 1
+Sotir 1046 1
+Sanna 1067 1
+ -  1066 1
+Mullen 1005 1
+Chontos 1067 1
+Zanni 1067 1
+ -  1067 1
+Vasco 1067 1
+Vasco 1015 1
+Branch 1067 1
+ -  1044 1
+Iliopoulos 1054 1
+ -  1005 0
+Nikitas 1020 0
+Deal 1052 1
+Mullen 1015 1
+Jiang 1049 1
+Sanna 1067 1
+Kazan 1005 1
+Burns 1085 1
+Mullen 1020 1
+Jiang 1067 1
+McKinney 1008 1
+McKinney 1067 1
+Iliopoulos 1067 1
+Mullen 1005 1
+Mullen 1094 1
+Sanna 1020 1
+Hernandez 1067 1
+Silverman 1067 1
+Sanna 1067 1
+Lin 1008 1
+Burns 1054 1
+ -  1008 1
+Mullen 1032 1
+Iliopoulos 1020 1
+Deal 1005 1
+Mullen 1018 1
+Deal 1080 1
+Mullen 1067 1
+Kappas 1054 0
+ -  1041 1
+Jiang 1002 1
+Burns 1018 1
+ -  1024 1
+Fotos 1097 1
+Mullen 1018 1
+Mullen 1013 1
+Mullen 1077 1
+ -  1094 1
+Mullen 1018 1
+Mullen 1067 1
+Sanna 1026 1
+Mitzou 1054 1
+Mullen 1018 1
+Sotir 1054 1
+Sotir 1038 1
+Dolan 1036 1
+Mullen 1039 0
+Sotir 1046 1
+Zanni 1094 1
+Melis 1063 1
+Glaros 1094 1
+Mullen 1005 1
+Sotir 1054 1
+Fotos 1054 0
+Silverman 1008 1
+McKinney 1067 1
+Sotir 1067 1
+Sotir 1012 1
+Mullen 1005 0
+Mullen 1040 1
+Sanna 1043 1
+Lin 1054 1
+Iliopoulos 1021 1
+Mullen 1067 1
+Melis 1067 1
+Mullen 1015 0
+Mitzou 1005 1
+Sanna 1053 1
+Sanna 1030 1
+Burns 1067 1
+Currin 1067 1
+Mullen 1067 1
+Kazan 1005 0
+Mullen 1031 1
+Sotir 1091 1
+Crane 1067 1
+Lin 1067 1
+Iliopoulos 1054 1
+Sotir 1019 1
+Higgins 1048 1
+Sanna 1054 1
+Mullen 1063 1
+Mullen 1091 1
+Carver 1066 1
+Mullen 1005 1
+Mullen 1005 1
+Mullen 1033 0
+Mullen 1040 0
+Carver 1067 1
+Sanna 1067 1
+Mullen 1067 1
+Sotir 1088 1
+Sanna 1067 1
+Mullen 1067 1
+Iliopoulos 1005 1
+Vasco 1067 1
+Mangas 1005 1
+Kappas 1059 0
+Sanna 1025 1
+Vasco 1005 1
+Sotir 1067 0
+Chontos 1005 1
+Vasco 1016 1
+Mullen 1054 1
+Glaros 1099 1
+Hernandez 1076 1
+Holden 1068 1
+Mullen 1067 1
+Iliopoulos 1007 1
+ -  1005 1
+Mullen 1067 1
+Mullen 1005 1
+Sotir 1015 1
+ -  1014 1
+Iliopoulos 1054 1
+Mullen 1085 1
+Mullen 1094 1
+Kappas 1097 1
+Mullen 1005 0
+Branch 1054 1
+Sanna 1020 0
+Mullen 1067 1
+Sanna 1005 1
+Mangas 1005 1
+Sotir 1054 1
+Sotir 1005 1
+ -  1080 1
+Sanna 1094 1
+Mullen 1005 1
+Mullen 1091 1
+Mullen 1005 1
+Chen 1053 1
+Mullen 1054 1
+Sotir 1072 1
+ -  1015 1
+Sanna 1054 1
+Sanna 1005 1
+Mullen 1001 1
+Mullen 1067 1
+Vasco 1020 1
+Mullen 1054 1
+Mullen 1091 0
+Holden 1054 1
+Mitzou 1082 1
+Mullen 1048 1
+Sotir 1067 1
+Mullen 1067 1
+ -  1094 1
+Burns 1046 1
+Mullen 1015 1
+Mullen 1078 1
+Mullen 1072 1
+Mullen 1067 1
+Sotir 1067 1
+Iliopoulos 1005 1
+Mullen 1067 1
+Iliopoulos 1072 1
+Nikitas 1094 0
+Burns 1063 1
+Palmer 1080 1
+ -  1085 1
+Sotir 1020 1
+Mullen 1067 1
+Mullen 1005 1
+Sotir 1067 1
+Sanna 1028 1
+Mullen 1060 1
+Mitzou 1080 1
+Fox 1015 1
+Mullen 1005 1
+Lin 1067 1
+Chontos 1005 1
+Sotir 1078 1
+Sotir 1011 1
+Melis 1094 1
+Nikitas 1011 1
+Mullen 1067 1
+Sotir 1020 1
+Mullen 1073 1
+Mullen 1079 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1076 0
+Mullen 1054 1
+Mullen 1013 1
+Mullen 1005 1
+Sanna 1054 1
+Mitzou 1024 1
+Vasco 1054 1
+Jiang 1067 1
+Kidd 1091 1
+Fotos 1025 1
+Sanna 1067 1
+Mullen 1067 1
+Mullen 1024 1
+Fox 1040 1
+Mullen 1015 1
+Mullen 1091 1
+Mullen 1005 0
+Sotir 1005 1
+Mullen 1060 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1067 1
+Kefalas 1079 1
+ -  1063 1
+Sotir 1018 1
+Mullen 1067 1
+Lin 1067 1
+Kallas 1054 0
+Jiang 1067 1
+Mullen 1015 1
+Mullen 1067 1
+Kazan 1054 0
+Denton 1046 1
+Glaros 1018 0
+Mullen 1072 0
+Mullen 1038 1
+Glaros 1002 1
+Mitzou 1067 1
+Sotir 1008 1
+Mullen 1067 1
+Mullen 1040 1
+Sotir 1013 1
+Sotir 1079 1
+Marsh 1017 1
+Burgess 1084 1
+Iliopoulos 1094 0
+McKinney 1048 1
+Silverman 1080 1
+Lin 1067 1
+Deal 1008 1
+Lin 1067 1
+Iliopoulos 1015 1
+Kappas 1067 1
+Mullen 1076 1
+Sanna 1091 1
+ -  1091 1
+Lin 1025 1
+Vaughn 1005 1
+Sanna 1033 1
+Mullen 1054 0
+Mitzou 1005 1
+Mitzou 1020 1
+Mullen 1067 1
+Mullen 1020 1
+Deal 1018 1
+Mullen 1056 1
+Deal 1005 1
+Kallas 1063 1
+ -  1079 1
+Iliopoulos 1067 0
+ -  1091 1
+Mullen 1054 1
+Mullen 1020 0
+Dolan 1094 1
+Mitzou 1067 1
+Vasco 1094 1
+Mullen 1085 1
+Mullen 1091 1
+Mullen 1032 0
+Mullen 1020 1
+Mullen 1094 1
+Glaros 1040 1
+Lin 1067 1
+Vasco 1034 1
+Kazan 1005 1
+Mullen 1094 1
+Mullen 1065 1
+Mullen 1067 1
+ -  1067 1
+Palmer 1054 1
+Mullen 1067 1
+Holden 1054 1
+Burgess 1094 1
+Carver 1008 1
+Mullen 1054 1
+Mullen 1002 1
+Jiang 1067 1
+Kazan 1067 1
+Mullen 1031 1
+Silverman 1038 1
+Mullen 1058 1
+Chen 1094 1
+Burns 1017 1
+Mullen 1054 1
+Glaros 1005 1
+ -  1005 1
+Mullen 1067 1
+Kallas 1067 1
+Sotir 1089 1
+Kallas 1054 1
+Vasco 1020 1
+Mullen 1085 1
+Sanna 1073 1
+Sanna 1005 1
+ -  1067 1
+Kallas 1034 1
+Burns 1093 1
+Burns 1018 1
+Sotir 1044 1
+Lin 1078 1
+Melis 1094 1
+Deal 1067 1
+Vlasopoulos 1067 1
+Vlasopoulos 1066 1
+Mullen 1049 1
+Higgins 1067 1
+Sanna 1082 1
+Vlasopoulos 1067 1
+Iliopoulos 1040 0
+Sanna 1042 1
+ -  1038 1
+Tocci 1054 1
+Mullen 1040 1
+Mullen 1067 1
+Jiang 1040 1
+Mullen 1094 0
+Kallas 1005 1
+Sotir 1067 1
+Mullen 1067 1
+Sotir 1015 1
+ -  1005 1
+Mullen 1067 1
+Hernandez 1054 1
+Avramidis 1005 1
+Sotir 1094 1
+Lin 1067 1
+Sotir 1018 1
+Mullen 1008 1
+Mullen 1067 1
+Hurst 1067 1
+ -  1013 1
+Mullen 1044 1
+Vasco 1089 1
+Hurst 1091 1
+Burns 1067 1
+Chontos 1013 1
+ -  1067 1
+Sotir 1080 1
+Mullen 1052 1
+Mullen 1042 1
+Sotir 1085 1
+Sotir 1022 1
+Burns 1067 1
+Hernandez 1049 1
+Vasco 1084 1
+Mitzou 1067 1
+Mitzou 1035 1
+Sanna 1020 1
+ -  1035 1
+Mullen 1067 1
+Mullen 1035 1
+Mullen 1067 1
+Mullen 1026 1
+Heath 1069 1
+Mitzou 1067 1
+ -  1018 1
+Mullen 1078 1
+Mullen 1067 1
+Thoma 1038 1
+Currin 1032 1
+Mullen 1054 0
+ -  1067 1
+Nikitas 1094 1
+Chontos 1054 1
+Sanna 1053 1
+Palmer 1005 1
+Avramidis 1050 1
+Mullen 1067 1
+Sotir 1003 0
+Hurst 1067 1
+Sotir 1013 1
+Kidd 1084 1
+Mullen 1004 1
+Vasco 1018 1
+Fotos 1094 1
+Sotir 1054 1
+ -  1094 0
+Mullen 1067 1
+Sotir 1021 0
+Mullen 1005 1
+Fox 1067 1
+Mullen 1067 1
+ -  1067 1
+Mitzou 1094 1
+Lin 1067 0
+Mullen 1059 1
+McKinney 1005 1
+Mullen 1076 1
+Vasco 1033 1
+Lin 1067 1
+Mullen 1054 1
+ -  1094 1
+Mullen 1067 1
+Sotir 1067 1
+Mullen 1067 1
+Iliopoulos 1054 0
+Carver 1005 1
+ -  1018 1
+Chontos 1032 1
+Mullen 1067 1
+Mullen 1054 1
+ -  1067 0
+Sanna 1042 1
+Mullen 1054 1
+Mullen 1054 1
+ -  1094 1
+Carver 1057 1
+Mullen 1001 1
+Mullen 1067 0
+Kappas 1085 1
+Thoma 1013 1
+ -  1005 1
+ -  1005 1
+Lin 1067 1
+Mullen 1067 1
+Sotir 1067 1
+Sotir 1054 1
+Sanna 1067 1
+Mitzou 1013 1
+Mullen 1028 1
+Mullen 1054 0
+Sotir 1020 1
+Mullen 1054 1
+Sotir 1094 1
+Mullen 1094 1
+Economos 1005 0
+Sotir 1067 1
+Fox 1067 1
+ -  1084 0
+ -  1078 1
+Jiang 1042 0
+Kappas 1067 1
+Sotir 1067 1
+Sotir 1033 0
+ -  1052 1
+Kefalas 1013 1
+Mullen 1080 0
+Sanna 1093 1
+Jiang 1005 1
+ -  1067 1
+Mullen 1067 1
+Mullen 1013 1
+Mullen 1054 1
+Brandon 1013 1
+Mullen 1002 1
+Vasco 1084 0
+Burgess 1067 1
+Kazan 1005 1
+Sotir 1067 1
+Mullen 1054 1
+Mullen 1067 1
+Mullen 1013 1
+Sanna 1054 1
+Iliopoulos 1054 0
+Sotir 1026 1
+Burns 1054 1
+Mullen 1046 1
+Silverman 1067 1
+ -  1067 1
+Sanna 1067 1
+Mullen 1040 1
+ -  1032 1
+Melis 1037 1
+Sanna 1072 1
+Sanna 1067 0
+ -  1067 1
+Mullen 1020 1
+Mullen 1067 1
+Lin 1067 1
+Vasco 1020 1
+Zanni 1005 1
+ -  1094 1
+Mullen 1076 1
+Mullen 1005 0
+Sotir 1013 1
+Mullen 1067 1
+Brandon 1013 1
+ -  1067 1
+Iliopoulos 1042 1
+Chontos 1094 1
+Sanna 1054 1
+Sotir 1037 1
+Fox 1094 1
+Nikitas 1054 1
+Nikitas 1091 1
+Mullen 1085 1
+ -  1039 0
+Sanna 1015 0
+Lin 1054 1
+Mullen 1005 0
+Mullen 1020 0
+Lin 1039 1
+Lin 1067 1
+Vlasopoulos 1038 1
+Mullen 1042 1
+ -  1080 1
+Mullen 1067 1
+Sanna 1094 1
+Sotir 1067 1
+ -  1084 0
+Sotir 1020 1
+Mullen 1094 1
+Sotir 1020 1
+Fox 1020 0
+Vasco 1054 1
+Sotir 1067 1
+Mullen 1067 1
+ -  1046 1
+McKinney 1067 1
+Mullen 1013 0
+Sotir 1046 1
+Jiang 1054 1
+Mullen 1094 1
+ -  1052 1
+Vasco 1013 1
+Sanna 1062 1
+Mullen 1067 1
+Sotir 1054 1
+Iliopoulos 1020 1
+Mitzou 1067 1
+Mullen 1048 0
+Mullen 1005 1
+Mullen 1067 1
+Lin 1067 1
+ -  1005 1
+Sanna 1097 1
+Mitzou 1005 1
+Nikitas 1067 1
+Chontos 1013 0
+Tocci 1001 1
+ -  1033 1
+Tocci 1078 1
+Vaughn 1005 1
+ -  1048 1
+Mullen 1095 1
+ -  1026 1
+Sotir 1082 1
+Sanna 1020 1
+Thoma 1067 1
+Iliopoulos 1018 1
+Kazan 1067 1
+Mullen 1067 1
+Silverman 1011 1
+Burns 1067 1
+Vaughn 1067 1
+Sanna 1005 1
+Silverman 1018 0
+ -  1067 1
+Tocci 1091 0
+ -  1005 0
+Tocci 1062 0
+Marsh 1005 1
+Mullen 1002 0
+ -  1040 1
+Mullen 1054 1
+Kidd 1054 1
+Mullen 1054 1
+ -  1020 1
+Silverman 1018 1
+Kallas 1054 1
+Mullen 1073 1
+Lin 1094 1
+Jiang 1094 1
+Mullen 1067 0
+Mullen 1048 1
+Mullen 1070 1
+Palmer 1097 1
+Mullen 1005 0
+ -  1054 1
+Mullen 1005 1
+Sotir 1067 1
+Vasco 1038 1
+Carver 1067 1
+Jiang 1067 1
+Kazan 1005 1
+Lin 1002 1
+Lin 1042 1
+Sanna 1097 1
+Lin 1094 1
+Sotir 1067 1
+Mullen 1081 1
+Vasco 1046 1
+Mullen 1046 1
+Crane 1098 0
+ -  1079 1
+Mullen 1005 0
+Mullen 1054 0
+Mullen 1005 1
+Mullen 1033 1
+Mullen 1020 1
+Iliopoulos 1018 1
+Mullen 1067 1
+Heath 1038 1
+Sotir 1067 1
+Sotir 1050 1
+ -  1094 1
+Sanna 1067 1
+Vasco 1067 1
+ -  1054 1
+Iliopoulos 1018 1
+Deal 1067 1
+Mullen 1093 1
+Mullen 1094 1
+Vasco 1094 0
+Sanna 1005 1
+ -  1013 1
+Mullen 1046 1
+Glaros 1032 1
+ -  1018 1
+Mullen 1038 1
+Mullen 1054 1
+Sotir 1054 1
+Sanna 1005 1
+ -  1067 1
+ -  1067 1
+Sanna 1005 0
+Mullen 1067 1
+Mullen 1037 1
+Mullen 1015 1
+Glaros 1010 1
+Sotir 1036 1
+Glaros 1009 1
+Burns 1005 1
+Sanna 1037 1
+Sotir 1067 1
+ -  1067 1
+Lin 1072 1
+Nikitas 1097 1
+Mullen 1073 1
+Sotir 1077 1
+Thoma 1005 1
+McKinney 1005 0
+Lin 1005 1
+Daniels 1054 1
+Holden 1097 1
+Lin 1012 1
+Sanna 1067 1
+Dolan 1067 1
+Sanna 1072 0
+Lin 1067 1
+Mullen 1087 1
+McKinney 1005 1
+Sotir 1005 0
+Lin 1018 0
+Sotir 1067 1
+Burns 1017 1
+Chen 1058 1
+Carver 1043 1
+Vasco 1018 1
+Sanna 1054 1
+ -  1041 1
+Fox 1005 1
+Sotir 1054 1
+Mullen 1067 1
+Sotir 1052 0
+Sotir 1040 1
+Tocci 1020 1
+Mullen 1018 1
+Mullen 1067 1
+Hernandez 1040 1
+Mullen 1034 1
+Mitzou 1040 1
+Denton 1067 1
+Sotir 1067 1
+Daniels 1049 1
+Mullen 1031 1
+ -  1067 0
+Mullen 1040 1
+Lin 1067 1
+Sotir 1020 1
+Tocci 1054 1
+Heath 1067 1
+Mullen 1094 1
+Mullen 1046 1
+Mullen 1094 1
+Mullen 1005 0
+Kazan 1091 1
+ -  1012 1
+Iliopoulos 1054 0
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1067 1
+Kallas 1005 1
+Nikitas 1067 1
+Sotir 1005 1
+Deal 1094 1
+Iliopoulos 1076 1
+Crane 1073 1
+Mullen 1069 1
+Mullen 1067 1
+Jiang 1067 1
+McKinney 1054 1
+Mullen 1013 0
+Mullen 1003 1
+Mullen 1029 1
+Silverman 1080 1
+Mullen 1005 1
+Mullen 1094 1
+Mullen 1067 0
+Mullen 1091 0
+Sotir 1080 1
+Dolan 1008 1
+Melis 1067 0
+ -  1054 1
+Sotir 1054 1
+Mullen 1049 1
+Sotir 1018 1
+Palmer 1067 1
+Sotir 1020 1
+Marsh 1002 1
+ -  1038 1
+Fox 1052 1
+Vlasopoulos 1052 1
+Mullen 1002 1
+Vaughn 1074 1
+Sotir 1052 1
+Mullen 1015 1
+Sotir 1067 0
+Lin 1023 1
+Spears 1094 1
+Sotir 1042 0
+Vasco 1054 1
+Sanna 1029 1
+Holden 1030 1
+Sotir 1091 1
+Sotir 1033 1
+Sanna 1052 1
+Mullen 1067 1
+Mullen 1005 1
+Mullen 1018 1
+Sotir 1048 1
+Sotir 1067 1
+Nikitas 1024 1
+Sotir 1078 1
+Sotir 1067 1
+Iliopoulos 1032 1
+Mullen 1002 1
+Tocci 1093 1
+Sotir 1054 1
+Economos 1005 1
+Lin 1048 1
+Sotir 1020 1
+Mullen 1005 1
+Zanni 1054 1
+Mullen 1097 1
+Sanna 1005 1
+Sotir 1067 1
+Iliopoulos 1087 1
+Sotir 1067 1
+ -  1002 1
+Palmer 1067 1
+ -  1067 1
+Nikitas 1018 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1067 1
+Vasco 1067 1
+Lin 1015 1
+Mitzou 1054 1
+Currin 1067 1
+Mullen 1005 1
+Mullen 1091 0
+Mullen 1052 1
+Mullen 1056 1
+Economos 1067 1
+Sanna 1005 1
+ -  1094 1
+Deal 1067 1
+Nikitas 1054 1
+Iliopoulos 1015 1
+Sanna 1026 1
+Mullen 1067 1
+ -  1068 1
+Sotir 1067 0
+Mullen 1082 1
+Kallas 1067 1
+Chontos 1046 1
+Nikitas 1067 1
+Lin 1078 1
+Sotir 1015 0
+Mullen 1040 1
+Mullen 1091 1
+Mitzou 1056 1
+Brandon 1067 0
+Sanna 1067 1
+Brandon 1067 1
+Mullen 1039 1
+Sanna 1005 1
+Tocci 1036 1
+ -  1000 1
+Glaros 1095 1
+Mullen 1067 1
+Mullen 1006 1
+Fox 1034 1
+ -  1028 1
+Sotir 1067 1
+Sanna 1053 1
+Sotir 1018 1
+Sotir 1005 0
+Daniels 1092 1
+Sotir 1067 1
+Mullen 1067 1
+Iliopoulos 1013 1
+Melis 1067 1
+Mullen 1013 1
+Mullen 1054 1
+Daniels 1067 0
+McKinney 1028 1
+ -  1067 0
+Iliopoulos 1094 1
+Iliopoulos 1067 1
+ -  1040 1
+ -  1054 1
+Mullen 1038 1
+Mullen 1052 1
+ -  1051 0
+Chontos 1015 0
+Mullen 1005 1
+ -  1013 1
+ -  1067 1
+Mullen 1067 1
+Mullen 1067 1
+Glaros 1067 1
+Fox 1018 1
+Lin 1013 1
+Mullen 1043 1
+Mullen 1067 1
+Sotir 1057 1
+Mullen 1054 1
+ -  1054 1
+Iliopoulos 1067 1
+Mullen 1013 0
+Sotir 1005 1
+Vasco 1020 1
+Lin 1080 0
+Currin 1015 1
+Burns 1018 1
+McKinney 1093 1
+Mullen 1020 1
+Glaros 1067 1
+ -  1020 0
+Mullen 1052 1
+McKinney 1005 1
+Sanna 1015 1
+ -  1002 1
+ -  1050 1
+Glaros 1013 1
+Vaughn 1067 1
+ -  1085 1
+Mangas 1067 1
+Sanna 1067 0
+Nikitas 1054 1
+Nikitas 1052 1
+Mullen 1067 1
+Glaros 1094 1
+Mullen 1026 1
+Lin 1005 0
+Mullen 1049 1
+Fox 1067 1
+Iliopoulos 1067 1
+Iliopoulos 1067 1
+Melis 1067 1
+Sotir 1033 1
+Jiang 1005 1
+Sotir 1067 1
+Mullen 1062 1
+Sanna 1099 1
+Mullen 1054 1
+Sanna 1018 1
+Lin 1058 1
+Burgess 1094 0
+Mullen 1027 1
+Deal 1054 1
+Glaros 1013 1
+Mullen 1025 1
+Iliopoulos 1003 1
+Sotir 1067 1
+Sanna 1042 1
+ -  1054 1
+Sanna 1015 1
+Mullen 1032 1
+Sotir 1067 1
+Vasco 1021 1
+Iliopoulos 1005 0
+Burns 1052 1
+Sanna 1054 1
+Sotir 1094 1
+ -  1005 1
+McKinney 1076 1
+Mullen 1094 1
+Chontos 1019 1
+Mullen 1094 1
+Sotir 1080 1
+Vlasopoulos 1018 1
+Mullen 1020 1
+ -  1094 1
+Mullen 1067 1
+Sotir 1053 1
+Mullen 1005 1
+Sotir 1097 1
+Sanna 1022 0
+Tocci 1005 1
+Sotir 1020 1
+McKinney 1067 1
+Mullen 1046 0
+Mullen 1038 1
+Kazan 1014 1
+Burns 1015 1
+Jiang 1005 1
+Sanna 1014 1
+Vaughn 1016 1
+Sotir 1005 1
+Sotir 1094 0
+Mullen 1005 1
+Mullen 1002 0
+Mullen 1005 1
+Mangas 1091 0
+ -  1005 1
+Sotir 1099 1
+Sanna 1078 1
+Vasco 1067 1
+Tocci 1067 1
+Mullen 1020 1
+Mullen 1068 0
+Chontos 1067 1
+Hernandez 1018 1
+ -  1005 1
+Lin 1093 0
+Heath 1067 1
+Mitzou 1079 1
+Sotir 1080 1
+Mullen 1016 1
+Mullen 1091 0
+Crane 1094 1
+Deal 1005 1
+Mullen 1078 1
+Palmer 1026 1
+Mullen 1067 1
+Mitzou 1067 1
+Burgess 1067 1
+Burns 1054 1
+Sotir 1008 1
+Mitzou 1005 1
+Mullen 1005 1
+McKinney 1079 1
+Sanna 1005 1
+Mullen 1046 1
+Mullen 1013 1
+Mullen 1042 1
+Iliopoulos 1035 1
+Mullen 1013 1
+Mullen 1085 1
+Sotir 1095 1
+ -  1005 1
+Mullen 1001 0
+Sotir 1058 1
+Mullen 1040 0
+ -  1015 1
+Lin 1067 1
+Tocci 1067 1
+Mullen 1018 1
+Mullen 1015 1
+Lin 1066 1
+Heath 1067 1
+Mangas 1067 1
+Iliopoulos 1046 1
+Mullen 1020 1
+Sanna 1006 1
+Mullen 1015 1
+Nikitas 1082 0
+Vasco 1032 1
+Chontos 1021 1
+ -  1054 1
+ -  1012 0
+Iliopoulos 1005 1
+Hernandez 1067 1
+Mullen 1067 1
+Deal 1014 1
+ -  1067 1
+ -  1037 1
+Mangas 1054 1
+Mullen 1067 1
+ -  1054 1
+Kappas 1005 1
+Sanna 1005 1
+Kappas 1013 1
+Mullen 1007 1
+Kappas 1052 0
+Mullen 1038 1
+McKinney 1005 0
+Avramidis 1034 1
+Mullen 1067 1
+ -  1058 1
+Lin 1002 1
+Mitzou 1085 1
+Mullen 1054 1
+Burns 1060 1
+Burns 1056 1
+ -  1067 1
+Sotir 1026 1
+Mullen 1085 1
+ -  1015 1
+Sotir 1026 1
+Sotir 1020 1
+Tocci 1054 1
+ -  1040 1
+ -  1076 1
+Mullen 1067 1
+Brandon 1014 1
+Mullen 1054 1
+Thoma 1072 1
+Mullen 1080 0
+Sanna 1003 1
+ -  1094 1
+Mangas 1012 1
+Kidd 1046 1
+Lin 1067 1
+Sanna 1054 1
+Sotir 1067 0
+Sanna 1067 1
+Mullen 1079 1
+Daniels 1081 0
+Mullen 1013 1
+Mullen 1067 0
+Mullen 1067 1
+ -  1005 1
+Mullen 1040 1
+ -  1067 1
+Sanna 1015 1
+Mullen 1026 1
+Dolan 1094 1
+Mullen 1062 1
+ -  1042 0
+Fox 1056 1
+Jiang 1013 0
+Mullen 1052 1
+Sotir 1067 1
+Sanna 1078 1
+Mullen 1005 0
+ -  1078 1
+Mullen 1015 1
+Mullen 1005 1
+ -  1067 1
+Sotir 1094 1
+ -  1094 1
+Sotir 1018 1
+Lin 1086 1
+Burns 1094 1
+Mullen 1058 1
+Sotir 1067 1
+ -  1005 1
+Mullen 1033 1
+ -  1049 0
+Chontos 1062 1
+ -  1085 1
+Sotir 1067 1
+Sotir 1022 1
+Sanna 1084 1
+Currin 1085 0
+Zanni 1010 1
+ -  1067 1
+Mullen 1026 1
+Vasco 1004 1
+ -  1040 1
+Lin 1067 1
+Mullen 1091 1
+Mullen 1067 0
+Mullen 1020 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1013 1
+Mullen 1091 1
+ -  1067 1
+Sanna 1019 1
+ -  1094 1
+Kallas 1054 1
+Sotir 1036 1
+Sanna 1095 1
+Sotir 1034 1
+Sanna 1091 1
+ -  1070 1
+Sotir 1067 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1059 1
+Mangas 1018 0
+Mitzou 1067 1
+Burgess 1091 1
+ -  1085 1
+Mullen 1005 1
+Mullen 1064 1
+Jiang 1038 1
+ -  1067 1
+Mitzou 1005 1
+Sanna 1054 1
+Nikitas 1094 1
+Hernandez 1054 1
+Sotir 1038 1
+Mullen 1052 1
+Mullen 1067 1
+ -  1065 0
+Lin 1017 1
+Sotir 1067 1
+Lin 1058 1
+McKinney 1034 1
+Mangas 1005 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1054 1
+Sotir 1038 1
+Mullen 1067 1
+Lin 1013 1
+Sotir 1094 0
+Sotir 1067 1
+Jiang 1094 1
+Sotir 1018 1
+Vasco 1067 1
+Mullen 1049 1
+Mullen 1020 1
+Mullen 1049 1
+Mitzou 1094 1
+Burns 1067 1
+Kappas 1067 1
+Currin 1018 1
+Mullen 1005 1
+ -  1054 1
+Mullen 1005 1
+ -  1069 1
+ -  1047 1
+Sanna 1042 1
+Mullen 1078 1
+Mullen 1002 1
+Sanna 1067 1
+Mullen 1054 0
+Sanna 1026 1
+Fox 1015 1
+Mullen 1054 1
+Sanna 1056 1
+ -  1046 1
+Mullen 1015 1
+Sanna 1013 1
+Mullen 1054 1
+Burgess 1067 1
+Sanna 1063 0
+Sotir 1048 0
+Kappas 1078 1
+Sanna 1094 1
+ -  1067 0
+Sotir 1026 0
+Iliopoulos 1067 1
+Iliopoulos 1059 1
+Carver 1052 1
+ -  1026 1
+Iliopoulos 1005 1
+Sotir 1067 0
+Sotir 1005 1
+Sanna 1067 1
+Carver 1015 1
+Mullen 1005 1
+Burns 1011 1
+Burgess 1067 1
+Nikitas 1005 1
+Mullen 1063 1
+ -  1067 1
+Sotir 1012 1
+ -  1067 1
+ -  1005 1
+Mullen 1038 1
+ -  1076 1
+Mangas 1020 1
+Sanna 1093 1
+Sotir 1005 1
+Sanna 1067 1
+Sanna 1018 0
+Sotir 1067 1
+Mullen 1020 0
+Mullen 1005 1
+Vasco 1046 1
+Mullen 1013 1
+ -  1046 1
+Lin 1097 1
+Vasco 1005 1
+Sotir 1094 1
+Sanna 1054 1
+Mitzou 1013 1
+Sanna 1046 1
+Marsh 1067 1
+Mullen 1033 1
+Sotir 1054 1
+ -  1074 1
+Sanna 1051 0
+Mullen 1060 0
+Nikitas 1005 0
+Sotir 1080 0
+Mullen 1067 1
+Mullen 1054 1
+Mullen 1034 1
+Holden 1031 1
+Mullen 1094 1
+Mullen 1094 1
+Lin 1053 1
+Zanni 1067 0
+Jiang 1091 1
+Mitzou 1067 1
+ -  1005 1
+Mullen 1067 1
+Nikitas 1005 1
+Fox 1080 1
+Jiang 1054 1
+Palmer 1091 1
+Sanna 1026 1
+Mullen 1085 1
+ -  1054 1
+Lin 1048 1
+Mullen 1025 1
+Mullen 1085 1
+ -  1085 1
+Brandon 1067 1
+Mullen 1005 1
+Mullen 1005 1
+Mullen 1054 1
+Lin 1067 1
+Mullen 1042 1
+Iliopoulos 1062 0
+Mullen 1094 1
+Marsh 1073 1
+Mullen 1076 1
+McKinney 1067 1
+McKinney 1054 1
+Sotir 1094 1
+Sotir 1005 1
+ -  1020 1
+Sotir 1067 0
+Sanna 1000 1
+Lin 1071 1
+ -  1073 1
+Sotir 1040 1
+Tocci 1067 1
+Sotir 1039 0
+Sanna 1081 1
+Mullen 1054 1
+ -  1040 1
+Nikitas 1067 0
+Hurst 1013 1
+Holden 1054 1
+Sotir 1005 1
+Sotir 1013 1
+Sotir 1094 1
+Mullen 1009 1
+Burns 1067 1
+Mullen 1007 0
+Mullen 1032 1
+Mullen 1067 1
+McKinney 1052 1
+Burgess 1067 1
+Holden 1005 1
+Sotir 1086 1
+Mullen 1020 1
+Vlasopoulos 1091 1
+Vasco 1054 1
+Vasco 1067 1
+Kelly 1076 1
+Glaros 1067 1
+Mullen 1020 1
+Sotir 1067 1
+Sotir 1076 0
+Jiang 1088 1
+Sanna 1094 1
+ -  1054 1
+ -  1038 1
+Lin 1028 1
+Mullen 1082 1
+Burns 1015 1
+Mullen 1054 1
+Brandon 1038 0
+Sanna 1005 1
+Mullen 1054 1
+ -  1018 1
+Mullen 1067 1
+Sotir 1015 1
+Lin 1022 1
+Mullen 1070 1
+Burgess 1015 1
+ -  1067 1
+Sotir 1052 1
+Sotir 1010 1
+Sotir 1067 1
+Sanna 1082 1
+Vasco 1040 0
+Nikitas 1039 1
+Lin 1005 1
+Burns 1058 0
+Sotir 1067 1
+Sotir 1021 1
+Mullen 1020 1
+ -  1067 1
+Mullen 1026 1
+Mullen 1005 1
+ -  1067 1
+Sotir 1020 1
+Mullen 1015 1
+Kappas 1067 1
+Iliopoulos 1018 1
+Denton 1067 0
+Chen 1006 0
+Silverman 1067 1
+Sotir 1094 1
+Kappas 1047 1
+Mullen 1086 1
+Mullen 1067 1
+Currin 1094 1
+Holden 1083 1
+Tocci 1085 1
+Dolan 1091 1
+Sotir 1049 1
+Mullen 1052 1
+Mullen 1063 1
+ -  1059 1
+Sotir 1067 1
+Holden 1018 1
+Hernandez 1097 1
+Mullen 1067 1
+Mullen 1067 1
+Economos 1067 1
+Mullen 1018 1
+Branch 1098 1
+Sotir 1013 0
+Mullen 1065 1
+Lin 1059 1
+Mullen 1013 1
+Kappas 1005 1
+Jiang 1090 1
+Denton 1020 1
+Lin 1044 1
+Sotir 1067 1
+Thoma 1067 1
+Mullen 1079 1
+Sotir 1067 1
+Mullen 1085 1
+Vasco 1012 1
+Mitzou 1033 0
+Sanna 1067 1
+Lin 1067 1
+Mullen 1005 0
+ -  1067 1
+ -  1051 1
+Mitzou 1054 1
+Chontos 1005 1
+Mitzou 1085 1
+Mullen 1067 1
+Mullen 1040 1
+Deal 1054 1
+Kazan 1005 1
+Mullen 1067 1
+ -  1013 1
+ -  1054 1
+Mitzou 1058 1
+Mullen 1005 1
+Sanna 1028 1
+Sotir 1067 1
+Mullen 1056 1
+Sotir 1067 1
+Vasco 1052 1
+Sotir 1094 1
+ -  1011 1
+Sotir 1092 1
+Iliopoulos 1040 1
+Glaros 1067 1
+Sotir 1037 0
+Mullen 1079 1
+Mullen 1067 1
+Mullen 1046 1
+Sotir 1021 1
+Mullen 1093 1
+Mullen 1013 1
+Sanna 1052 1
+Fox 1054 1
+Nikitas 1099 1
+Avramidis 1095 1
+Mullen 1005 1
+Mullen 1067 1
+Sotir 1018 1
+Lin 1058 1
+Avramidis 1054 1
+Chen 1011 1
+Nikitas 1094 1
+Mullen 1004 1
+Sanna 1053 1
+Mullen 1054 1
+Iliopoulos 1091 1
+Nikitas 1005 1
+ -  1067 1
+Tocci 1067 1
+Mullen 1056 0
+Sotir 1078 1
+Sotir 1033 1
+Deal 1005 1
+Lin 1088 1
+Mullen 1020 1
+Sanna 1067 0
+McKinney 1067 1
+Burns 1013 1
+Mitzou 1002 0
+ -  1067 1
+Vasco 1061 1
+McKinney 1046 1
+Carver 1080 1
+ -  1067 1
+Vasco 1067 1
+ -  1067 1
+Lin 1001 0
+Mullen 1005 1
+Economos 1007 0
+Sotir 1034 1
+Chontos 1034 1
+Sotir 1054 1
+ -  1084 1
+Chen 1054 1
+Heath 1067 1
+Iliopoulos 1046 1
+Jiang 1013 1
+Vasco 1094 1
+Mullen 1052 1
+Sotir 1056 1
+Lin 1079 1
+ -  1067 1
+ -  1072 1
+Nikitas 1005 1
+Mullen 1067 1
+Fotos 1094 1
+Mitzou 1032 1
+Mullen 1094 1
+ -  1067 1
+Burns 1046 1
+McKinney 1005 1
+Hernandez 1032 1
+Sotir 1067 1
+Sotir 1054 0
+Nikitas 1094 1
+ -  1082 1
+Sanna 1026 1
+Mullen 1005 1
+Sotir 1089 1
+Holden 1005 1
+Mullen 1051 1
+Mullen 1067 1
+Branch 1078 0
+Mullen 1011 1
+McKinney 1018 1
+Mullen 1005 1
+Mullen 1060 1
+Lin 1067 1
+Mullen 1094 1
+Mullen 1073 1
+ -  1033 1
+Mullen 1088 1
+Mullen 1015 1
+Iliopoulos 1054 1
+Sotir 1018 1
+Mullen 1085 1
+Mullen 1015 1
+Iliopoulos 1044 1
+Vasco 1037 1
+Burgess 1067 1
+Mullen 1079 0
+ -  1067 1
+Mullen 1005 1
+Sotir 1020 1
+ -  1040 1
+Mullen 1020 0
+Sotir 1067 1
+Lin 1020 1
+McKinney 1005 0
+ -  1067 1
+ -  1005 1
+Mullen 1067 1
+Kidd 1001 1
+Mullen 1063 0
+Palmer 1063 1
+Mullen 1013 0
+Vasco 1012 0
+Mullen 1054 1
+Mitzou 1067 1
+Iliopoulos 1033 1
+Mitzou 1048 1
+Iliopoulos 1033 1
+Burgess 1020 1
+Mullen 1094 1
+Mullen 1018 1
+Mullen 1094 1
+Carver 1049 1
+Mullen 1033 1
+Branch 1084 1
+Heath 1048 1
+Fox 1059 1
+Mullen 1015 1
+ -  1011 1
+Hurst 1078 1
+Chontos 1067 1
+Kallas 1094 0
+Mullen 1078 0
+Tocci 1068 1
+Lin 1088 1
+Mullen 1067 1
+Zanni 1067 1
+Mullen 1048 1
+Mullen 1026 1
+Lin 1067 1
+Mullen 1076 1
+Lin 1040 1
+Sotir 1067 1
+Mullen 1095 1
+Kallas 1010 1
+Mullen 1005 1
+ -  1033 1
+Sotir 1016 0
+Mullen 1005 0
+McKinney 1075 1
+Sotir 1090 1
+ -  1002 1
+Burns 1005 1
+Mitzou 1053 1
+Kefalas 1067 1
+Iliopoulos 1054 0
+Mullen 1026 1
+ -  1057 1
+Lin 1067 1
+Mullen 1052 1
+Mullen 1005 1
+ -  1033 0
+Mullen 1078 1
+ -  1067 1
+Mullen 1073 1
+Lin 1046 1
+Sanna 1067 1
+Marsh 1067 1
+Mullen 1005 1
+Currin 1040 1
+Sotir 1067 1
+ -  1015 1
+Sotir 1035 1
+ -  1067 1
+Mullen 1018 1
+Lin 1050 1
+ -  1067 1
+ -  1054 1
+Sotir 1020 1
+Sanna 1013 1
+ -  1054 1
+Nikitas 1067 0
+Lin 1085 1
+Lin 1067 1
+Burgess 1037 1
+Sanna 1054 1
+Mullen 1067 1
+Sanna 1067 1
+Vasco 1020 1
+Sotir 1067 1
+Iliopoulos 1067 0
+McKinney 1085 1
+Brandon 1018 1
+Sanna 1038 1
+Mullen 1067 1
+ -  1005 1
+Vasco 1017 1
+Mullen 1053 0
+Mullen 1018 1
+Sotir 1067 1
+Mitzou 1058 1
+Mullen 1091 1
+Sanna 1050 1
+McKinney 1010 1
+ -  1005 1
+Sotir 1013 1
+Deal 1067 1
+ -  1005 1
+Mullen 1052 1
+Mullen 1067 1
+Mullen 1067 0
+Mullen 1005 1
+Jiang 1067 0
+Mullen 1053 1
+Mullen 1005 1
+Marsh 1052 1
+Marsh 1076 1
+Sotir 1052 1
+Lin 1023 1
+Jiang 1026 1
+Sanna 1048 1
+Zanni 1003 1
+Sotir 1094 1
+Lin 1005 1
+Melis 1070 1
+Avramidis 1067 1
+Mullen 1094 1
+Burgess 1080 1
+Sotir 1091 1
+Iliopoulos 1038 0
+Burns 1012 1
+ -  1007 1
+Mullen 1040 1
+Daniels 1005 1
+Mullen 1027 1
+ -  1067 1
+Mitzou 1014 1
+Sotir 1026 1
+Sotir 1067 1
+Sotir 1067 1
+ -  1091 1
+Fox 1018 1
+Sanna 1038 1
+ -  1053 1
+Kallas 1067 1
+Sanna 1013 1
+Nikitas 1094 1
+Lin 1078 1
+Sanna 1015 1
+Sanna 1094 1
+Mullen 1067 1
+Tocci 1049 1
+Mullen 1067 1
+Holden 1067 1
+Hernandez 1054 1
+Mullen 1046 1
+Sanna 1015 1
+Mullen 1067 1
+ -  1005 1
+Vasco 1069 1
+Burns 1067 1
+Spears 1067 1
+Iliopoulos 1032 1
+Sotir 1058 1
+Spears 1067 1
+Palmer 1067 1
+Mullen 1005 1
+Sanna 1005 1
+Sotir 1067 1
+McKinney 1005 1
+ -  1026 1
+Mullen 1054 0
+Iliopoulos 1092 1
+Mullen 1005 1
+Marsh 1091 1
+Mitzou 1005 1
+Mullen 1067 1
+ -  1067 1
+Mullen 1067 1
+Sanna 1067 1
+ -  1054 1
+Vlasopoulos 1018 1
+Mullen 1085 1
+Lin 1067 1
+Sotir 1063 1
+Burgess 1053 1
+Mullen 1005 1
+ -  1067 0
+Glaros 1091 1
+Nikitas 1091 1
+Holden 1048 1
+Iliopoulos 1005 1
+Sanna 1094 1
+Mullen 1015 1
+Mitzou 1013 1
+McKinney 1005 1
+Mullen 1054 0
+Mullen 1094 1
+Mullen 1020 1
+Sotir 1067 1
+ -  1085 1
+Glaros 1015 1
+Mullen 1005 1
+Mullen 1067 1
+Glaros 1056 1
+ -  1018 1
+Mullen 1067 1
+Vasco 1004 1
+Lin 1067 1
+Chontos 1067 1
+Kappas 1054 1
+Lin 1067 1
+ -  1009 0
+Vasco 1013 1
+Fox 1067 1
+Mullen 1067 1
+Zanni 1067 1
+Jiang 1094 1
+McKinney 1056 1
+Lin 1054 1
+Mullen 1005 1
+Mullen 1048 0
+Lin 1020 1
+Lin 1046 1
+Avramidis 1054 1
+Mullen 1005 1
+Mullen 1067 1
+Vasco 1094 1
+Sanna 1017 1
+Kallas 1067 1
+Lin 1067 1
+Palmer 1005 1
+Burns 1094 1
+Daniels 1038 1
+Sotir 1095 1
+Glaros 1067 1
+Sotir 1020 1
+Mullen 1018 1
+Mullen 1033 1
+Spears 1030 1
+Mullen 1084 1
+Kappas 1093 1
+Sotir 1066 1
+Mullen 1067 1
+Sotir 1054 1
+Mullen 1054 1
+Mullen 1032 1
+Lin 1067 1
+Vaughn 1054 1
+ -  1005 1
+Mitzou 1067 1
+Burns 1046 1
+Mullen 1078 0
+Deal 1067 1
+ -  1042 1
+Mullen 1035 1
+Jiang 1091 1
+McKinney 1091 1
+Vasco 1040 1
+Sotir 1050 1
+ -  1091 1
+Chontos 1018 1
+Burgess 1005 1
+Mullen 1027 1
+Jiang 1005 1
+Vasco 1069 1
+Lin 1016 0
+McKinney 1005 1
+Sanna 1040 1
+Sotir 1067 1
+Mitzou 1094 1
+Fox 1054 1
+Mullen 1033 0
+Spears 1083 1
+Sotir 1085 1
+Currin 1067 1
+Nikitas 1038 1
+Avramidis 1079 1
+Sotir 1054 1
+Glaros 1005 1
+Vasco 1067 1
+Mullen 1042 1
+Sotir 1046 0
+Mullen 1052 1
+Mullen 1054 1
+Glaros 1005 0
+Vlasopoulos 1048 1
+Lin 1078 1
+Mullen 1067 1
+Mullen 1097 1
+Mullen 1003 1
+McKinney 1067 0
+Mullen 1068 1
+Lin 1013 1
+McKinney 1054 1
+Sotir 1067 1
+Marsh 1094 1
+Chontos 1005 1
+Burgess 1091 0
+Sanna 1002 1
+Mitzou 1067 1
+Mullen 1094 1
+Mitzou 1079 1
+ -  1099 1
+Mullen 1094 1
+Mitzou 1018 0
+Iliopoulos 1078 1
+Mullen 1026 0
+Mullen 1067 1
+Sanna 1032 1
+Sotir 1091 1
+Lin 1067 1
+Thoma 1020 0
+Sanna 1067 1
+ -  1067 1
+Jiang 1094 1
+Mullen 1049 1
+Mullen 1013 1
+Jiang 1012 1
+Deal 1067 1
+Marsh 1060 1
+Iliopoulos 1094 0
+Mullen 1080 1
+Hernandez 1050 1
+Mangas 1051 1
+Vasco 1061 1
+ -  1005 1
+Denton 1054 1
+Mullen 1097 1
+McKinney 1067 0
+Kidd 1005 1
+McKinney 1085 0
+Mullen 1052 1
+Iliopoulos 1054 0
+Mullen 1067 0
+Sanna 1005 1
+Mullen 1011 1
+Mullen 1043 1
+Lin 1067 1
+Iliopoulos 1094 1
+Mullen 1023 1
+Kallas 1057 1
+Sanna 1067 1
+Sotir 1094 1
+Branch 1005 1
+Fox 1005 0
+Chontos 1015 1
+Iliopoulos 1021 1
+Hurst 1005 1
+Mullen 1067 1
+Mullen 1067 0
+Mullen 1039 1
+Dolan 1067 1
+Lin 1019 1
+Mullen 1067 1
+ -  1002 1
+Iliopoulos 1040 1
+Vasco 1005 1
+Mullen 1067 0
+ -  1044 0
+Crane 1067 1
+Burns 1054 1
+Mullen 1015 1
+Mullen 1026 1
+Sotir 1067 1
+Sanna 1079 1
+ -  1015 0
+Sotir 1067 1
+Burns 1091 1
+ -  1007 1
+Vasco 1079 1
+Mullen 1067 1
+Vlasopoulos 1005 1
+Vaughn 1063 1
+Mullen 1057 1
+ -  1048 1
+Jiang 1067 1
+Chontos 1067 1
+Sotir 1067 1
+Mullen 1032 1
+ -  1018 1
+Mullen 1032 1
+Sotir 1013 1
+ -  1005 1
+Burns 1013 1
+Mullen 1054 1
+Sanna 1067 1
+Sanna 1018 1
+Mullen 1033 1
+Sanna 1005 1
+Lin 1033 1
+Mullen 1013 1
+Deal 1067 1
+Sanna 1067 1
+Deal 1067 1
+Sanna 1094 1
+Mullen 1067 1
+Mullen 1037 1
+Lin 1090 1
+Mullen 1048 1
+Sotir 1058 1
+Sotir 1091 1
+Avramidis 1052 1
+Holden 1067 1
+Chontos 1091 1
+Mitzou 1095 1
+ -  1057 0
+McKinney 1066 1
+Mullen 1046 1
+Sotir 1020 1
+McKinney 1049 1
+Iliopoulos 1047 1
+Sotir 1067 1
+Burgess 1005 1
+Vasco 1067 1
+Iliopoulos 1020 1
+Sanna 1094 1
+Sotir 1067 1
+Mullen 1005 1
+ -  1065 1
+Deal 1005 1
+Nikitas 1058 1
+Mitzou 1098 1
+Sotir 1074 0
+Mullen 1039 1
+Jiang 1067 1
+Mullen 1038 1
+Dolan 1026 1
+Mitzou 1018 1
+McKinney 1054 1
+Mullen 1067 1
+Mullen 1046 1
+Mullen 1040 1
+Mullen 1036 1
+Iliopoulos 1067 1
+Mullen 1013 0
+Brandon 1054 1
+ -  1078 0
+Mullen 1073 1
+Mullen 1094 1
+Fox 1067 1
+Mullen 1054 1
+Glaros 1024 1
+Mullen 1005 0
+Mullen 1054 1
+Burns 1002 1
+Fox 1054 1
+Sanna 1020 1
+Burgess 1067 1
+Sotir 1062 1
+Mullen 1067 1
+Lin 1067 1
+Mullen 1067 0
+Sanna 1008 1
+Sotir 1018 1
+Vasco 1055 1
+Lin 1054 1
+Vasco 1067 1
+Holden 1063 1
+Mullen 1015 1
+Sanna 1067 1
+Sotir 1094 1
+Lin 1067 0
+Vasco 1012 1
+Mullen 1046 1
+Jiang 1067 1
+Sotir 1076 1
+Carver 1035 1
+Kefalas 1005 1
+Chontos 1067 1
+Sotir 1020 1
+ -  1067 1
+Nikitas 1020 0
+Mullen 1089 1
+Sotir 1007 1
+Chontos 1062 1
+Kazan 1067 1
+Sotir 1085 1
+Sotir 1085 1
+Tocci 1067 0
+ -  1094 1
+Mullen 1050 1
+Iliopoulos 1067 1
+Mullen 1007 1
+Mullen 1006 1
+Mullen 1053 1
+Mullen 1085 1
+Nikitas 1005 1
+ -  1070 1
+Sotir 1067 1
+Iliopoulos 1005 1
+McKinney 1013 1
+ -  1056 1
+Vasco 1005 1
+Sotir 1048 0
+Nikitas 1005 1
+Melis 1039 1
+Vasco 1067 1
+Iliopoulos 1067 1
+Mullen 1042 0
+ -  1070 1
+ -  1058 1
+Sotir 1067 1
+Mullen 1084 1
+Sotir 1094 1
+Mullen 1085 1
+Chontos 1067 1
+Marsh 1067 1
+Sanna 1067 1
+Tocci 1067 1
+Fox 1009 1
+Mullen 1002 1
+Sotir 1067 1
+Sanna 1018 1
+Sotir 1054 1
+Sanna 1011 1
+Mullen 1005 1
+ -  1005 1
+Kazan 1046 1
+Higgins 1005 1
+Tocci 1038 1
+ -  1094 1
+Mitzou 1058 1
+Mullen 1085 1
+Carver 1078 1
+Vlasopoulos 1005 1
+ -  1067 0
+Sotir 1054 1
+Mitzou 1018 1
+Mullen 1022 1
+Lin 1073 1
+Sotir 1094 1
+Sotir 1054 1
+Sanna 1054 1
+Sanna 1005 1
+ -  1005 1
+ -  1067 1
+ -  1078 1
+Carver 1067 1
+ -  1091 1
+Mullen 1005 1
+Vaughn 1018 1
+Burns 1094 1
+Mullen 1079 1
+Vasco 1046 1
+ -  1046 1
+ -  1067 1
+Mullen 1067 1
+Sotir 1005 1
+Thoma 1054 1
+Sanna 1067 1
+Iliopoulos 1020 0
+Sotir 1067 1
+Mullen 1005 1
+Fox 1067 1
+Mullen 1005 1
+Sanna 1005 1
+Mullen 1020 0
+Fox 1005 1
+Silverman 1091 1
+Sanna 1046 1
+ -  1091 1
+Sotir 1011 1
+Burns 1054 1
+Kallas 1005 1
+Palmer 1094 1
+Iliopoulos 1062 1
+ -  1046 0
+Sotir 1067 1
+Burns 1025 1
+Mullen 1095 1
+Sotir 1033 1
+Lin 1001 0
+Mullen 1067 1
+Iliopoulos 1080 1
+Hernandez 1005 1
+Hurst 1013 0
+Lin 1012 1
+ -  1094 1
+Mullen 1089 1
+ -  1020 1
+Vasco 1005 1
+Denton 1005 0
+Mullen 1067 1
+Palmer 1020 1
+McKinney 1005 1
+Carver 1054 1
+ -  1047 1
+Sotir 1067 1
+Jiang 1067 1
+Mullen 1054 1
+Daniels 1018 1
+Sanna 1067 1
+Mullen 1013 1
+Jiang 1005 1
+Mullen 1067 1
+Mullen 1005 1
+Sanna 1054 1
+Lin 1084 1
+Mullen 1027 1
+Lin 1021 1
+ -  1067 1
+Mullen 1065 1
+Hurst 1054 1
+Mullen 1067 1
+Sanna 1052 1
+Holden 1042 0
+Thoma 1067 1
+Mullen 1052 0
+Sanna 1054 1
+Melis 1005 1
+ -  1091 1
+Vasco 1085 1
+Iliopoulos 1067 1
+Deal 1067 1
+Mitzou 1067 1
+Deal 1032 1
+Dolan 1067 0
+Mullen 1020 1
+Lin 1005 1
+Holden 1067 1
+Mullen 1020 1
+ -  1054 1
+Mullen 1035 1
+Mullen 1084 1
+Lin 1005 1
+Kelly 1067 1
+Lin 1004 1
+Vlasopoulos 1067 1
+Dolan 1034 1
+Lin 1040 1
+Sotir 1078 1
+ -  1015 1
+ -  1013 1
+Kefalas 1026 1
+Sanna 1013 1
+Heath 1013 0
+ -  1091 1
+Mullen 1094 1
+Mullen 1098 1
+ -  1094 1
+Glaros 1067 1
+ -  1094 1
+Mullen 1054 1
+Vasco 1067 1
+Glaros 1012 1
+Jiang 1067 1
+Mullen 1094 1
+Mullen 1061 1
+Mullen 1067 1
+Mullen 1005 1
+Kefalas 1085 0
+Sotir 1050 1
+Mullen 1067 0
+ -  1091 1
+Vasco 1067 1
+Mullen 1094 1
+ -  1067 1
+McKinney 1056 1
+Sotir 1005 1
+ -  1019 1
+Sotir 1079 0
+Mullen 1022 1
+Sanna 1096 0
+Sotir 1018 1
+Jiang 1094 1
+Mullen 1067 1
+Kallas 1042 0
+Mullen 1067 1
+Burgess 1067 1
+Mullen 1067 1
+Mitzou 1094 1
+Sotir 1013 1
+Brandon 1067 1
+Zanni 1013 1
+ -  1067 1
+ -  1067 1
+Mitzou 1078 1
+Mullen 1020 1
+Kappas 1020 1
+Glaros 1054 1
+Mullen 1015 1
+Vasco 1020 1
+Daniels 1005 1
+Hernandez 1005 1
+ -  1056 1
+Lin 1067 1
+Vasco 1040 1
+Sotir 1067 1
+ -  1005 1
+Marsh 1018 1
+Fox 1054 1
+Mullen 1018 1
+Mullen 1047 1
+Lin 1067 1
+Jiang 1023 1
+Sotir 1005 1
+Brandon 1033 1
+Sanna 1067 1
+Kidd 1067 1
+Tocci 1067 1
+Sotir 1033 1
+Iliopoulos 1067 1
+Mullen 1054 1
+Mullen 1022 1
+Mullen 1094 1
+ -  1067 1
+Burgess 1022 1
+Mitzou 1067 1
+Jiang 1033 1
+Mullen 1004 1
+Silverman 1045 1
+ -  1020 0
+Sanna 1067 1
+Mullen 1067 1
+Mullen 1026 1
+Sanna 1054 1
+ -  1088 1
+ -  1091 1
+McKinney 1094 1
+Mullen 1015 1
+Denton 1049 1
+Vasco 1082 1
+Nikitas 1052 1
+Mullen 1091 1
+Mullen 1005 1
+Mullen 1020 1
+Zanni 1031 0
+Mullen 1067 1
+Vaughn 1020 1
+ -  1078 1
+Chontos 1052 1
+Chontos 1054 1
+Sotir 1067 1
+Mangas 1062 1
+Sotir 1067 1
+Mullen 1014 1
+Vasco 1095 1
+Sanna 1005 1
+Sanna 1081 1
+Mitzou 1067 1
+Burgess 1015 1
+Glaros 1067 1
+Mullen 1038 1
+Currin 1094 1
+Sotir 1005 1
+Mullen 1089 1
+Sotir 1005 1
+Burns 1046 1
+Sanna 1054 1
+Mullen 1058 1
+Vasco 1085 1
+Mullen 1005 1
+Burns 1056 0
+Mullen 1073 1
+Sotir 1067 0
+Sotir 1005 1
+Palmer 1005 1
+McKinney 1013 1
+Sotir 1052 1
+ -  1020 1
+Mangas 1067 0
+Mullen 1020 1
+Kefalas 1043 1
+Mullen 1094 1
+Mitzou 1026 1
+Brandon 1067 1
+Lin 1005 1
+Sotir 1030 0
+Chontos 1094 1
+Mullen 1020 0
+Sotir 1013 1
+Tocci 1091 0
+Jiang 1094 1
+Silverman 1005 1
+Iliopoulos 1067 1
+Sotir 1079 1
+ -  1012 1
+Lin 1067 1
+Iliopoulos 1067 1
+Lin 1084 1
+Heath 1015 1
+Kappas 1073 1
+Mullen 1054 1
+Glaros 1013 1
+Mullen 1010 1
+Sotir 1005 0
+Sanna 1005 0
+ -  1038 1
+McKinney 1063 1
+Sanna 1056 1
+Mullen 1067 1
+ -  1048 1
+Sanna 1005 1
+ -  1067 1
+Mullen 1046 1
+Mullen 1067 1
+Mullen 1020 1
+Mullen 1054 1
+Zanni 1093 1
+Deal 1080 1
+Deal 1067 1
+Lin 1052 1
+Glaros 1074 1
+Sotir 1046 1
+Mullen 1020 1
+Jiang 1094 1
+Nikitas 1034 1
+Burns 1054 1
+Sanna 1013 1
+Sanna 1054 1
+Lin 1022 1
+ -  1067 1
+ -  1067 1
+Sanna 1054 0
+Deal 1054 1
+Burns 1067 1
+Mangas 1060 1
+Nikitas 1054 1
+Dolan 1046 1
+Lin 1054 1
+Brandon 1026 1
+Mitzou 1046 1
+Mullen 1005 1
+Sanna 1067 1
+Mitzou 1026 1
+Kidd 1013 1
+Silverman 1072 1
+Mullen 1005 1
+Mullen 1067 1
+Nikitas 1067 1
+ -  1094 1
+McKinney 1012 1
+Mullen 1005 1
+Fox 1020 1
+McKinney 1067 1
+ -  1067 1
+Mullen 1005 1
+Fox 1005 1
+Denton 1067 1
+Mullen 1054 1
+Burns 1067 1
+Holden 1067 1
+Sotir 1054 1
+Higgins 1067 1
+Kefalas 1067 1
+McKinney 1035 1
+Mullen 1005 1
+Tocci 1067 1
+Mullen 1067 1
+Sotir 1054 0
+Jiang 1093 1
+Currin 1011 1
+Mullen 1005 1
+Vasco 1067 1
+Sotir 1085 1
+Jiang 1038 1
+Mitzou 1077 0
+Mullen 1052 1
+Tocci 1038 1
+Vasco 1033 1
+Mullen 1013 1
+Mullen 1067 1
+Sotir 1067 1
+Mitzou 1065 1
+ -  1002 1
+Mullen 1034 1
+Iliopoulos 1020 1
+Kappas 1067 1
+Mullen 1008 1
+Lin 1078 1
+ -  1067 1
+Brandon 1083 1
+Mullen 1067 1
+Sotir 1085 1
+Sanna 1018 1
+Lin 1067 1
+Sotir 1053 1
+Mullen 1067 1
+Iliopoulos 1026 1
+Mullen 1091 1
+Kappas 1078 1
+ -  1008 1
+ -  1067 0
+Sotir 1067 1
+Mullen 1020 1
+Mullen 1005 1
+Sanna 1054 1
+Mullen 1013 1
+Mullen 1054 1
+Vasco 1020 0
+Lin 1048 1
+Burns 1067 1
+Mullen 1094 1
+Mullen 1091 1
+ -  1057 1
+ -  1005 1
+Vaughn 1067 1
+Tocci 1089 1
+Lin 1005 1
+Mullen 1094 1
+Jiang 1067 1
+Iliopoulos 1052 1
+Brandon 1025 1
+Denton 1015 1
+Sotir 1077 1
+Sanna 1046 1
+Mullen 1054 1
+Sotir 1067 1
+ -  1054 1
+Vasco 1079 1
+Mullen 1094 1
+Mullen 1033 1
+Mullen 1002 1
+Mullen 1054 1
+Tocci 1067 1
+Sotir 1067 1
+Vasco 1025 1
+Mangas 1013 1
+Vasco 1067 1
+Economos 1046 1
+McKinney 1054 1
+Nikitas 1067 1
+Avramidis 1067 1
+Sanna 1091 0
+Sotir 1003 1
+Hurst 1094 1
+Mullen 1085 1
+Sanna 1067 1
+Nikitas 1005 1
+Iliopoulos 1067 1
+ -  1075 1
+Burns 1094 1
+Hernandez 1067 1
+Vaughn 1086 1
+Mitzou 1067 0
+ -  1054 1
+Sotir 1054 1
+ -  1044 1
+Zanni 1034 1
+Mullen 1015 1
+ -  1096 1
+Spears 1020 1
+McKinney 1052 1
+Mullen 1047 1
+Mullen 1018 0
+Iliopoulos 1040 1
+Lin 1054 1
+Burns 1067 1
+Tocci 1067 1
+Mullen 1002 1
+Sanna 1067 1
+Sotir 1067 1
+Mitzou 1020 1
+Lin 1094 1
+Sotir 1038 1
+Mullen 1017 1
+ -  1038 1
+Deal 1067 1
+Mullen 1038 1
+Mullen 1085 1
+Sotir 1054 1
+Vasco 1054 1
+Lin 1067 1
+Mullen 1054 1
+Mullen 1071 1
+Avramidis 1005 1
+Mullen 1005 1
+ -  1067 1
+Mullen 1054 1
+Burns 1067 1
+Jiang 1052 1
+Mullen 1061 1
+Mullen 1079 1
+ -  1054 0
+Mullen 1018 1
+Sotir 1093 1
+Mullen 1056 1
+Mullen 1085 1
+McKinney 1085 1
+Sotir 1098 1
+ -  1084 1
+Higgins 1015 1
+Mullen 1040 1
+Iliopoulos 1005 0
+Mullen 1084 1
+ -  1067 1
+Mullen 1000 1
+Mullen 1091 1
+ -  1062 1
+Mullen 1013 1
+Mullen 1046 1
+Sotir 1002 1
+Lin 1020 1
+Vasco 1063 1
+Mullen 1005 1
+Deal 1013 1
+Tocci 1054 1
+Sotir 1067 1
+Mullen 1033 1
+Iliopoulos 1067 1
+ -  1032 1
+Iliopoulos 1061 1
+Nikitas 1054 1
+Mullen 1085 1
+ -  1004 1
+Sotir 1067 1
+Iliopoulos 1005 0
+Lin 1034 1
+Sotir 1067 1
+Sotir 1067 1
+Sotir 1067 1
+Sanna 1054 1
+Mullen 1067 1
+Iliopoulos 1054 1
+Iliopoulos 1085 1
+Mullen 1067 1
+Mullen 1011 1
+Burgess 1046 1
+Lin 1024 1
+Mullen 1057 1
+Kidd 1067 1
+Mullen 1094 1
+Mullen 1094 1
+Sotir 1005 1
+Mullen 1096 1
+Silverman 1015 1
+Lin 1058 1
+Mullen 1067 0
+Mullen 1005 1
+Mullen 1019 1
+Sanna 1078 1
+Burgess 1065 1
+Sotir 1067 1
+Mullen 1054 1
+Nikitas 1042 0
+ -  1060 1
+Sanna 1040 1
+Vasco 1067 0
+Sotir 1005 1
+Mullen 1070 1
+Mullen 1013 0
+Sanna 1022 1
+Vaughn 1067 1
+Mullen 1085 0
+Mullen 1042 1
+Sotir 1067 1
+Sanna 1005 1
+Burns 1040 1
+Fox 1054 1
+Mullen 1005 1
+Sanna 1010 1
+Lin 1005 1
+Jiang 1005 0
+Heath 1020 1
+Mangas 1067 1
+Burgess 1005 1
+ -  1067 1
+Crane 1091 1
+Mullen 1067 0
+Sotir 1067 1
+Sotir 1067 1
+Burns 1005 1
+Mullen 1005 1
+Sotir 1094 1
+Mullen 1067 1
+ -  1046 1
+ -  1020 1
+ -  1033 1
+Mullen 1005 1
+Vasco 1005 0
+Mitzou 1067 1
+ -  1094 0
+Mullen 1091 1
+Chontos 1094 1
+Kappas 1067 1
+Iliopoulos 1042 1
+Iliopoulos 1013 1
+Mitzou 1035 1
+Brandon 1078 1
+Iliopoulos 1067 1
+Lin 1020 1
+Mullen 1015 1
+Kelly 1005 1
+Mullen 1015 1
+Avramidis 1077 1
+Palmer 1026 0
+Mullen 1005 1
+Mitzou 1052 1
+Mullen 1083 1
+Sanna 1054 1
+Sotir 1020 1
+Jiang 1060 1
+Melis 1008 1
+Iliopoulos 1067 1
+Mullen 1026 0
+Burns 1067 1
+Glaros 1005 1
+Sotir 1026 1
+Mullen 1013 1
+Mullen 1094 0
+Burgess 1094 1
+Vasco 1067 1
+Mitzou 1048 1
+Sotir 1091 1
+Sotir 1062 1
+Nikitas 1013 1
+Mitzou 1094 1
+Mullen 1067 1
+Holden 1094 0
+Avramidis 1015 1
+Mullen 1091 1
+Kidd 1046 1
+Sanna 1094 1
+ -  1005 1
+Sotir 1092 0
+ -  1005 0
+Mullen 1005 1
+Sotir 1067 1
+Mullen 1073 1
+Iliopoulos 1022 1
+McKinney 1019 1
+Mullen 1091 1
+Sotir 1027 1
+Glaros 1094 1
+ -  1067 1
+Marsh 1091 1
+Sotir 1054 1
+Lin 1067 1
+Mitzou 1067 1
+McKinney 1095 1
+Mullen 1035 1
+Burns 1018 1
+Iliopoulos 1005 1
+Mullen 1094 1
+Sanna 1022 1
+Mullen 1046 1
+Mullen 1005 1
+ -  1094 1
+Sotir 1067 1
+Deal 1063 1
+Lin 1095 1
+Glaros 1040 1
+ -  1005 1
+Mullen 1067 1
+Chontos 1016 1
+Sotir 1058 1
+Nikitas 1094 1
+Brandon 1067 1
+Kefalas 1067 1
+Spears 1067 1
+Sotir 1013 0
+Sotir 1067 0
+Holden 1013 1
+Mullen 1067 1
+Sotir 1005 1
+Iliopoulos 1013 1
+ -  1078 1
+Mitzou 1054 1
+ -  1020 1
+ -  1025 1
+Sotir 1013 1
+Mullen 1095 1
+Mullen 1094 1
+Brandon 1063 1
+Denton 1067 1
+Mullen 1020 1
+ -  1067 1
+Sotir 1093 1
+Economos 1067 1
+Currin 1067 1
+Mullen 1067 1
+Sanna 1067 1
+Mullen 1043 0
+Sotir 1046 1
+Lin 1052 1
+Daniels 1048 1
+Mullen 1054 1
+Mullen 1026 1
+Mullen 1067 1
+Carver 1005 1
+Mullen 1076 1
+Kallas 1063 1
+Mullen 1067 1
+McKinney 1010 1
+Mitzou 1012 0
+Mullen 1067 1
+Mullen 1067 1
+Heath 1013 1
+Mullen 1073 1
+ -  1094 1
+Sotir 1067 1
+Iliopoulos 1011 1
+McKinney 1067 1
+Mullen 1005 1
+Glaros 1028 1
+Iliopoulos 1067 1
+Mullen 1067 1
+Iliopoulos 1067 0
+ -  1067 1
+Vaughn 1067 1
+Glaros 1011 0
+Mullen 1032 1
+Mullen 1067 1
+Fox 1091 1
+Currin 1018 0
+Nikitas 1074 1
+Mullen 1056 1
+Mullen 1078 1
+Mullen 1072 1
+Burns 1067 1
+Lin 1033 1
+Burns 1018 1
+Lin 1047 1
+ -  1040 1
+Mullen 1074 1
+Lin 1020 1
+Sotir 1026 1
+Mullen 1067 1
+ -  1067 1
+Lin 1085 1
+Jiang 1094 0
+ -  1008 1
+Mullen 1013 1
+ -  1054 1
+Burns 1030 1
+Sanna 1029 1
+Mullen 1054 1
+ -  1013 1
+Mullen 1067 1
+Mullen 1032 1
+Sanna 1067 1
+Mullen 1067 1
+Kappas 1056 0
+Kefalas 1067 1
+Nikitas 1097 1
+Jiang 1067 1
+Iliopoulos 1015 1
+Mitzou 1051 1
+Mullen 1042 1
+Iliopoulos 1076 1
+Fox 1067 1
+Currin 1002 1
+Crane 1067 1
+Vasco 1085 0
+Sanna 1020 1
+Deal 1067 0
+Holden 1005 1
+Mullen 1054 1
+Sotir 1026 1
+Mullen 1085 1
+Sanna 1015 1
+Sotir 1054 1
+Mullen 1067 1
+Mullen 1078 1
+Vlasopoulos 1002 1
+Mullen 1067 1
+Jiang 1048 1
+Kelly 1067 1
+Carver 1013 1
+ -  1096 1
+Carver 1005 1
+Mullen 1013 1
+Burns 1020 1
+McKinney 1005 0
+Lin 1000 0
+Sotir 1005 1
+Mullen 1067 1
+Vasco 1005 1
+Mitzou 1067 1
+Chen 1061 1
+Mullen 1005 1
+Lin 1054 1
+Sotir 1067 1
+Mitzou 1018 1
+Tocci 1018 1
+Sanna 1067 1
+Mullen 1078 1
+Sotir 1067 1
+Fotos 1067 1
+ -  1067 1
+Mullen 1020 1
+Sotir 1094 1
+McKinney 1005 1
+Sotir 1067 1
+ -  1005 1
+Sanna 1067 1
+Mullen 1080 0
+Marsh 1026 1
+Mullen 1094 1
+Mullen 1022 0
+ -  1067 1
+Mullen 1026 1
+ -  1094 1
+Tocci 1067 1
+Lin 1015 1
+Fotos 1067 1
+Sotir 1005 1
+Mullen 1067 0
+Deal 1047 1
+Iliopoulos 1005 1
+Mullen 1067 1
+Sanna 1067 0
+Mullen 1067 1
+ -  1067 1
+Hernandez 1067 1
+Vasco 1060 1
+Mullen 1091 1
+Fox 1015 1
+Kappas 1094 1
+Mullen 1013 1
+Mullen 1013 0
+Sanna 1083 1
+Mullen 1068 1
+Sanna 1004 1
+Mangas 1094 0
+Vaughn 1072 1
+Marsh 1052 1
+Mullen 1073 1
+Iliopoulos 1054 1
+Iliopoulos 1032 1
+Mullen 1043 1
+Sotir 1009 1
+Brandon 1005 1
+Mullen 1018 1
+Vaughn 1027 1
+Hurst 1013 0
+Tocci 1054 1
+Vasco 1052 0
+ -  1082 1
+Mullen 1054 1
+Hurst 1005 0
+Mullen 1094 1
+Mullen 1045 1
+Lin 1085 1
+Burgess 1067 1
+Mullen 1005 1
+Nikitas 1011 1
+Sotir 1042 1
+Carver 1067 1
+Mullen 1054 1
+Mullen 1013 1
+Burgess 1093 1
+Hurst 1017 1
+Jiang 1067 1
+ -  1018 0
+Mullen 1067 1
+Mangas 1079 1
+Sanna 1076 1
+Vasco 1026 1
+Mullen 1084 1
+Mullen 1046 1
+Mullen 1076 1
+Mullen 1005 1
+Silverman 1067 0
+McKinney 1080 0
+Mullen 1038 1
+Lin 1067 0
+Sotir 1067 1
+ -  1008 1
+Brandon 1005 1
+Sotir 1018 1
+Mullen 1067 1
+Vasco 1067 1
+Sotir 1080 1
+Burns 1032 1
+Sanna 1067 0
+Jiang 1085 1
+Vasco 1060 1
+Mitzou 1067 1
+Mullen 1022 1
+Mullen 1030 1
+Sotir 1054 1
+Lin 1091 1
+Hernandez 1094 0
+Tocci 1039 1
+Sanna 1090 1
+Sotir 1073 1
+Sotir 1026 1
+Mullen 1085 1
+Mullen 1067 1
+Mullen 1067 1
+Mitzou 1020 1
+Mullen 1020 1
+Iliopoulos 1067 1
+Mullen 1048 1
+Lin 1005 1
+Sanna 1013 1
+Glaros 1091 1
+Vasco 1058 0
+Vasco 1054 1
+Mullen 1022 1
+Mullen 1008 1
+Mullen 1097 1
+Sotir 1067 1
+Mullen 1049 1
+ -  1067 1
+ -  1067 0
+Sanna 1013 1
+ -  1096 1
+Mullen 1022 1
+Sotir 1004 1
+Mullen 1006 1
+ -  1094 1
+Mullen 1067 1
+Mullen 1060 1
+Sanna 1093 0
+Mullen 1013 1
+Iliopoulos 1083 1
+Vasco 1089 1
+ -  1067 1
+Iliopoulos 1076 1
+Brandon 1050 1
+Sotir 1022 1
+Sotir 1067 1
+Sanna 1067 1
+Marsh 1051 1
+Vasco 1034 1
+Mullen 1086 1
+Melis 1020 1
+Fox 1067 1
+Jiang 1094 1
+Zanni 1005 1
+Mullen 1094 1
+Nikitas 1067 1
+Mullen 1008 1
+ -  1035 1
+Sanna 1050 1
+Hernandez 1094 1
+ -  1074 1
+Sanna 1054 1
+Mangas 1018 1
+Sanna 1008 1
+Mullen 1067 1
+Mullen 1005 1
+Mullen 1056 1
+Sanna 1078 1
+ -  1085 0
+Mullen 1097 0
+Sotir 1067 1
+Hurst 1022 1
+Mullen 1025 1
+Mullen 1033 1
+Sotir 1016 1
+Lin 1067 0
+Mullen 1080 1
+Lin 1015 1
+Mullen 1027 1
+Mullen 1046 0
+Sotir 1005 0
+Sotir 1077 1
+Mangas 1067 0
+Kelly 1067 1
+Daniels 1067 1
+ -  1099 1
+Mullen 1067 1
+Vlasopoulos 1054 1
+Sotir 1067 1
+Mullen 1005 1
+Mitzou 1067 1
+Burgess 1067 0
+Mullen 1067 1
+Mitzou 1067 1
+Sotir 1094 1
+Mullen 1062 1
+Iliopoulos 1067 1
+Vasco 1052 1
+Mullen 1033 1
+Mullen 1005 1
+Mullen 1091 1
+Burns 1013 1
+Mullen 1094 1
+Sanna 1094 0
+ -  1067 1
+Mullen 1001 1
+Mullen 1067 1
+Sanna 1091 1
+Sotir 1067 0
+Kappas 1046 1
+Mangas 1033 1
+Sotir 1032 1
+Mullen 1013 1
+Kidd 1070 1
+Mullen 1040 1
+Deal 1005 0
+Mitzou 1054 1
+Mitzou 1007 1
+Lin 1046 1
+ -  1005 1
+Sanna 1054 1
+McKinney 1005 1
+Lin 1013 0
+Lin 1005 1
+Iliopoulos 1094 0
+Sanna 1085 1
+Kelly 1067 1
+Sanna 1094 1
+Mullen 1028 0
+Sanna 1038 1
+Sotir 1094 1
+Mullen 1076 1
+Hernandez 1079 1
+Mullen 1005 1
+Sotir 1054 1
+Denton 1058 1
+Mullen 1067 0
+Mullen 1082 1
+Iliopoulos 1067 1
+Brandon 1046 1
+Mullen 1078 1
+Iliopoulos 1058 1
+ -  1020 0
+Mullen 1018 1
+Sanna 1067 1
+Mullen 1067 1
+Burgess 1020 1
+Mullen 1005 1
+Kallas 1085 1
+Glaros 1060 1
+ -  1054 1
+Hernandez 1015 1
+ -  1005 1
+ -  1005 1
+Kazan 1067 1
+Lin 1089 1
+Sotir 1020 1
+Mullen 1054 0
+Burgess 1013 1
+Mullen 1032 1
+Mullen 1079 0
+Mullen 1020 1
+Sanna 1014 1
+Sanna 1067 1
+Mullen 1067 1
+Lin 1067 0
+Mullen 1075 1
+Mullen 1005 0
+Mitzou 1067 1
+Sanna 1067 1
+ -  1034 1
+Sanna 1005 1
+Sotir 1036 1
+Iliopoulos 1067 0
+Sanna 1013 1
+Mullen 1091 1
+Sotir 1067 1
+Burgess 1067 1
+Mullen 1067 1
+McKinney 1067 1
+Mullen 1019 1
+Sotir 1067 1
+Lin 1014 1
+Sotir 1067 1
+Lin 1085 1
+Hurst 1013 1
+Mullen 1009 0
+Economos 1058 1
+ -  1057 1
+Mullen 1005 1
+Jiang 1038 0
+Mullen 1026 1
+Mullen 1002 1
+Mullen 1067 0
+Jiang 1020 1
+Mullen 1067 1
+Sotir 1054 1
+Hernandez 1069 1
+Sanna 1067 1
+Mullen 1054 1
+Hernandez 1018 1
+Mullen 1067 1
+Jiang 1067 1
+Kidd 1094 0
+Chen 1033 1
+Sanna 1067 1
+Mullen 1067 1
+Mullen 1002 1
+Jiang 1085 1
+Sotir 1005 1
+Silverman 1005 0
+Iliopoulos 1040 1
+Sanna 1005 1
+ -  1034 1
+Iliopoulos 1091 1
+Deal 1067 1
+Palmer 1094 0
+Mitzou 1057 1
+Iliopoulos 1033 1
+Mullen 1046 1
+Sanna 1054 1
+Kazan 1085 1
+Mullen 1063 1
+Sanna 1054 0
+Mitzou 1067 1
+Vasco 1067 1
+Sotir 1067 1
+Mullen 1026 1
+ -  1002 1
+Marsh 1067 1
+Mullen 1094 1
+Spears 1067 1
+ -  1046 1
+Fox 1015 1
+ -  1046 1
+Sotir 1067 0
+Economos 1067 1
+Mullen 1052 1
+Lin 1067 1
+Mullen 1067 1
+Burns 1054 1
+Sotir 1094 1
+Mullen 1054 0
+Mangas 1010 1
+Sotir 1044 0
+ -  1005 1
+Vasco 1020 1
+Sotir 1068 1
+Jiang 1005 1
+Vasco 1002 1
+Mullen 1019 1
+Burgess 1020 1
+Tocci 1067 1
+ -  1022 1
+Mullen 1038 1
+Sotir 1094 1
+Mullen 1086 1
+Sanna 1005 1
+Mitzou 1067 0
+Sanna 1067 1
+Mullen 1005 1
+Sanna 1013 1
+Denton 1020 1
+Sotir 1067 1
+McKinney 1078 1
+Mullen 1015 1
+Sotir 1032 1
+ -  1005 1
+Heath 1028 1
+Sotir 1085 1
+Sanna 1020 1
+Sanna 1018 1
+Iliopoulos 1005 1
+Sotir 1013 1
+Mullen 1046 1
+Mullen 1015 1
+Glaros 1067 1
+Hernandez 1077 1
+ -  1048 1
+Mullen 1084 1
+Mullen 1005 1
+ -  1043 1
+Mangas 1067 1
+Lin 1080 1
+Tocci 1054 1
+Sotir 1005 1
+Lin 1015 1
+Denton 1046 0
+Mullen 1009 0
+Mullen 1025 1
+Burns 1015 1
+Deal 1018 1
+Burgess 1085 0
+Mullen 1094 1
+Nikitas 1067 1
+ -  1091 1
+Mullen 1089 1
+Mullen 1067 1
+Vasco 1008 0
+Mullen 1094 1
+ -  1067 1
+Sanna 1033 1
+Sotir 1067 0
+Hernandez 1093 0
+Nikitas 1040 1
+Mullen 1054 1
+Vasco 1024 1
+Carver 1020 1
+Vasco 1067 1
+ -  1056 1
+Sanna 1033 1
+Sanna 1078 1
+ -  1005 1
+Deal 1067 1
+Sotir 1011 1
+ -  1005 1
+Lin 1038 1
+Sotir 1080 1
+Hernandez 1013 1
+Mullen 1085 1
+Mullen 1013 1
+ -  1003 1
+Sotir 1067 1
+Sotir 1030 1
+ -  1054 1
+Mullen 1067 1
+Chontos 1067 1
+Sotir 1054 1
+Vasco 1054 1
+ -  1005 1
+ -  1034 1
+Sotir 1094 1
+McKinney 1063 0
+ -  1099 1
+Vasco 1067 1
+ -  1085 1
+Mullen 1005 0
+Mullen 1012 1
+McKinney 1013 1
+Sanna 1053 1
+Economos 1054 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1048 0
+Sotir 1040 1
+Hernandez 1067 1
+Mullen 1016 0
+Sanna 1020 0
+Mullen 1094 1
+Mullen 1013 1
+Mullen 1078 1
+Mullen 1067 1
+Mullen 1054 1
+Sotir 1013 1
+Mullen 1067 1
+Mullen 1008 1
+Sotir 1005 1
+ -  1005 1
+Mullen 1020 1
+Mullen 1094 1
+Kappas 1046 1
+Mullen 1020 1
+Mullen 1067 1
+Mullen 1054 0
+Sotir 1067 1
+ -  1040 1
+Burgess 1005 1
+Brandon 1054 1
+Mullen 1046 1
+Mullen 1046 1
+Vasco 1054 1
+Burns 1067 0
+Dolan 1026 1
+Vasco 1078 1
+ -  1007 1
+Burns 1067 1
+ -  1091 1
+Jiang 1053 1
+Sanna 1054 1
+Mullen 1067 1
+ -  1020 1
+Mullen 1067 1
+Vlasopoulos 1067 1
+McKinney 1046 1
+Chontos 1079 1
+Sanna 1067 1
+Mullen 1067 1
+Glaros 1067 1
+Mitzou 1005 1
+Mullen 1005 1
+Silverman 1053 1
+Mullen 1013 1
+Vasco 1080 0
+ -  1005 1
+Lin 1054 1
+Mullen 1032 1
+ -  1054 1
+Tocci 1036 1
+Mullen 1005 1
+Jiang 1015 1
+Iliopoulos 1015 1
+Mitzou 1035 0
+Glaros 1012 1
+Mullen 1083 1
+ -  1018 1
+Mullen 1096 1
+Sanna 1038 1
+Mullen 1094 1
+Sotir 1054 1
+Lin 1094 0
+ -  1067 1
+Sotir 1005 1
+Sanna 1008 1
+Nikitas 1094 1
+Mullen 1002 1
+Sotir 1067 1
+Iliopoulos 1070 1
+Currin 1056 1
+Sotir 1094 1
+Mullen 1020 1
+Mangas 1005 1
+Sotir 1018 1
+Sanna 1089 1
+Mullen 1010 1
+Vasco 1054 1
+Melis 1014 0
+Lin 1067 1
+Dolan 1007 1
+ -  1098 1
+Vasco 1067 1
+Sotir 1094 1
+ -  1067 1
+ -  1029 1
+Mullen 1013 1
+Sotir 1020 1
+Glaros 1005 1
+Sanna 1067 1
+Jiang 1034 1
+McKinney 1046 1
+Sotir 1078 1
+Mullen 1052 1
+Mullen 1005 1
+Melis 1013 1
+Lin 1067 1
+Mullen 1067 1
+Vasco 1005 1
+Sotir 1005 1
+Mullen 1085 1
+Mullen 1094 1
+ -  1020 1
+Iliopoulos 1020 1
+Avramidis 1061 1
+Sanna 1073 1
+Iliopoulos 1067 0
+Mullen 1026 1
+ -  1018 1
+Mullen 1013 1
+Mullen 1018 1
+Higgins 1015 1
+Sanna 1067 1
+Mullen 1067 1
+Thoma 1005 0
+Mullen 1091 1
+Sotir 1040 1
+Sotir 1005 1
+Heath 1067 1
+Chontos 1067 1
+Iliopoulos 1033 1
+Kazan 1015 1
+Sanna 1094 0
+Vasco 1075 1
+Hurst 1067 1
+Lin 1054 1
+McKinney 1064 0
+Sotir 1049 0
+Mullen 1005 1
+Mullen 1067 1
+McKinney 1054 1
+Mullen 1067 1
+Mullen 1097 1
+Sanna 1067 1
+ -  1067 1
+Sotir 1040 1
+Burns 1027 1
+Vaughn 1020 0
+Burns 1074 1
+Mullen 1056 1
+Burns 1091 1
+Vasco 1067 0
+Sotir 1054 1
+Sotir 1015 1
+Mullen 1084 1
+Sotir 1005 1
+ -  1076 1
+Higgins 1067 1
+Mullen 1020 1
+ -  1067 1
+Mullen 1050 1
+Mullen 1018 1
+Sotir 1052 1
+ -  1052 1
+Mullen 1067 1
+Vasco 1005 1
+Spears 1013 1
+Glaros 1005 1
+Sotir 1094 0
+Lin 1015 1
+Hernandez 1067 1
+Burgess 1031 1
+Iliopoulos 1097 1
+Vasco 1054 1
+Kelly 1040 1
+Mangas 1035 1
+Iliopoulos 1005 1
+Mitzou 1005 1
+Mullen 1094 1
+Mangas 1067 0
+Mullen 1015 1
+Kazan 1000 1
+ -  1005 1
+Iliopoulos 1085 1
+ -  1025 1
+Marsh 1078 1
+Lin 1079 1
+Vasco 1085 1
+McKinney 1067 1
+Sanna 1033 1
+Deal 1067 1
+Sotir 1018 1
+ -  1067 1
+Lin 1005 1
+Sotir 1020 1
+ -  1020 1
+Mullen 1036 1
+Jiang 1067 1
+Mullen 1040 1
+ -  1094 1
+Burns 1018 1
+Spears 1067 1
+ -  1094 1
+Sotir 1067 1
+Iliopoulos 1067 1
+Kidd 1040 1
+Mullen 1098 1
+Sotir 1022 1
+Deal 1008 1
+Mullen 1020 0
+Mullen 1067 1
+Mullen 1011 1
+Sotir 1054 1
+Mullen 1067 1
+Sotir 1005 1
+Vasco 1071 1
+Mullen 1094 1
+Brandon 1018 1
+Vasco 1038 1
+Daniels 1013 1
+Currin 1013 0
+Mullen 1067 1
+Sanna 1094 1
+Sotir 1020 0
+Mullen 1040 0
+Currin 1054 1
+Lin 1015 1
+Jiang 1067 1
+Mullen 1067 1
+Sotir 1097 1
+Kallas 1067 1
+Mitzou 1005 1
+Vlasopoulos 1005 1
+Mullen 1054 1
+Sotir 1005 1
+ -  1033 1
+Chontos 1091 1
+Chontos 1040 1
+Mitzou 1067 0
+Mullen 1093 1
+Sotir 1077 1
+Hurst 1033 1
+Sanna 1018 1
+Hernandez 1005 1
+Mullen 1020 1
+Vasco 1058 1
+ -  1018 1
+Burgess 1040 1
+Mullen 1078 0
+Mullen 1067 1
+Mitzou 1094 1
+Sotir 1053 0
+Sotir 1049 1
+Denton 1067 1
+Sotir 1038 1
+Sotir 1087 1
+Sanna 1073 1
+Mullen 1058 1
+Mullen 1067 1
+Mullen 1031 1
+Iliopoulos 1004 1
+Mullen 1076 1
+Mullen 1052 1
+Mullen 1058 1
+Mullen 1067 1
+Mullen 1002 1
+Sotir 1052 1
+ -  1080 1
+Mullen 1071 1
+Vasco 1091 1
+Sanna 1009 1
+ -  1067 1
+Jiang 1002 1
+Sotir 1085 1
+Mullen 1054 1
+Mullen 1013 1
+Sanna 1005 1
+ -  1094 1
+Iliopoulos 1015 1
+Sanna 1054 0
+Mullen 1067 1
+ -  1054 0
+Chontos 1052 1
+Sanna 1053 0
+Kappas 1018 1
+ -  1067 0
+Mitzou 1078 1
+Mullen 1054 1
+Sanna 1067 1
+Iliopoulos 1067 1
+Sotir 1067 1
+Iliopoulos 1085 1
+Dolan 1073 1
+McKinney 1067 1
+Sotir 1002 1
+Vasco 1054 1
+Silverman 1052 1
+Sotir 1005 1
+Sanna 1012 1
+Chontos 1067 1
+Glaros 1005 1
+ -  1067 1
+Mullen 1067 1
+ -  1053 1
+McKinney 1089 1
+Mullen 1093 1
+Mullen 1067 1
+ -  1020 1
+McKinney 1005 1
+Lin 1013 1
+Sanna 1018 1
+Sanna 1046 1
+Mullen 1013 1
+Nikitas 1013 1
+Iliopoulos 1085 1
+Marsh 1094 1
+Sanna 1010 1
+Sotir 1026 0
+Mullen 1054 1
+Sanna 1067 1
+Iliopoulos 1097 1
+Iliopoulos 1067 1
+Vasco 1094 1
+Sanna 1040 1
+Mullen 1013 1
+Zanni 1048 1
+Mullen 1002 1
+Mullen 1005 1
+ -  1094 1
+Mullen 1052 1
+Tocci 1094 1
+Hernandez 1054 1
+Kallas 1058 1
+Iliopoulos 1094 1
+Kelly 1005 1
+Sotir 1008 1
+Mullen 1005 1
+ -  1067 1
+Iliopoulos 1094 1
+Sotir 1067 1
+Mullen 1086 1
+Mullen 1067 1
+Fox 1067 1
+Kappas 1085 1
+Lin 1018 1
+Mullen 1005 1
+Sotir 1052 1
+Hernandez 1067 1
+ -  1022 1
+Vasco 1094 1
+Mullen 1088 1
+ -  1067 1
+Sanna 1067 1
+Mullen 1005 1
+Deal 1026 1
+Fox 1013 1
+McKinney 1067 1
+Mullen 1067 1
+Mullen 1039 1
+Holden 1067 1
+Jiang 1067 0
+Sotir 1067 1
+Mullen 1005 1
+Mullen 1005 1
+Mullen 1067 1
+Sanna 1039 1
+Mullen 1054 1
+Lin 1046 1
+Mullen 1067 1
+ -  1005 1
+Mullen 1067 1
+Lin 1054 1
+Mitzou 1027 1
+Sotir 1071 1
+Sanna 1067 1
+Melis 1067 1
+Lin 1005 1
+Fox 1062 1
+Sanna 1067 1
+Deal 1005 1
+Mullen 1065 1
+Sanna 1032 1
+Mullen 1067 0
+Burgess 1033 1
+Mullen 1067 1
+Mullen 1026 1
+Mullen 1008 1
+Mullen 1067 1
+ -  1094 1
+Denton 1067 1
+Vasco 1005 1
+Vasco 1040 1
+Nikitas 1058 1
+Sotir 1049 1
+McKinney 1019 1
+ -  1052 1
+Mullen 1067 1
+ -  1042 1
+Mullen 1054 1
+Mangas 1094 1
+Deal 1076 1
+Mullen 1005 0
+ -  1005 1
+Denton 1067 1
+Hernandez 1015 1
+Mullen 1067 0
+Mullen 1053 1
+Sanna 1092 1
+Tocci 1067 1
+Sotir 1067 1
+Mullen 1067 1
+Brandon 1018 1
+Mullen 1094 1
+Mullen 1067 0
+Kallas 1067 1
+Mullen 1014 1
+Mullen 1030 1
+Mullen 1054 1
+Mullen 1095 0
+Mullen 1054 0
+Brandon 1054 1
+Burns 1005 1
+Mullen 1035 1
+Iliopoulos 1057 0
+ -  1013 1
+Lin 1039 1
+Carver 1005 1
+Burgess 1005 1
+Mitzou 1005 0
+Economos 1054 0
+Mullen 1040 1
+Burns 1067 1
+Lin 1054 1
+Holden 1038 0
+McKinney 1005 0
+Carver 1018 1
+Sanna 1018 1
+McKinney 1067 1
+Mullen 1003 1
+Mullen 1005 1
+Vasco 1015 1
+Sanna 1018 1
+Glaros 1002 1
+Lin 1078 1
+ -  1037 1
+Sotir 1067 1
+Heath 1067 1
+Chen 1024 0
+Sotir 1067 1
+Sanna 1054 1
+Mullen 1008 1
+ -  1067 1
+Burns 1010 0
+Mullen 1078 1
+Mullen 1067 1
+Burgess 1005 1
+Mullen 1046 1
+Holden 1067 0
+Mullen 1067 1
+Iliopoulos 1005 1
+Kefalas 1037 1
+Chontos 1067 1
+Fox 1067 1
+Mullen 1054 1
+McKinney 1019 0
+Mullen 1026 1
+Vasco 1018 1
+Sanna 1067 0
+Mullen 1022 1
+Mullen 1067 1
+Sotir 1057 1
+ -  1054 1
+McKinney 1031 1
+Vasco 1091 1
+Iliopoulos 1022 1
+Sotir 1008 1
+Mullen 1058 1
+Mitzou 1094 1
+McKinney 1062 1
+Mullen 1005 1
+Nikitas 1038 1
+Mullen 1006 1
+Lin 1065 1
+Kazan 1079 1
+Mullen 1054 1
+Lin 1005 1
+Sanna 1026 1
+Sotir 1094 1
+Heath 1067 1
+Sotir 1058 1
+ -  1018 0
+Mullen 1067 1
+Mullen 1094 1
+Mullen 1094 1
+Spears 1020 1
+Mullen 1054 1
+Sotir 1008 1
+Mullen 1020 1
+Lin 1078 1
+Lin 1076 1
+Mullen 1067 1
+Mitzou 1023 1
+Mullen 1067 1
+Mullen 1037 1
+Mullen 1012 1
+Sanna 1049 1
+Sotir 1054 1
+Mullen 1020 1
+Mullen 1005 0
+Sotir 1020 0
+Mullen 1097 1
+Nikitas 1054 1
+Jiang 1067 1
+Sanna 1032 1
+Hernandez 1067 1
+Mullen 1038 1
+Jiang 1054 1
+Sanna 1094 1
+Mullen 1094 1
+Iliopoulos 1065 1
+Mullen 1039 1
+Mullen 1002 1
+Mullen 1054 1
+Holden 1048 1
+Sotir 1067 1
+Mullen 1026 0
+Mullen 1046 1
+Mullen 1054 1
+Mullen 1005 1
+Mullen 1067 0
+ -  1038 1
+Chontos 1067 1
+Iliopoulos 1040 1
+Lin 1067 1
+Sanna 1063 1
+ -  1008 1
+Sanna 1020 0
+Lin 1054 1
+Melis 1020 1
+Kidd 1020 1
+Kidd 1091 1
+Sanna 1067 1
+Currin 1084 1
+Mitzou 1054 1
+Tocci 1020 1
+Sotir 1005 1
+Burns 1054 1
+Denton 1073 1
+ -  1085 1
+Silverman 1056 1
+Sotir 1091 1
+Lin 1067 1
+Kelly 1005 1
+Lin 1081 1
+Sotir 1067 1
+Mitzou 1054 1
+Palmer 1067 1
+Sotir 1013 1
+Mullen 1026 1
+Sotir 1018 1
+Fotos 1005 1
+Iliopoulos 1033 0
+Mullen 1085 1
+Mullen 1067 1
+Brandon 1067 1
+Burgess 1067 1
+ -  1046 1
+Mullen 1067 1
+Sotir 1058 1
+Lin 1040 1
+Hernandez 1038 1
+ -  1005 1
+Vaughn 1089 1
+Mullen 1048 1
+Lin 1067 1
+Mullen 1094 1
+ -  1008 1
+Glaros 1020 1
+Fox 1005 1
+McKinney 1022 1
+Mangas 1072 1
+ -  1000 1
+Vasco 1005 0
+ -  1040 1
+Fox 1067 1
+Sotir 1013 1
+Mullen 1015 1
+Nikitas 1067 1
+Burns 1018 1
+ -  1088 0
+Mullen 1067 1
+Mullen 1094 1
+Glaros 1059 1
+Mullen 1067 1
+Lin 1013 1
+Mullen 1005 0
+ -  1094 0
+Mullen 1067 1
+Nikitas 1034 1
+Burns 1060 1
+Mullen 1058 1
+ -  1016 1
+Vasco 1009 1
+Chontos 1013 1
+Mullen 1073 1
+ -  1056 1
+Hernandez 1094 1
+Palmer 1012 1
+Sotir 1067 1
+ -  1054 1
+ -  1026 1
+Iliopoulos 1094 1
+ -  1070 1
+Sanna 1094 1
+Carver 1067 1
+Kefalas 1005 1
+Tocci 1039 1
+Jiang 1046 1
+Vasco 1052 1
+Mullen 1020 1
+Mullen 1076 0
+Sanna 1067 1
+Sanna 1054 1
+Mullen 1067 1
+Nikitas 1067 1
+ -  1013 1
+ -  1042 1
+ -  1067 1
+Sotir 1054 1
+Sanna 1094 1
+Iliopoulos 1023 1
+Jiang 1005 0
+Sotir 1054 1
+Hernandez 1005 1
+Glaros 1058 1
+Holden 1026 1
+ -  1054 0
+ -  1015 1
+Mullen 1018 1
+Deal 1094 0
+Mullen 1021 1
+Mullen 1020 1
+Lin 1020 1
+Kazan 1026 1
+Hernandez 1002 1
+Kidd 1015 1
+Hurst 1052 1
+Sanna 1082 0
+Mullen 1052 1
+Chontos 1035 1
+Hernandez 1005 1
+Lin 1073 0
+Melis 1067 1
+Mangas 1099 0
+Mullen 1094 1
+Fox 1005 1
+Brandon 1094 1
+Hernandez 1084 1
+Mullen 1067 1
+Mullen 1030 1
+Kefalas 1067 1
+ -  1033 1
+Deal 1046 1
+ -  1005 1
+Thoma 1048 1
+Sanna 1094 0
+Mullen 1067 1
+Sanna 1054 1
+Sotir 1005 1
+Sotir 1026 1
+Mullen 1002 1
+Glaros 1036 1
+Kappas 1020 0
+Brandon 1022 1
+Sotir 1067 1
+Carver 1054 0
+Sotir 1067 1
+Lin 1018 1
+Glaros 1093 1
+Mullen 1052 1
+Sotir 1094 0
+Burgess 1020 1
+Mitzou 1084 1
+Vasco 1048 1
+Holden 1020 1
+Mullen 1067 1
+Hernandez 1078 1
+Melis 1080 0
+Jiang 1046 1
+Palmer 1063 1
+ -  1020 1
+Mullen 1020 1
+Nikitas 1067 0
+Iliopoulos 1067 1
+Kelly 1067 1
+Vasco 1090 1
+Mullen 1076 0
+Spears 1094 1
+ -  1080 1
+Mullen 1015 1
+Mullen 1094 1
+Mullen 1040 1
+Kidd 1095 1
+Mullen 1002 1
+Sotir 1013 0
+Mullen 1022 1
+ -  1020 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1040 1
+Mullen 1067 1
+Mullen 1067 1
+Sanna 1005 1
+Marsh 1067 1
+Mullen 1054 0
+Vasco 1067 1
+Burns 1020 1
+ -  1067 1
+Mullen 1013 1
+Iliopoulos 1092 1
+Lin 1009 1
+Sanna 1026 1
+Sanna 1005 1
+Mullen 1048 1
+Zanni 1058 1
+Mullen 1042 1
+Iliopoulos 1040 0
+Mullen 1012 1
+Vasco 1018 1
+Jiang 1067 1
+Burns 1067 1
+Lin 1099 1
+Hurst 1005 1
+McKinney 1054 1
+Mullen 1054 1
+Sotir 1060 1
+Vaughn 1078 1
+Vasco 1060 1
+Mullen 1020 1
+Sotir 1094 1
+ -  1067 1
+ -  1054 1
+Sotir 1093 1
+ -  1030 1
+Lin 1004 1
+ -  1017 1
+Sotir 1091 1
+Sotir 1091 1
+Iliopoulos 1046 1
+Mullen 1015 1
+Sotir 1005 1
+Kallas 1020 1
+Burns 1067 1
+Sanna 1018 1
+Mangas 1034 0
+Glaros 1094 1
+Mullen 1054 1
+Sotir 1048 1
+Jiang 1085 1
+Mullen 1052 0
+Palmer 1090 1
+Mullen 1067 1
+Vasco 1067 1
+ -  1067 1
+Mitzou 1067 1
+Jiang 1060 1
+Sanna 1067 1
+Lin 1067 1
+ -  1013 1
+Mullen 1052 1
+Mullen 1001 1
+Sanna 1097 1
+Mullen 1067 1
+Iliopoulos 1020 1
+Chontos 1013 1
+Sotir 1032 1
+Lin 1047 1
+Mullen 1067 1
+Mullen 1084 1
+Mullen 1067 1
+Mangas 1020 1
+Sanna 1039 1
+Sotir 1005 1
+Lin 1054 1
+Burns 1037 1
+Glaros 1067 1
+Sanna 1067 1
+Spears 1023 1
+Mullen 1054 1
+Mullen 1032 0
+Mullen 1005 1
+Higgins 1067 1
+Mullen 1022 1
+Mullen 1094 0
+Mullen 1018 1
+ -  1089 0
+Deal 1067 1
+Mullen 1054 1
+ -  1005 1
+Chen 1067 0
+Mullen 1067 1
+Lin 1054 1
+Iliopoulos 1077 1
+Mullen 1065 1
+Mullen 1054 1
+Mullen 1067 1
+Mullen 1012 1
+Melis 1080 1
+Mullen 1094 1
+Spears 1088 1
+Mullen 1005 1
+Iliopoulos 1067 1
+Lin 1091 0
+Silverman 1054 1
+Jiang 1023 1
+Currin 1094 1
+ -  1067 1
+Sotir 1018 0
+ -  1067 1
+Burns 1052 0
+Jiang 1013 1
+McKinney 1094 1
+Mullen 1018 1
+Sanna 1020 1
+Mullen 1067 0
+Sotir 1089 1
+Avramidis 1067 1
+Mullen 1040 1
+Sotir 1040 1
+Lin 1042 1
+Mullen 1067 1
+Mullen 1067 1
+Sanna 1005 1
+Jiang 1020 1
+Mullen 1021 0
+Mullen 1034 1
+McKinney 1054 1
+Vasco 1067 1
+Mullen 1067 1
+Mullen 1053 1
+Mitzou 1058 1
+Sotir 1005 1
+Chontos 1020 1
+Iliopoulos 1054 1
+Mullen 1067 0
+Sotir 1020 1
+Currin 1005 1
+Burns 1020 1
+Vasco 1067 0
+Sotir 1036 1
+ -  1003 1
+Vasco 1054 1
+Deal 1038 1
+Sotir 1005 1
+Mullen 1067 1
+Mullen 1013 1
+Mullen 1085 1
+Jiang 1005 1
+McKinney 1054 1
+ -  1067 1
+Mullen 1054 1
+Sanna 1005 1
+Mullen 1005 1
+Vasco 1067 1
+Iliopoulos 1038 1
+Vasco 1067 1
+Mullen 1000 1
+Mullen 1054 0
+Vasco 1095 1
+Mullen 1025 1
+Mullen 1072 1
+Sotir 1067 1
+Sanna 1088 1
+Sotir 1054 1
+Denton 1067 1
+Heath 1020 1
+Mullen 1067 1
+Sanna 1005 1
+Vlasopoulos 1067 0
+ -  1020 1
+ -  1058 1
+Sotir 1040 1
+McKinney 1067 1
+ -  1067 1
+ -  1063 1
+Kallas 1058 0
+Sanna 1093 1
+ -  1015 1
+Mullen 1005 1
+Hernandez 1032 1
+Burns 1005 1
+Sanna 1067 1
+Thoma 1016 0
+ -  1015 1
+Sotir 1005 1
+Mullen 1013 1
+Mullen 1067 1
+ -  1067 1
+Mullen 1097 1
+Lin 1011 1
+Sanna 1079 1
+Mullen 1039 0
+Mitzou 1032 1
+Iliopoulos 1005 0
+Burns 1020 1
+Sotir 1041 1
+Kallas 1067 1
+Vasco 1067 1
+Sanna 1083 1
+Lin 1020 1
+Sotir 1015 1
+Sanna 1094 1
+Vasco 1089 1
+ -  1009 1
+Iliopoulos 1094 1
+Mullen 1005 1
+Spears 1054 1
+Nikitas 1033 1
+Mangas 1005 1
+Mullen 1067 0
+ -  1054 1
+Denton 1025 1
+Mullen 1067 1
+Nikitas 1094 1
+Sotir 1073 1
+Mullen 1008 1
+Iliopoulos 1067 1
+ -  1011 1
+Vasco 1091 0
+Silverman 1002 0
+Melis 1020 1
+Iliopoulos 1036 1
+Lin 1078 1
+Iliopoulos 1097 0
+ -  1005 1
+Sotir 1005 0
+Mullen 1003 1
+Iliopoulos 1025 1
+Mangas 1054 1
+Mullen 1050 1
+Tocci 1086 1
+Sotir 1006 1
+Mullen 1063 1
+ -  1094 0
+Burns 1067 1
+Mullen 1056 1
+Hernandez 1005 1
+Mitzou 1005 1
+Sotir 1067 1
+ -  1015 1
+Daniels 1013 1
+Sanna 1091 1
+Mullen 1067 1
+ -  1054 1
+Burgess 1067 1
+Burns 1067 1
+Mitzou 1067 1
+Mullen 1067 0
+Mullen 1085 1
+Brandon 1094 1
+Sotir 1067 0
+Burns 1067 1
+Nikitas 1067 1
+Lin 1054 1
+Vasco 1085 1
+Lin 1080 0
+Avramidis 1005 1
+Mullen 1094 1
+Palmer 1078 1
+Sotir 1018 1
+Mullen 1005 0
+Mullen 1038 1
+Sotir 1054 1
+Sotir 1013 1
+Sotir 1054 1
+Chontos 1085 1
+Sanna 1085 1
+Deal 1042 1
+Kidd 1054 0
+Mullen 1032 0
+Iliopoulos 1042 1
+Sotir 1034 1
+Hernandez 1015 0
+Lin 1085 1
+Tocci 1018 1
+Sotir 1015 1
+Mullen 1034 1
+Mullen 1067 1
+ -  1068 1
+Nikitas 1049 1
+Mitzou 1037 0
+Mullen 1054 1
+ -  1083 1
+Palmer 1067 1
+Sanna 1002 1
+Sanna 1067 1
+ -  1067 0
+Lin 1005 1
+Mitzou 1056 1
+Mullen 1020 0
+Sotir 1063 0
+Lin 1019 1
+Mullen 1085 1
+Glaros 1015 1
+Mullen 1005 1
+Mullen 1054 1
+Sanna 1022 1
+Sanna 1084 1
+Vasco 1005 0
+Sanna 1025 1
+ -  1067 1
+Mullen 1038 1
+Sotir 1067 1
+Mullen 1015 1
+McKinney 1067 1
+Mullen 1054 1
+Sotir 1033 1
+Vasco 1076 1
+Vasco 1024 1
+Sotir 1091 1
+Mullen 1053 1
+ -  1058 0
+McKinney 1005 1
+Mitzou 1010 1
+Vaughn 1052 1
+Mullen 1054 1
+ -  1084 1
+ -  1080 1
+Iliopoulos 1046 1
+Tocci 1024 1
+Sotir 1067 1
+Mullen 1067 1
+Sanna 1067 1
+Mullen 1052 1
+Mullen 1073 1
+Vasco 1044 1
+ -  1067 0
+ -  1054 1
+Glaros 1067 1
+ -  1005 1
+Mullen 1067 1
+Mullen 1054 1
+ -  1091 1
+Mullen 1067 1
+Mullen 1067 1
+Mullen 1057 1
+Tocci 1067 1
+ -  1025 1
+Lin 1054 0
+Nikitas 1091 1
+Mullen 1067 1
+ -  1015 1
+Sotir 1058 1
+Burns 1094 1
+ -  1005 1
+Sotir 1094 0
+Branch 1067 1
+Mullen 1038 1
+Lin 1022 1
+Lin 1067 1
+Kappas 1067 1
+Glaros 1005 1
+Silverman 1067 1
+Lin 1067 1
+Kazan 1039 1
+Burns 1085 1
+Sotir 1067 1
+Sotir 1080 1
+Sanna 1085 1
+Mullen 1032 0
+Sotir 1091 1
+Glaros 1020 1
+Sanna 1067 0
+McKinney 1014 1
+Mullen 1015 1
+Hurst 1005 1
+Burgess 1078 1
+Sanna 1060 1
+Sanna 1067 1
+Sotir 1005 1
+Lin 1013 1
+Mangas 1068 1
+Denton 1067 0
+Sotir 1067 1
+Spears 1067 1
+Mullen 1040 1
+Vaughn 1054 0
+Kelly 1005 1
+Mullen 1052 0
+Sanna 1067 1
+Mullen 1043 1
+Chen 1060 1
+Lin 1060 1
+Sanna 1060 1
+Mullen 1034 1
+Mullen 1013 1
+Chontos 1046 1
+Vasco 1054 1
+Mitzou 1015 1
+Mitzou 1094 1
+Mullen 1067 1
+ -  1067 1
+Sanna 1042 1
+Mullen 1005 1
+Mullen 1003 1
+Sotir 1056 1
+Mullen 1094 1
+Vasco 1018 1
+Sotir 1013 0
+Sanna 1023 1
+Sanna 1067 1
+ -  1059 1
+Denton 1091 1
+ -  1054 1
+Tocci 1054 1
+Mullen 1067 1
+McKinney 1033 0
+Lin 1056 1
+Lin 1067 1
+Lin 1094 1
+Iliopoulos 1008 1
+Mullen 1005 1
+Mullen 1015 0
+Sotir 1067 1
+ -  1005 1
+Iliopoulos 1067 1
+McKinney 1018 1
+Mullen 1013 1
+Mullen 1018 1
+Mullen 1067 1
+Jiang 1067 1
+Lin 1083 1
+Sanna 1005 0
+Higgins 1094 1
+Mullen 1067 1
+Sotir 1073 1
+Crane 1079 1
+Deal 1067 1
+Sotir 1009 1
+Mullen 1033 1
+Sotir 1002 1
+Mullen 1067 1
+Holden 1018 1
+Mullen 1067 1
+Mullen 1091 1
+Mitzou 1067 1
+Kelly 1094 0
+Sanna 1067 1
+Carver 1094 1
+ -  1046 1
+Burgess 1006 1
+Iliopoulos 1058 1
+Mullen 1067 1
+Sotir 1040 1
+Iliopoulos 1053 1
+Mangas 1020 1
+Mullen 1067 1
+Fox 1046 1
+Mullen 1096 1
+Sanna 1091 1
+Mullen 1005 1
+ -  1067 1
+Brandon 1043 1
+Lin 1067 1
+Vasco 1067 1
+Vasco 1039 0
+ -  1094 1
+Mullen 1054 0
+Sotir 1020 1
+Lin 1057 1
+Mullen 1072 1
+Sanna 1068 1
+Lin 1095 1
+ -  1054 1
+Mullen 1002 1
+Kazan 1067 1
+Holden 1013 1
+Sotir 1018 1
+Mitzou 1067 1
+Kappas 1013 1
+Mullen 1005 1
+Mullen 1094 1
+Sanna 1067 1
+Mullen 1083 0
+Lin 1052 1
+Heath 1022 1
+Mullen 1085 1
+Vasco 1078 1
+Melis 1033 1
+Mitzou 1094 1
+Glaros 1067 1
+Iliopoulos 1094 1
+Mullen 1067 1
+Burns 1013 1
+Mullen 1089 1
+Lin 1054 1
+Mullen 1006 0
+Mullen 1067 1
+Sanna 1094 1
+Sanna 1094 1
+Branch 1015 1
+Mullen 1079 1
+Mitzou 1005 1
+Sotir 1085 1
+Lin 1005 0
+Mullen 1013 0
+Sotir 1067 1
+Mullen 1079 1
+Mullen 1005 1
+Mitzou 1067 1
+Kelly 1093 1
+Hernandez 1012 1
+Tocci 1054 1
+Sanna 1094 1
+ -  1005 1
+Mullen 1040 1
+Brandon 1013 1
+Sotir 1005 0
+ -  1085 0
+Mullen 1005 0
+Mullen 1067 1
+Higgins 1039 1
+Sotir 1028 1
+Lin 1085 1
+Burns 1020 1
+Lin 1026 1
+Lin 1020 1
+Mullen 1067 1
+Sanna 1032 1
+Sanna 1067 1
+McKinney 1067 1
+Sotir 1017 1
+ -  1005 1
+Iliopoulos 1005 1
+Mullen 1067 0
+Mullen 1097 1
+Holden 1091 1
+Mullen 1005 1
+Mullen 1002 1
+Mullen 1007 1
+ -  1094 1
+Sotir 1053 1
+ -  1054 1
+Sotir 1097 1
+Jiang 1067 1
+ -  1067 1
+Iliopoulos 1020 1
+McKinney 1067 1
+ -  1067 1
+Mullen 1065 1
+Burgess 1020 1
+Dolan 1067 1
+Jiang 1054 1
+Lin 1013 1
+Sotir 1067 1
+Sanna 1091 1
+ -  1020 1
+ -  1040 1
+Jiang 1005 1
+Lin 1006 1
+McKinney 1067 1
+Mitzou 1054 1
+Mullen 1049 1
+Sotir 1029 1
+Tocci 1005 1
+Deal 1005 1
+Mullen 1005 1
+Burns 1013 1
+Branch 1067 1
+Tocci 1005 1
+Jiang 1015 0
+Mullen 1067 1
+Kazan 1035 1
+Kidd 1011 1
+Fox 1025 1
+Mitzou 1013 1
+Jiang 1053 1
+Mullen 1005 1
+McKinney 1094 1
+Vasco 1078 1
+Nikitas 1046 1
+Branch 1012 0
+Iliopoulos 1067 1
+Silverman 1040 0
+Mullen 1005 1
+McKinney 1005 1
+Vasco 1087 1
+Sotir 1048 1
+Sanna 1020 1
+Mullen 1020 1
+ -  1054 1
+Sotir 1067 1
+Lin 1067 1
+Sotir 1083 1
+Mullen 1086 1
+Sotir 1067 0
+Vasco 1032 1
+Tocci 1067 1
+Lin 1067 1
+Mullen 1085 0
+Mitzou 1067 0
+Sotir 1040 1
+Mullen 1067 0
+Mullen 1011 1
+Mullen 1038 1
+Iliopoulos 1067 1
+Tocci 1078 1
+Mullen 1020 0
+McKinney 1054 1
+Sotir 1049 1
+ -  1067 1
+Vasco 1067 1
+ -  1045 1
+Sotir 1020 1
+Hernandez 1067 1
+ -  1067 1
+Mullen 1094 1
+Sotir 1067 1
+Mullen 1078 1
+Mullen 1056 1
+Tocci 1049 1
+Mangas 1020 1
+Hernandez 1047 1
+Mullen 1005 1
+Sanna 1040 1
+Sotir 1038 1
+ -  1094 1
+ -  1067 1
+Sanna 1005 1
+ -  1013 1
+ -  1018 1
+ -  1067 1
+Lin 1042 1
+Vasco 1025 1
+Lin 1005 0
+Lin 1067 1
+Vasco 1085 1
+Sotir 1080 1
+Denton 1056 1
+McKinney 1002 1
+Sotir 1003 1
+Mullen 1020 0
+Holden 1005 1
+Mullen 1085 1
+Sanna 1067 1
+Mitzou 1040 1
+ -  1099 1
+Sanna 1087 1
+Nikitas 1025 1
+McKinney 1018 1
+Sotir 1085 1
+Sotir 1013 1
+Vasco 1015 1
+Sanna 1067 0
+Sotir 1046 1
+Jiang 1005 1
+Sanna 1054 1
+Mullen 1098 1
+Glaros 1020 1
+Sotir 1049 1
+Mullen 1046 1
+Sotir 1067 1
+ -  1067 1
+Mullen 1005 1
+Thoma 1067 1
+Mullen 1000 1
+Mullen 1019 1
+Vasco 1024 1
+Lin 1054 1
+ -  1054 0
+Mullen 1053 1
+Mitzou 1067 1
+Mullen 1033 1
+Hernandez 1041 1
+Sanna 1018 1
+Silverman 1054 1
+Mullen 1091 1
+Mullen 1067 1
+Sotir 1054 0
+Jiang 1018 1
+Lin 1013 1
+Mullen 1020 1
+Mullen 1054 1
+Carver 1020 0
+Mullen 1085 1
+Mullen 1011 1
+Mullen 1094 1
+Mullen 1091 1
+Mullen 1053 1
+Mullen 1018 1
+Carver 1052 1
+Sotir 1079 1
+Vasco 1067 1
+Mullen 1005 1
+ -  1085 1
+Mullen 1067 1
+Mullen 1067 1
+Sotir 1050 1
+Kelly 1067 1
+Branch 1015 1
+Mullen 1005 1
+Mullen 1062 1
+Mullen 1005 1
+Marsh 1065 1
+ -  1002 1
+Mullen 1001 1
+Sotir 1089 1
+Vlasopoulos 1054 1
+Burns 1067 1
+Mullen 1032 1
+Jiang 1067 1
+Mullen 1091 1
+McKinney 1073 1
+Glaros 1095 1
+Mullen 1046 1
+Sanna 1054 1
+ -  1067 1
+Mullen 1067 0
+Mullen 1085 1
+Mitzou 1067 1
+Jiang 1067 1
+Deal 1027 1
+ -  1052 1
+ -  1005 1
+Melis 1050 1
+Mitzou 1054 1
+ -  1085 1
+Mullen 1018 1
+ -  1012 1
+Burgess 1005 1
+Sotir 1067 1
+Sanna 1085 1
+Fox 1011 1
+Sotir 1094 1
+Mullen 1005 1
+Mullen 1018 1
+Iliopoulos 1077 1
+Mullen 1005 1
+Tocci 1013 1
+Zanni 1067 1
+Mullen 1005 1
+Mullen 1048 1
+Mullen 1018 1
+Lin 1067 1
+Sanna 1096 1
+Mullen 1013 1
+Mullen 1067 1
+ -  1067 0
+Spears 1067 1
+Heath 1026 1
+Sotir 1035 1
+Fox 1067 1
+Sotir 1067 1
+Sotir 1008 1
+Mullen 1052 1
+Kappas 1033 1
+ -  1018 1
+Currin 1080 1
+Lin 1003 1
+Carver 1001 1
+Mullen 1067 1
+Sotir 1005 1
+Mullen 1094 1
+ -  1038 1
+Sotir 1067 1
+McKinney 1054 1
+ -  1022 1
+Mullen 1034 1
+Sotir 1060 1
+Burns 1044 1
+Sotir 1018 1
+Lin 1054 1
+ -  1049 1
+ -  1054 1
+Lin 1052 1
+Mullen 1018 1
+Avramidis 1054 1
+Mullen 1020 1
+Iliopoulos 1052 1
+Lin 1067 0
+McKinney 1018 1
+Mitzou 1004 1
+Kappas 1067 0
+Mullen 1067 1
+Mullen 1002 1
+Daniels 1033 1
+Mullen 1083 1
+Sotir 1067 1
+Glaros 1067 1
+Mullen 1067 0
+Denton 1094 1
+Mitzou 1005 1
+Mullen 1005 1
+Mullen 1035 1
+Vasco 1067 1
+Mullen 1005 1
+Mullen 1067 1
+Mullen 1079 1
+ -  1057 1
+ -  1020 1
+Kappas 1054 1
+Mullen 1009 1
+Mullen 1005 0
+Sotir 1005 1
+Kallas 1067 1
+McKinney 1036 1
+Lin 1054 1
+Mullen 1059 1
+Hernandez 1067 0
+Mullen 1073 0
+Currin 1067 1
+Sotir 1054 1
+ -  1058 1
+ -  1055 1
+Kazan 1026 1
+Iliopoulos 1020 1
+Hernandez 1066 1
+Tocci 1078 1
+Jiang 1094 0
+Sanna 1045 1
+Marsh 1019 1
+Mullen 1091 1
+Burns 1054 1
+ -  1038 1
+Hurst 1052 1
+Vlasopoulos 1090 1
+Glaros 1085 1
+ -  1005 1
+Sotir 1020 1
+Mullen 1037 1
+McKinney 1067 1
+Sanna 1005 1
+Mullen 1067 1
+Jiang 1035 1
+ -  1015 1
+Lin 1067 0
+Mullen 1042 1
+Sanna 1015 0
+Sotir 1054 1
+Sanna 1067 0
+Sotir 1004 1
+Glaros 1067 1
+Sanna 1005 0
+Mitzou 1030 1
+Fox 1018 1
+Mullen 1005 1
+Economos 1005 1
+Mullen 1052 1
+Kappas 1031 0
+Glaros 1094 1
+Deal 1067 1
+Sotir 1064 1
+Sanna 1005 1
+Mullen 1035 1
+Sanna 1076 1
+ -  1077 1
+Holden 1058 1
+Sotir 1054 0
+Mullen 1011 1
+Burns 1067 0
+Mullen 1008 1
+Burns 1018 1
+Sotir 1091 1
+Sanna 1085 1
+Sanna 1094 1
+Vlasopoulos 1005 1
+Carver 1020 1
+McKinney 1094 1
+Sotir 1067 1
+Nikitas 1053 0
+Mullen 1067 0
+Jiang 1018 1
+Vasco 1011 1
+Sotir 1055 1
+Sotir 1067 1
+Mullen 1013 1
+Burns 1026 1
+Mullen 1080 0
+Mitzou 1094 1
+ -  1013 1
+Mullen 1067 0
+Deal 1077 1
+Glaros 1067 1
+Sanna 1081 1
+Sotir 1005 1
+Sanna 1046 1
+Sanna 1067 1
+Iliopoulos 1005 0
+Mullen 1011 1
+ -  1032 0
+Mangas 1033 1
+Sotir 1099 1
+Sanna 1091 1
+Mullen 1051 0
+Sotir 1080 1
+Nikitas 1005 1
+Iliopoulos 1005 1
+Burgess 1063 1
+Iliopoulos 1067 1
+Mullen 1054 1
+Sotir 1018 1
+ -  1084 1
+Vlasopoulos 1005 1
+Mullen 1040 1
+Sotir 1067 1
+ -  1094 0
+Mullen 1005 1
+Sanna 1031 1
+McKinney 1020 1
+Lin 1083 1
+Sotir 1067 1
+Jiang 1067 0
+Vasco 1067 1
+Mullen 1060 1
+Mullen 1067 1
+Mullen 1085 1
+Vasco 1067 1
+Mullen 1046 1
+Jiang 1080 1
+McKinney 1067 1
+Burns 1002 1
+Sotir 1020 1
+Mangas 1015 0
+Nikitas 1067 1
+Mullen 1008 0
+Sanna 1067 1
+Tocci 1050 1
+Sanna 1094 1
+Mullen 1092 1
+Hernandez 1085 1
+Economos 1067 0
+Heath 1073 1
+Mullen 1048 1
+Mitzou 1067 1
+Mullen 1046 1
+Sanna 1015 1
+Lin 1054 1
+ -  1005 1
+Mullen 1061 0
+Lin 1075 1
+Silverman 1067 1
+Mullen 1067 1
+Sotir 1052 1
+Dolan 1018 1
+ -  1013 1
+Mullen 1095 1
+ -  1020 0
+Lin 1099 0
+Sotir 1067 0
+Sotir 1067 0
+Mullen 1067 1
+Chontos 1052 1
+ -  1058 1
+Chontos 1067 1
+Jiang 1067 1
+Holden 1046 0
+Silverman 1085 1
+Sanna 1067 1
+Nikitas 1054 1
+Burgess 1067 1
+Sotir 1067 1
+Hernandez 1005 1
+Mullen 1046 1
+ -  1018 0
+Sotir 1053 1
+McKinney 1054 1
+Sotir 1016 1
+Hurst 1005 1
+Sanna 1002 1
+ -  1077 1
+Mullen 1005 1
+Mullen 1040 1
+Carver 1093 1
+Vasco 1018 1
+Vasco 1087 1
+Sanna 1067 1
+ -  1067 1
+Fox 1067 0
+Mullen 1060 1
+Sotir 1079 1
+Mullen 1028 1
+Mullen 1013 1
+Lin 1067 1
+Burgess 1036 1
+Mullen 1005 1
+Sotir 1002 1
+Sotir 1020 1
+Economos 1054 1
+Sotir 1054 1
+Sotir 1054 1
+Sotir 1067 1
+Jiang 1015 1
+ -  1018 1
+McKinney 1067 1
+ -  1054 0
+Sotir 1096 1
+ -  1005 1
+Iliopoulos 1067 1
+Lin 1077 1
+Sanna 1096 1
+Daniels 1040 1
+Sanna 1067 1
+Sanna 1013 0
+Jiang 1020 1
+McKinney 1056 1
+Lin 1091 1
+Mitzou 1094 1
+Palmer 1067 1
+Vasco 1018 1
+Kappas 1021 1
+Sotir 1056 1
+Tocci 1037 1
+Mullen 1067 1
+ -  1046 1
+Marsh 1090 1
+Sotir 1005 1
+Mullen 1067 1
+Sotir 1018 1
+Mangas 1002 1
+Mullen 1005 1
+Palmer 1067 1
+Mullen 1006 1
+Jiang 1051 1
+Vasco 1067 1
+ -  1067 1
+Sotir 1054 1
+Nikitas 1067 1
+Sanna 1005 1
+Mullen 1005 1
+Sotir 1067 1
+Mullen 1067 1
+McKinney 1005 1
+McKinney 1085 1
+Chen 1005 0
+Sanna 1013 1
+Hernandez 1067 0
+Mullen 1006 1
+Sotir 1094 1
+Mullen 1018 1
+Lin 1094 1
+Burgess 1045 1
+Mitzou 1017 0
+Sanna 1054 1
+Sanna 1067 0
+Mangas 1067 1
+ -  1018 1
+Nikitas 1074 0
+Sanna 1067 1
+Mullen 1086 1
+Mitzou 1054 1
+ -  1067 1
+Nikitas 1067 1
+Vasco 1054 0
+Deal 1020 1
+ -  1067 1
+Sanna 1013 1
+Sanna 1054 1
+Mullen 1067 1
+Mullen 1015 1
+Mullen 1094 1
+Kefalas 1054 1
+Fox 1067 1
+Sanna 1054 1
+Nikitas 1067 1
+Iliopoulos 1005 1
+Sanna 1005 1
+Mitzou 1005 1
+ -  1013 1
+Fox 1026 1
+McKinney 1020 1
+Sanna 1046 0
+Hernandez 1054 1
+Sanna 1067 1
+Mullen 1091 1
+Mullen 1015 1
+ -  1015 1
+ -  1050 0
+McKinney 1005 1
+Mullen 1067 0
+Mullen 1094 1
+Mullen 1054 1
+Mullen 1054 1
+Sotir 1067 1
+Mullen 1094 1
+Sanna 1084 0
+Mullen 1094 1
+Lin 1088 1
+Higgins 1013 1
+ -  1056 1
+Silverman 1094 1
+McKinney 1078 0
+Sotir 1094 1
+ -  1022 1
+ -  1054 1
+ -  1094 1
+Nikitas 1067 1
+ -  1013 1
+Jiang 1094 1
+Chontos 1054 1
+McKinney 1015 1
+Hernandez 1043 1
+Lin 1091 1
+Mullen 1086 1
+Mullen 1067 1
+Marsh 1005 1
+Mullen 1094 1
+ -  1033 1
+Sotir 1067 1
+Sotir 1067 1
+Chontos 1085 1
+Mitzou 1074 1
+Chontos 1013 1
+Sanna 1088 1
+Sanna 1093 1
+Mullen 1067 1
+Sotir 1067 1
+ -  1085 1
+Burgess 1067 1
+Heath 1015 1
+Kidd 1067 1
+Vaughn 1067 1
+Iliopoulos 1067 1
+Iliopoulos 1094 1
+Vasco 1067 1
+Lin 1005 1
+Sotir 1013 1
+ -  1042 1
+ -  1094 1
+Sanna 1002 1
+Mullen 1067 1
+Lin 1091 1
+Deal 1066 0
+Sotir 1067 1
+Sotir 1018 1
+Nikitas 1045 1
+Vasco 1015 1
+Mitzou 1067 1
+Kefalas 1094 1
+Mullen 1018 1
+Mullen 1018 1
+ -  1015 0
+ -  1026 1
+Mullen 1085 1
+ -  1067 1
+Mullen 1020 1
+Chontos 1093 1
+Mullen 1094 1
+Mullen 1094 1
+Lin 1074 1
+Mitzou 1067 1
+Zanni 1066 1
+Holden 1067 1
+Mullen 1067 1
+Sanna 1052 1
+Sanna 1067 0
+Burns 1026 1
+Hurst 1033 1
+Mullen 1018 1
+Mangas 1033 0
+Mullen 1054 1
+Sanna 1052 1
+Carver 1014 1
+Sotir 1060 1
+Sotir 1046 0
+Kappas 1046 1
+Mullen 1002 0
+Mullen 1058 1
+ -  1067 1
+Economos 1034 1
+Sotir 1091 1
+Burns 1053 1
+Sotir 1044 1
+Mullen 1018 1
+ -  1046 1
+Hernandez 1013 1
+ -  1011 1
+Sotir 1067 1
+Lin 1005 1
+Mangas 1005 0
+Mullen 1054 1
+ -  1067 1
+Sotir 1020 1
+Mullen 1020 1
+Mullen 1076 1
+Mullen 1010 1
+Sotir 1010 1
+ -  1018 1
+Dolan 1067 1
+Vlasopoulos 1067 1
+Sotir 1005 1
+Mullen 1067 1
+Hernandez 1054 1
+Nikitas 1013 1
+Sanna 1094 1
+Silverman 1046 1
+Mullen 1085 1
+Mullen 1067 1
+Iliopoulos 1073 1
+Sotir 1085 1
+Economos 1074 1
+Sanna 1005 1
+Mullen 1076 1
